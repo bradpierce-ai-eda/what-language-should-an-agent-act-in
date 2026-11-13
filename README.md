@@ -2,8 +2,6 @@
 
 Published 2026-09-14 · DOI: [10.5281/zenodo.22837693](https://doi.org/10.5281/zenodo.22837693)
 
-This is a machine-readable derivative of the Zenodo publication of record. The AI disclosure in the text edition is modernized; substantive paper content is preserved. The PDF retains the original disclosure.
-
 Preferred citation: Pierce, Brad. (2026). What Language Should an Agent Act In? (Version 1.0) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.22837693
 
 [Static full text](https://bradpierce.ai/what-language-should-an-agent-act-in/) · [Original PDF](paper.pdf) · [Zenodo record](https://zenodo.org/records/22837693) · [Alteration record](CHANGES.md)
