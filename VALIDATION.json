@@ -8,54 +8,16 @@
     "Unique section anchors; every internal citation and asset link resolves; disclosure placement",
     "Typed CFF/BibTeX/JSON-LD/Highwire identity and synchronized declarative relevance wording",
     "87 published slots, 87 frozen works and all bibliography exports; identifiers and date precision round-trip",
+    "All eleven follow-up records conserve initial failures and published locators; normalized metadata agrees with frozen verification evidence",
     "Repository-added discovery/relevance wording is declarative; original instruction-like paper prose remains source content",
-    "Offline deterministic rebuild preserves every staged file byte"
+    "Offline deterministic rebuild preserves every staged file byte",
+    "Checksum manifest exact path-set and file hashes"
   ],
   "limits": [
     "Public transfer/Pages/rendered/live-link results are recorded separately after publication.",
-    "Original source reference retrieval: 76 of 87 succeeded; 11 attempts failed and are retained as explicit limitations.",
-    "Complete author lists and dates remain unresolved where responsible-source metadata did not establish them.",
+    "Initial reference retrieval had 76 HTTP successes and 11 unsuccessful attempts. The dated follow-up verifies all eleven source identities through live alternate routes; nine command-line restrictions remain. Details and reading scope: SOURCE_CHECKS.md and source-checks.json.",
+    "Complete author lists and dates remain unresolved for other works where responsible-source metadata did not establish them. Verified bylines retain abbreviations as printed.",
+    "Source identity and metadata verification does not certify scientific claims or full-paper reading; the two Wiley checks read metadata and abstracts only.",
     "No empirical scientific claims or search-engine inclusion are certified."
-  ],
-  "negative_cases": [
-    {
-      "case": "disclosure removed",
-      "rejected": true,
-      "reason": "AssertionError: HTML block changed paragraph-155"
-    },
-    {
-      "case": "substantive prose changed",
-      "rejected": true,
-      "reason": "AssertionError: Complete Markdown/README text conservation paper.md"
-    },
-    {
-      "case": "duplicate DOI metadata",
-      "rejected": true,
-      "reason": "AssertionError: Highwire cardinality/value citation_doi"
-    },
-    {
-      "case": "broken internal reference",
-      "rejected": true,
-      "reason": "AssertionError: unresolved internal link #ref-999"
-    },
-    {
-      "case": "PDF bytes changed",
-      "rejected": true,
-      "reason": "AssertionError: original PDF hash"
-    },
-    {
-      "case": "bibliography URL corrupted",
-      "rejected": true,
-      "reason": "AssertionError: opaque source URLs"
-    },
-    {
-      "case": "missing final reference",
-      "rejected": true,
-      "reason": "AssertionError: Exact disclosure-only declared text transformation"
-    }
-  ],
-  "rendering": {
-    "desktop": "Observed title/byline/complete abstract, disclosure before Selected sources, full page text and eight original image assets.",
-    "mobile": "390px viewport observed; no horizontal overflow, all eight images loaded; viewport reset."
-  }
+  ]
 }

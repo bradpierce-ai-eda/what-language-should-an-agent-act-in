@@ -764,25 +764,62 @@
       "published_reference": "Building Effective Agents — Anthropic.",
       "published_attribution": "Anthropic.",
       "url": "https://www.anthropic.com/engineering/building-effective-agents",
-      "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "alternate_urls": [
+        "https://www.anthropic.com/research/building-effective-agents"
+      ],
+      "authors": [
+        {
+          "literal": "Erik S."
+        },
+        {
+          "given": "Barry",
+          "family": "Zhang"
+        }
+      ],
+      "date": [
+        2024,
+        12,
+        19
+      ],
       "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Permanent redirect from /engineering/ to /research/. Byline is Erik S. and Barry Zhang; the abbreviated name is retained without expansion. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.anthropic.com/research/building-effective-agents",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://www.anthropic.com/research/building-effective-agents",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "publication"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 308: Permanent Redirect",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Building effective agents",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": "10c436d0897a73e22eb32652ce24e940ab9568ae4fd7caac3bf93c25698d4fc0",
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 308: Permanent Redirect",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 3,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -792,25 +829,59 @@
       "published_reference": "Writing Effective Tools for Agents — Anthropic.",
       "published_attribution": "Anthropic.",
       "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
-      "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "alternate_urls": [
+        "https://www.anthropic.com/research/writing-tools-for-agents"
+      ],
+      "authors": [
+        {
+          "given": "Ken",
+          "family": "Aizawa"
+        }
+      ],
+      "date": [
+        2025,
+        9,
+        11
+      ],
       "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Permanent redirect from /engineering/ to /research/. The current heading adds “— with agents”; the published reference title is retained. Named contributors are not promoted to authors. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.anthropic.com/research/writing-tools-for-agents",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://www.anthropic.com/research/writing-tools-for-agents",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "publication"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 308: Permanent Redirect",
-        "authority_title": null,
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Writing effective tools for agents — with agents",
         "title_match": false,
-        "response_sha256": null
+        "source_identity_match": true,
+        "response_sha256": "b7a8641da82627e8f5a428130a066dc312987bddb7c77527eb014db74793fbec",
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 308: Permanent Redirect",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 4,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -951,24 +1022,56 @@
       "published_attribution": "OpenAI.",
       "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Michelle",
+          "family": "Pokrass"
+        }
+      ],
+      "date": [
+        2024,
+        8,
+        6
+      ],
       "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Live page identifies Michelle Pokrass as Author; core contributors and acknowledgments are distinct roles. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "publication"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Introducing Structured Outputs in the API",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 7,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -1122,24 +1225,115 @@
       "published_attribution": "OpenAI.",
       "url": "https://openai.com/index/introducing-swe-bench-verified/",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Neil",
+          "family": "Chowdhury"
+        },
+        {
+          "given": "James",
+          "family": "Aung"
+        },
+        {
+          "literal": "Chan Jun Shern"
+        },
+        {
+          "given": "Oliver",
+          "family": "Jaffe"
+        },
+        {
+          "given": "Dane",
+          "family": "Sherburn"
+        },
+        {
+          "given": "Giulio",
+          "family": "Starace"
+        },
+        {
+          "given": "Evan",
+          "family": "Mays"
+        },
+        {
+          "given": "Rachel",
+          "family": "Dias"
+        },
+        {
+          "given": "Marwan",
+          "family": "Aljubeh"
+        },
+        {
+          "given": "Mia",
+          "family": "Glaese"
+        },
+        {
+          "given": "Carlos E.",
+          "family": "Jimenez"
+        },
+        {
+          "given": "John",
+          "family": "Yang"
+        },
+        {
+          "given": "Leyton",
+          "family": "Ho"
+        },
+        {
+          "given": "Tejal",
+          "family": "Patwardhan"
+        },
+        {
+          "given": "Kevin",
+          "family": "Liu"
+        },
+        {
+          "given": "Aleksander",
+          "family": "Madry"
+        }
+      ],
+      "date": [
+        2024,
+        8,
+        13
+      ],
       "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Original publication date is distinct from the visible 2025-02-24 update. All sixteen names in the Authors block are retained in order. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://openai.com/index/introducing-swe-bench-verified/",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://openai.com/index/introducing-swe-bench-verified/",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "publication"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Introducing SWE-bench Verified",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 10,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -1383,10 +1577,31 @@
       "published_attribution": "Jung and colleagues.",
       "url": "https://dl.acm.org/doi/10.1145/3158154",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Ralf",
+          "family": "Jung"
+        },
+        {
+          "given": "Jacques-Henri",
+          "family": "Jourdan"
+        },
+        {
+          "given": "Robbert",
+          "family": "Krebbers"
+        },
+        {
+          "given": "Derek",
+          "family": "Dreyer"
+        }
+      ],
+      "date": [
+        2017,
+        12,
+        27
+      ],
       "doi": "10.1145/3158154",
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. ACM landing page and live Crossref record agree on title, four authors and online publication date. PACMPL volume 2, POPL, article 66, pages 1–34; 2018 issue year is distinct. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
@@ -1396,15 +1611,40 @@
         },
         "doi": {
           "authority_url": "https://dl.acm.org/doi/10.1145/3158154",
-          "channel": "exact published DOI locator"
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "explicit primary-work DOI for the observed version"
+        },
+        "authors": {
+          "authority_url": "https://dl.acm.org/doi/10.1145/3158154",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://dl.acm.org/doi/10.1145/3158154",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "published online"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "RustBelt: securing the foundations of the Rust programming language",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 16,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -1903,10 +2143,27 @@
       "published_attribution": "Joonwon Choi, Jaewoo Kim, and Jeehoon Kang.",
       "url": "https://dl.acm.org/doi/10.1145/3763084",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Joonwon",
+          "family": "Choi"
+        },
+        {
+          "given": "Jaewoo",
+          "family": "Kim"
+        },
+        {
+          "given": "Jeehoon",
+          "family": "Kang"
+        }
+      ],
+      "date": [
+        2025,
+        10,
+        9
+      ],
       "doi": "10.1145/3763084",
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. ACM landing page and live Crossref record agree. PACMPL volume 9, OOPSLA2, article 306, pages 950–977. Related software DOI 10.5281/zenodo.16923443 is not the paper DOI. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
@@ -1916,15 +2173,40 @@
         },
         "doi": {
           "authority_url": "https://dl.acm.org/doi/10.1145/3763084",
-          "channel": "exact published DOI locator"
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "explicit primary-work DOI for the observed version"
+        },
+        "authors": {
+          "authority_url": "https://dl.acm.org/doi/10.1145/3763084",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://dl.acm.org/doi/10.1145/3763084",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "publication"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Revamping Verilog Semantics for Foundational Verification",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 30,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -2437,24 +2719,56 @@
       "published_attribution": "Reuters.",
       "url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Stephen",
+          "family": "Nellis"
+        }
+      ],
+      "date": [
+        2026,
+        7,
+        15
+      ],
       "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Reuters page rendered after loading; heading uses a comma where the published reference says “and”. The byline and July 15, 2026 date match the intended Reuters report. No published wording corrected. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "publication"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 401: HTTP Forbidden",
-        "authority_title": null,
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Cadence rolls out AI agent to speed circuit board, chip packaging design",
         "title_match": false,
-        "response_sha256": null
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 401: HTTP Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 47,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -2521,24 +2835,80 @@
       "published_attribution": "BCG.",
       "url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Naila",
+          "family": "Dharani"
+        },
+        {
+          "given": "John",
+          "family": "Pineda"
+        },
+        {
+          "given": "Angel",
+          "family": "Andeyro"
+        },
+        {
+          "given": "Nate",
+          "family": "Hamming"
+        },
+        {
+          "given": "Yerim",
+          "family": "Kim"
+        },
+        {
+          "given": "Nipun",
+          "family": "Misra"
+        },
+        {
+          "given": "Akash",
+          "family": "Bhatia"
+        }
+      ],
+      "date": [
+        2025,
+        8,
+        13
+      ],
       "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Visible article heading includes Agentic AI and identifies seven authors. Visible ARTICLE AUGUST 13, 2025 governs the normalized date; embedded article:published_time and extraction publish_date instead say August 11. The conflict is preserved, not silently reconciled. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "visible article publication date"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Rethinking B2B Software Pricing in the Agentic AI Era",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 50,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -2577,10 +2947,23 @@
       "published_attribution": "Annabelle Gawer and Michael A. Cusumano.",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Annabelle",
+          "family": "Gawer"
+        },
+        {
+          "given": "Michael A.",
+          "family": "Cusumano"
+        }
+      ],
+      "date": [
+        2013,
+        9,
+        4
+      ],
       "doi": "10.1111/jpim.12105",
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Wiley title, two authors and DOI verified. First published 2013-09-04; volume 31, issue 3, May 2014, pages 417–433. The issue date is distinct. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
@@ -2590,15 +2973,40 @@
         },
         "doi": {
           "authority_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
-          "channel": "exact published DOI locator"
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "explicit primary-work DOI for the observed version"
+        },
+        "authors": {
+          "authority_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "first published online"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Industry Platforms and Ecosystem Innovation",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 52,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -2609,10 +3017,27 @@
       "published_attribution": "Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne.",
       "url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
+      "authors": [
+        {
+          "given": "Thomas",
+          "family": "Eisenmann"
+        },
+        {
+          "given": "Geoffrey",
+          "family": "Parker"
+        },
+        {
+          "given": "Marshall",
+          "family": "Van Alstyne"
+        }
+      ],
+      "date": [
+        2011,
+        5,
+        11
+      ],
       "doi": "10.1002/smj.935",
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Wiley title, three authors and DOI verified. Live citation_online_date is 2011/05/11; publication-history extraction labels that date Version of Record online and 2011-04-25 accepted manuscript online. Volume 32, issue 12, December 2011, pages 1270–1285. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
@@ -2622,15 +3047,40 @@
         },
         "doi": {
           "authority_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
-          "channel": "exact published DOI locator"
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "explicit primary-work DOI for the observed version"
+        },
+        "authors": {
+          "authority_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "version of record online"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Platform envelopment",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 53,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -3883,24 +4333,82 @@
       "published_attribution": "Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao.",
       "url": "https://www.preprints.org/manuscript/202603.1756",
       "alternate_urls": [],
-      "authors": null,
-      "date": null,
-      "doi": null,
-      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "authors": [
+        {
+          "given": "Chaoyue",
+          "family": "He"
+        },
+        {
+          "given": "Xin",
+          "family": "Zhou"
+        },
+        {
+          "given": "Di",
+          "family": "Wang"
+        },
+        {
+          "given": "Hong",
+          "family": "Xu"
+        },
+        {
+          "given": "Wei",
+          "family": "Liu"
+        },
+        {
+          "given": "Chunyan",
+          "family": "Miao"
+        }
+      ],
+      "date": [
+        2026,
+        4,
+        23
+      ],
+      "doi": "10.20944/preprints202603.1756.v2",
+      "metadata_note": "Follow-up source identity and metadata verified on 2026-11-12. Unversioned published URL currently displays version 2, posted April 23, 2026, with six authors and a version-specific DOI. Page labels it a preprint, not peer-reviewed. No claim about the date or identity of an earlier version, or which version a historical reader saw. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
       "field_provenance": {
         "title": {
           "authority": "exact Zenodo PDF reference string"
         },
         "url": {
           "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.preprints.org/manuscript/202603.1756",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "byline as printed"
+        },
+        "date": {
+          "authority_url": "https://www.preprints.org/manuscript/202603.1756",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "version 2 posted"
+        },
+        "doi": {
+          "authority_url": "https://www.preprints.org/manuscript/202603.1756",
+          "channel": "live responsible-source page; follow-up record source-checks.json",
+          "checked_on": "2026-11-12",
+          "scope": "explicit primary-work DOI for the observed version"
         }
       },
       "source_check": {
-        "status": null,
-        "error": "HTTP Error 403: Forbidden",
-        "authority_title": null,
-        "title_match": false,
-        "response_sha256": null
+        "status": "LIVE_PAGE_VERIFIED",
+        "error": null,
+        "authority_title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
+        "title_match": true,
+        "source_identity_match": true,
+        "response_sha256": null,
+        "initial_attempt": {
+          "status": null,
+          "error": "HTTP Error 403: Forbidden",
+          "authority_title": null,
+          "title_match": false,
+          "response_sha256": null
+        },
+        "followup_record": "source-checks.json",
+        "followup_slot": 74,
+        "reading_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading."
       }
     },
     {
@@ -4553,33 +5061,25 @@
     {
       "slot": 3,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Permanent redirect from /engineering/ to /research/. Byline is Erik S. and Barry Zhang; the abbreviated name is retained without expansion."
       ]
     },
     {
       "slot": 4,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Permanent redirect from /engineering/ to /research/. The current heading adds “— with agents”; the published reference title is retained. Named contributors are not promoted to authors."
       ]
     },
     {
       "slot": 7,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Live page identifies Michelle Pokrass as Author; core contributors and acknowledgments are distinct roles."
       ]
     },
     {
       "slot": 10,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Original publication date is distinct from the visible 2025-02-24 update. All sixteen names in the Authors block are retained in order."
       ]
     },
     {
@@ -4599,9 +5099,7 @@
     {
       "slot": 16,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "ACM landing page and live Crossref record agree on title, four authors and online publication date. PACMPL volume 2, POPL, article 66, pages 1–34; 2018 issue year is distinct."
       ]
     },
     {
@@ -4671,9 +5169,7 @@
     {
       "slot": 30,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "ACM landing page and live Crossref record agree. PACMPL volume 9, OOPSLA2, article 306, pages 950–977. Related software DOI 10.5281/zenodo.16923443 is not the paper DOI."
       ]
     },
     {
@@ -4779,9 +5275,7 @@
     {
       "slot": 47,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Reuters page rendered after loading; heading uses a comma where the published reference says “and”. The byline and July 15, 2026 date match the intended Reuters report. No published wording corrected."
       ]
     },
     {
@@ -4801,9 +5295,7 @@
     {
       "slot": 50,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Visible article heading includes Agentic AI and identifies seven authors. Visible ARTICLE AUGUST 13, 2025 governs the normalized date; embedded article:published_time and extraction publish_date instead say August 11. The conflict is preserved, not silently reconciled."
       ]
     },
     {
@@ -4816,17 +5308,13 @@
     {
       "slot": 52,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Wiley title, two authors and DOI verified. First published 2013-09-04; volume 31, issue 3, May 2014, pages 417–433. The issue date is distinct. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed."
       ]
     },
     {
       "slot": 53,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Wiley title, three authors and DOI verified. Live citation_online_date is 2011/05/11; publication-history extraction labels that date Version of Record online and 2011-04-25 accepted manuscript online. Volume 32, issue 12, December 2011, pages 1270–1285. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed."
       ]
     },
     {
@@ -4894,9 +5382,7 @@
     {
       "slot": 74,
       "limitations": [
-        "Complete author list unresolved; exact published attribution retained.",
-        "Publication date unresolved; no access or update date substituted.",
-        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+        "Unversioned published URL currently displays version 2, posted April 23, 2026, with six authors and a version-specific DOI. Page labels it a preprint, not peer-reviewed. No claim about the date or identity of an earlier version, or which version a historical reader saw."
       ]
     },
     {
@@ -4962,11 +5448,17 @@
     "links": 87,
     "composite_slots": 0,
     "reused_works": 0,
-    "complete_author_lists": 31,
-    "dates_verified": 30,
-    "doi_identifiers": 10,
+    "complete_author_lists": 42,
+    "dates_verified": 41,
+    "doi_identifiers": 11,
     "live_link_attempts": 87,
     "successful_http_acquisitions": 76,
-    "failed_retrieval_attempts": 11
+    "failed_retrieval_attempts": 11,
+    "http_acquisition_count_scope": "Initial reflection run only; historical 76 successes and 11 unsuccessful attempts retained.",
+    "followup_checks_completed": 11,
+    "followup_live_source_identities_verified": 11,
+    "followup_unresolved_source_identities": 0,
+    "followup_command_line_restrictions_remaining": 9,
+    "author_count_scope": "Complete bylines as printed, including the unexpanded Erik S. abbreviation."
   }
 }

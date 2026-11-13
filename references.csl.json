@@ -18,14 +18,47 @@
     "type": "webpage",
     "title": "Building Effective Agents",
     "URL": "https://www.anthropic.com/engineering/building-effective-agents",
-    "note": "Published attribution: Anthropic. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: Anthropic. Follow-up source identity and metadata verified on 2026-11-12. Permanent redirect from /engineering/ to /research/. Byline is Erik S. and Barry Zhang; the abbreviated name is retained without expansion. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "literal": "Erik S."
+      },
+      {
+        "given": "Barry",
+        "family": "Zhang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          19
+        ]
+      ]
+    }
   },
   {
     "id": "f080_ref_004",
     "type": "webpage",
     "title": "Writing Effective Tools for Agents",
     "URL": "https://www.anthropic.com/engineering/writing-tools-for-agents",
-    "note": "Published attribution: Anthropic. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: Anthropic. Follow-up source identity and metadata verified on 2026-11-12. Permanent redirect from /engineering/ to /research/. The current heading adds “— with agents”; the published reference title is retained. Named contributors are not promoted to authors. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Ken",
+        "family": "Aizawa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ]
+    }
   },
   {
     "id": "f080_ref_005",
@@ -108,7 +141,22 @@
     "type": "webpage",
     "title": "Introducing Structured Outputs in the API",
     "URL": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
-    "note": "Published attribution: OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: OpenAI. Follow-up source identity and metadata verified on 2026-11-12. Live page identifies Michelle Pokrass as Author; core contributors and acknowledgments are distinct roles. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Michelle",
+        "family": "Pokrass"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          6
+        ]
+      ]
+    }
   },
   {
     "id": "f080_ref_008",
@@ -204,7 +252,81 @@
     "type": "webpage",
     "title": "Introducing SWE-bench Verified",
     "URL": "https://openai.com/index/introducing-swe-bench-verified/",
-    "note": "Published attribution: OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: OpenAI. Follow-up source identity and metadata verified on 2026-11-12. Original publication date is distinct from the visible 2025-02-24 update. All sixteen names in the Authors block are retained in order. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Neil",
+        "family": "Chowdhury"
+      },
+      {
+        "given": "James",
+        "family": "Aung"
+      },
+      {
+        "literal": "Chan Jun Shern"
+      },
+      {
+        "given": "Oliver",
+        "family": "Jaffe"
+      },
+      {
+        "given": "Dane",
+        "family": "Sherburn"
+      },
+      {
+        "given": "Giulio",
+        "family": "Starace"
+      },
+      {
+        "given": "Evan",
+        "family": "Mays"
+      },
+      {
+        "given": "Rachel",
+        "family": "Dias"
+      },
+      {
+        "given": "Marwan",
+        "family": "Aljubeh"
+      },
+      {
+        "given": "Mia",
+        "family": "Glaese"
+      },
+      {
+        "given": "Carlos E.",
+        "family": "Jimenez"
+      },
+      {
+        "given": "John",
+        "family": "Yang"
+      },
+      {
+        "given": "Leyton",
+        "family": "Ho"
+      },
+      {
+        "given": "Tejal",
+        "family": "Patwardhan"
+      },
+      {
+        "given": "Kevin",
+        "family": "Liu"
+      },
+      {
+        "given": "Aleksander",
+        "family": "Madry"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          13
+        ]
+      ]
+    }
   },
   {
     "id": "f080_ref_011",
@@ -327,7 +449,34 @@
     "type": "webpage",
     "title": "RustBelt: Securing the Foundations of the Rust Programming Language",
     "URL": "https://dl.acm.org/doi/10.1145/3158154",
-    "note": "Published attribution: Jung and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "note": "Published attribution: Jung and colleagues. Follow-up source identity and metadata verified on 2026-11-12. ACM landing page and live Crossref record agree on title, four authors and online publication date. PACMPL volume 2, POPL, article 66, pages 1–34; 2018 issue year is distinct. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Ralf",
+        "family": "Jung"
+      },
+      {
+        "given": "Jacques-Henri",
+        "family": "Jourdan"
+      },
+      {
+        "given": "Robbert",
+        "family": "Krebbers"
+      },
+      {
+        "given": "Derek",
+        "family": "Dreyer"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          27
+        ]
+      ]
+    },
     "DOI": "10.1145/3158154"
   },
   {
@@ -531,7 +680,30 @@
     "type": "webpage",
     "title": "Revamping Verilog Semantics for Foundational Verification",
     "URL": "https://dl.acm.org/doi/10.1145/3763084",
-    "note": "Published attribution: Joonwon Choi, Jaewoo Kim, and Jeehoon Kang. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "note": "Published attribution: Joonwon Choi, Jaewoo Kim, and Jeehoon Kang. Follow-up source identity and metadata verified on 2026-11-12. ACM landing page and live Crossref record agree. PACMPL volume 9, OOPSLA2, article 306, pages 950–977. Related software DOI 10.5281/zenodo.16923443 is not the paper DOI. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Joonwon",
+        "family": "Choi"
+      },
+      {
+        "given": "Jaewoo",
+        "family": "Kim"
+      },
+      {
+        "given": "Jeehoon",
+        "family": "Kang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ]
+    },
     "DOI": "10.1145/3763084"
   },
   {
@@ -694,7 +866,22 @@
     "type": "webpage",
     "title": "Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design",
     "URL": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
-    "note": "Published attribution: Reuters. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: Reuters. Follow-up source identity and metadata verified on 2026-11-12. Reuters page rendered after loading; heading uses a comma where the published reference says “and”. The byline and July 15, 2026 date match the intended Reuters report. No published wording corrected. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Stephen",
+        "family": "Nellis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ]
+    }
   },
   {
     "id": "f080_ref_048",
@@ -715,7 +902,46 @@
     "type": "webpage",
     "title": "Rethinking B2B Software Pricing in the Agentic AI Era",
     "URL": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
-    "note": "Published attribution: BCG. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: BCG. Follow-up source identity and metadata verified on 2026-11-12. Visible article heading includes Agentic AI and identifies seven authors. Visible ARTICLE AUGUST 13, 2025 governs the normalized date; embedded article:published_time and extraction publish_date instead say August 11. The conflict is preserved, not silently reconciled. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Naila",
+        "family": "Dharani"
+      },
+      {
+        "given": "John",
+        "family": "Pineda"
+      },
+      {
+        "given": "Angel",
+        "family": "Andeyro"
+      },
+      {
+        "given": "Nate",
+        "family": "Hamming"
+      },
+      {
+        "given": "Yerim",
+        "family": "Kim"
+      },
+      {
+        "given": "Nipun",
+        "family": "Misra"
+      },
+      {
+        "given": "Akash",
+        "family": "Bhatia"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          13
+        ]
+      ]
+    }
   },
   {
     "id": "f080_ref_051",
@@ -729,7 +955,26 @@
     "type": "webpage",
     "title": "Industry Platforms and Ecosystem Innovation",
     "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
-    "note": "Published attribution: Annabelle Gawer and Michael A. Cusumano. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "note": "Published attribution: Annabelle Gawer and Michael A. Cusumano. Follow-up source identity and metadata verified on 2026-11-12. Wiley title, two authors and DOI verified. First published 2013-09-04; volume 31, issue 3, May 2014, pages 417–433. The issue date is distinct. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Annabelle",
+        "family": "Gawer"
+      },
+      {
+        "given": "Michael A.",
+        "family": "Cusumano"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9,
+          4
+        ]
+      ]
+    },
     "DOI": "10.1111/jpim.12105"
   },
   {
@@ -737,7 +982,30 @@
     "type": "webpage",
     "title": "Platform Envelopment",
     "URL": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
-    "note": "Published attribution: Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "note": "Published attribution: Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne. Follow-up source identity and metadata verified on 2026-11-12. Wiley title, three authors and DOI verified. Live citation_online_date is 2011/05/11; publication-history extraction labels that date Version of Record online and 2011-04-25 accepted manuscript online. Volume 32, issue 12, December 2011, pages 1270–1285. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Thomas",
+        "family": "Eisenmann"
+      },
+      {
+        "given": "Geoffrey",
+        "family": "Parker"
+      },
+      {
+        "given": "Marshall",
+        "family": "Van Alstyne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          11
+        ]
+      ]
+    },
     "DOI": "10.1002/smj.935"
   },
   {
@@ -1507,7 +1775,43 @@
     "type": "webpage",
     "title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
     "URL": "https://www.preprints.org/manuscript/202603.1756",
-    "note": "Published attribution: Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+    "note": "Published attribution: Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao. Follow-up source identity and metadata verified on 2026-11-12. Unversioned published URL currently displays version 2, posted April 23, 2026, with six authors and a version-specific DOI. Page labels it a preprint, not peer-reviewed. No claim about the date or identity of an earlier version, or which version a historical reader saw. Initial failed retrieval retained in source_check.initial_attempt; route details in source-checks.json.",
+    "author": [
+      {
+        "given": "Chaoyue",
+        "family": "He"
+      },
+      {
+        "given": "Xin",
+        "family": "Zhou"
+      },
+      {
+        "given": "Di",
+        "family": "Wang"
+      },
+      {
+        "given": "Hong",
+        "family": "Xu"
+      },
+      {
+        "given": "Wei",
+        "family": "Liu"
+      },
+      {
+        "given": "Chunyan",
+        "family": "Miao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.20944/preprints202603.1756.v2"
   },
   {
     "id": "f080_ref_075",

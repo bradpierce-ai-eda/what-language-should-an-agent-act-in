@@ -75,6 +75,16 @@ for w,c,bb,rr in zip(bib['works'],csl,bibx,ris):
   if len(w['date'])>2:check(str(w['date'][2])==bb['day'],'BibTeX day')
  check(w['doi']==c.get('DOI')==bb.get('doi'),'DOI round trip')
 passed('87 published slots, 87 frozen works and all bibliography exports; identifiers and date precision round-trip')
+followup=j('source-checks.json');followups=followup['checks']
+check({c['slot'] for c in followups}=={3,4,7,10,16,30,47,50,52,53,74} and len(followups)==11,'eleven follow-up checks')
+for c in followups:
+ w=next(w for w in bib['works'] if w['slot']==c['slot'])
+ check(w['url']==c['published_url'] and w['title']==c['published_title'],'published locator/title conserved')
+ check(w['source_check']['initial_attempt']==c['initial_attempt'],'initial failure evidence conserved')
+ check(w['authors']==c['verified_authors'] and w['date']==c['normalized_date'],'follow-up metadata/export input consistency')
+ check(c['disposition']=='SOURCE_IDENTITY_AND_METADATA_VERIFIED' and bool(c['live_verification']['verified_url']),'follow-up disposition/provenance')
+check(followup['summary']['unresolved_source_identities']==0,'follow-up summary')
+passed('All eleven follow-up records conserve initial failures and published locators; normalized metadata agrees with frozen verification evidence')
 for name in ['README.md','index.html','metadata.json','CITATION.cff','PROVENANCE.md','CHANGES.md']:
  content=read(name)
  if name=='README.md':content=content.split('<!-- BEGIN PAPER -->')[0]
@@ -95,4 +105,4 @@ if (R/'checksums.sha256').exists():
  check(set(manifest)==actual,'checksum path-set equality')
  for name,sha in manifest.items():check(hashlib.sha256((R/name).read_bytes()).hexdigest()==sha,'checksum '+name)
  passed('Checksum manifest exact path-set and file hashes')
-print(json.dumps({'result':'PASS','checks':checks,'limits':['Public transfer/Pages/rendered/live-link results are recorded separately after publication.','Original source reference retrieval: 76 of 87 succeeded; 11 attempts failed and are retained as explicit limitations.','Complete author lists and dates remain unresolved where responsible-source metadata did not establish them.','No empirical scientific claims or search-engine inclusion are certified.']},indent=2))
+print(json.dumps({'result':'PASS','checks':checks,'limits':['Public transfer/Pages/rendered/live-link results are recorded separately after publication.','Initial reference retrieval had 76 HTTP successes and 11 unsuccessful attempts. The dated follow-up verifies all eleven source identities through live alternate routes; nine command-line restrictions remain. Details and reading scope: SOURCE_CHECKS.md and source-checks.json.','Complete author lists and dates remain unresolved for other works where responsible-source metadata did not establish them. Verified bylines retain abbreviations as printed.','Source identity and metadata verification does not certify scientific claims or full-paper reading; the two Wiley checks read metadata and abstracts only.','No empirical scientific claims or search-engine inclusion are certified.']},indent=2))

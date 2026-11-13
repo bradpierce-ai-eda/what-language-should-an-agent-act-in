@@ -23,5 +23,21 @@
     "figures": 8,
     "published_reference_slots": 87
   },
-  "validation_status": "Local validation evidence in VALIDATION.json; public transfer and live verification recorded separately in the durable Drive execution record."
+  "validation_status": "Local validation evidence in VALIDATION.json; public transfer and live verification recorded separately in the durable Drive execution record.",
+  "reference_source_followup": {
+    "report": "SOURCE_CHECKS.md",
+    "data": "source-checks.json",
+    "checked_on": "2026-11-12 America/Los_Angeles",
+    "summary": {
+      "initial_reference_attempts": 87,
+      "initial_http_successes": 76,
+      "initial_unsuccessful_attempts": 11,
+      "followup_checks_completed": 11,
+      "live_source_identities_verified": 11,
+      "unresolved_source_identities": 0,
+      "redirects_resolved": 2,
+      "command_line_access_restrictions_remaining": 9
+    },
+    "scope": "Source identity, metadata and live access; no new scientific claim audit or full scholarly rereading."
+  }
 }

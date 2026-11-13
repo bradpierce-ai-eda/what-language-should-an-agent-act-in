@@ -7,3 +7,7 @@ Original file: `what-language-should-an-agent-act-in.pdf`, 1,579,156 bytes, 23 p
 All 241 source text blocks matched the downloaded PDF in sequence after PDF line-wrap whitespace and bullet/automatic-label normalization. Eight original figure images are retained. Source bibliography labels and links are preserved. Full machine-readable provenance is in [provenance.json](provenance.json); the authorized disclosure alteration is in [CHANGES.md](CHANGES.md). The source publication itself has not been modified.
 
 The frozen bibliography retains each exact published reference independently of normalized fields. Missing dates and complete authorship remain explicitly unresolved where a responsible source did not verify them; no inferred dates or names are installed.
+
+## Reference-source follow-up — 2026-11-12
+
+The 2026-11-12 follow-up completed all eleven initially unsuccessful reference-source checks: eleven live source identities and their metadata verified, zero source identities unresolved. Two Anthropic redirects resolved with HTTP 200; nine other URLs still restricted command-line retrieval but rendered at their publisher destinations in the browser. The initial 76/11 HTTP acquisition counts remain historical. Verification scope and date/version distinctions are recorded in [SOURCE_CHECKS.md](SOURCE_CHECKS.md) and [source-checks.json](source-checks.json). This follow-up updates repository bibliography metadata and verification records; published references, paper text, figures and PDF are unchanged.

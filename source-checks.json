@@ -1,0 +1,801 @@
+{
+  "schema_version": 1,
+  "source_doi": "10.5281/zenodo.22837693",
+  "checked_on": "2026-11-12 America/Los_Angeles",
+  "checked_at_utc": "2026-11-13T03:36:08Z",
+  "purpose": "Close the eleven initially unsuccessful source retrieval checks without modifying the publication of record or its reference wording.",
+  "summary": {
+    "initial_reference_attempts": 87,
+    "initial_http_successes": 76,
+    "initial_unsuccessful_attempts": 11,
+    "followup_checks_completed": 11,
+    "live_source_identities_verified": 11,
+    "unresolved_source_identities": 0,
+    "redirects_resolved": 2,
+    "command_line_access_restrictions_remaining": 9
+  },
+  "scope_and_limits": [
+    "This is source identity, metadata and live access verification, not a rereview of the eleven works or certification of the citing paper’s scientific claims.",
+    "All inspected source material was original English; no translation or second-hand scholarly reconstruction was used.",
+    "Two Anthropic redirects yielded HTTP 200 after following redirects. Nine other URLs still refused command-line requests, but their intended publisher pages rendered in the browser. No CAPTCHA, paywall or browser security warning was bypassed.",
+    "The Wiley checks inspected metadata and abstracts, not full article bodies. Other checks inspected headings, bylines, date/version metadata and opening material, with relevant byline/footer blocks.",
+    "Parallel extraction acquisition dates are retained as reported; older extraction responses are corroboration, not live-freshness proof.",
+    "The original 76/11 acquisition result remains historical evidence. It is not replaced with a claim that all 87 original URLs now return HTTP 200.",
+    "Published reference strings and URLs, source blocks, text-edition prose, figures and original PDF are unchanged. Normalized bibliography fields and verification/provenance records are repository additions."
+  ],
+  "checks": [
+    {
+      "slot": 3,
+      "id": "f080_ref_003",
+      "published_title": "Building Effective Agents",
+      "published_url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 308: Permanent Redirect",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Building effective agents",
+      "verified_authors": [
+        {
+          "literal": "Erik S."
+        },
+        {
+          "given": "Barry",
+          "family": "Zhang"
+        }
+      ],
+      "normalized_date": [
+        2024,
+        12,
+        19
+      ],
+      "date_role": "publication",
+      "other_dates": {},
+      "verified_doi": null,
+      "live_verification": {
+        "route": "redirect-aware live HTTP retrieval",
+        "verified_url": "https://www.anthropic.com/research/building-effective-agents",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": 200,
+        "http_status_note": "HTTP status observed by curl.",
+        "response_sha256": "10c436d0897a73e22eb32652ce24e940ab9568ae4fd7caac3bf93c25698d4fc0"
+      },
+      "direct_http_followup": {
+        "reference": 3,
+        "original_url": "https://www.anthropic.com/engineering/building-effective-agents",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.551397+00:00",
+        "returncode": 0,
+        "result": "200 https://www.anthropic.com/research/building-effective-agents text/html; charset=utf-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_59714d7673b63135f07940b50352abac",
+        "acquired_at": "2026-11-07T00:00:00Z",
+        "title": "Building effective AI agents \\ Anthropic",
+        "publish_date": "2024-12-19",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Permanent redirect from /engineering/ to /research/. Byline is Erik S. and Barry Zhang; the abbreviated name is retained without expansion."
+    },
+    {
+      "slot": 4,
+      "id": "f080_ref_004",
+      "published_title": "Writing Effective Tools for Agents",
+      "published_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 308: Permanent Redirect",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Writing effective tools for agents — with agents",
+      "verified_authors": [
+        {
+          "given": "Ken",
+          "family": "Aizawa"
+        }
+      ],
+      "normalized_date": [
+        2025,
+        9,
+        11
+      ],
+      "date_role": "publication",
+      "other_dates": {},
+      "verified_doi": null,
+      "live_verification": {
+        "route": "redirect-aware live HTTP retrieval",
+        "verified_url": "https://www.anthropic.com/research/writing-tools-for-agents",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": 200,
+        "http_status_note": "HTTP status observed by curl.",
+        "response_sha256": "b7a8641da82627e8f5a428130a066dc312987bddb7c77527eb014db74793fbec"
+      },
+      "direct_http_followup": {
+        "reference": 4,
+        "original_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.446502+00:00",
+        "returncode": 0,
+        "result": "200 https://www.anthropic.com/research/writing-tools-for-agents text/html; charset=utf-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_59714d7673b63135f07940b50352abac",
+        "acquired_at": "2026-11-08T00:00:00Z",
+        "title": "Writing effective tools for AI agents \\ Anthropic",
+        "publish_date": "2025-09-11",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Permanent redirect from /engineering/ to /research/. The current heading adds “— with agents”; the published reference title is retained. Named contributors are not promoted to authors."
+    },
+    {
+      "slot": 7,
+      "id": "f080_ref_007",
+      "published_title": "Introducing Structured Outputs in the API",
+      "published_url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Introducing Structured Outputs in the API",
+      "verified_authors": [
+        {
+          "given": "Michelle",
+          "family": "Pokrass"
+        }
+      ],
+      "normalized_date": [
+        2024,
+        8,
+        6
+      ],
+      "date_role": "publication",
+      "other_dates": {},
+      "verified_doi": null,
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 7,
+        "original_url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.027183+00:00",
+        "returncode": 0,
+        "result": "403 https://openai.com/index/introducing-structured-outputs-in-the-api/ text/html; charset=UTF-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_59714d7673b63135f07940b50352abac",
+        "acquired_at": "2026-10-23T00:00:00Z",
+        "title": "Introducing Structured Outputs in the API | OpenAI",
+        "publish_date": null,
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Live page identifies Michelle Pokrass as Author; core contributors and acknowledgments are distinct roles."
+    },
+    {
+      "slot": 10,
+      "id": "f080_ref_010",
+      "published_title": "Introducing SWE-bench Verified",
+      "published_url": "https://openai.com/index/introducing-swe-bench-verified/",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Introducing SWE-bench Verified",
+      "verified_authors": [
+        {
+          "given": "Neil",
+          "family": "Chowdhury"
+        },
+        {
+          "given": "James",
+          "family": "Aung"
+        },
+        {
+          "literal": "Chan Jun Shern"
+        },
+        {
+          "given": "Oliver",
+          "family": "Jaffe"
+        },
+        {
+          "given": "Dane",
+          "family": "Sherburn"
+        },
+        {
+          "given": "Giulio",
+          "family": "Starace"
+        },
+        {
+          "given": "Evan",
+          "family": "Mays"
+        },
+        {
+          "given": "Rachel",
+          "family": "Dias"
+        },
+        {
+          "given": "Marwan",
+          "family": "Aljubeh"
+        },
+        {
+          "given": "Mia",
+          "family": "Glaese"
+        },
+        {
+          "given": "Carlos E.",
+          "family": "Jimenez"
+        },
+        {
+          "given": "John",
+          "family": "Yang"
+        },
+        {
+          "given": "Leyton",
+          "family": "Ho"
+        },
+        {
+          "given": "Tejal",
+          "family": "Patwardhan"
+        },
+        {
+          "given": "Kevin",
+          "family": "Liu"
+        },
+        {
+          "given": "Aleksander",
+          "family": "Madry"
+        }
+      ],
+      "normalized_date": [
+        2024,
+        8,
+        13
+      ],
+      "date_role": "publication",
+      "other_dates": {
+        "updated": "2025-02-24"
+      },
+      "verified_doi": null,
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://openai.com/index/introducing-swe-bench-verified/",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 10,
+        "original_url": "https://openai.com/index/introducing-swe-bench-verified/",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.028414+00:00",
+        "returncode": 0,
+        "result": "403 https://openai.com/index/introducing-swe-bench-verified/ text/html; charset=UTF-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_59714d7673b63135f07940b50352abac",
+        "acquired_at": "2026-10-23T00:00:00Z",
+        "title": "Introducing SWE-bench Verified | OpenAI",
+        "publish_date": null,
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Original publication date is distinct from the visible 2025-02-24 update. All sixteen names in the Authors block are retained in order."
+    },
+    {
+      "slot": 16,
+      "id": "f080_ref_016",
+      "published_title": "RustBelt: Securing the Foundations of the Rust Programming Language",
+      "published_url": "https://dl.acm.org/doi/10.1145/3158154",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "RustBelt: securing the foundations of the Rust programming language",
+      "verified_authors": [
+        {
+          "given": "Ralf",
+          "family": "Jung"
+        },
+        {
+          "given": "Jacques-Henri",
+          "family": "Jourdan"
+        },
+        {
+          "given": "Robbert",
+          "family": "Krebbers"
+        },
+        {
+          "given": "Derek",
+          "family": "Dreyer"
+        }
+      ],
+      "normalized_date": [
+        2017,
+        12,
+        27
+      ],
+      "date_role": "published online",
+      "other_dates": {
+        "issue": "2018-01"
+      },
+      "verified_doi": "10.1145/3158154",
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://dl.acm.org/doi/10.1145/3158154",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 16,
+        "original_url": "https://dl.acm.org/doi/10.1145/3158154",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.034670+00:00",
+        "returncode": 0,
+        "result": "403 https://dl.acm.org/doi/10.1145/3158154 text/html; charset=UTF-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_0d08a0f20b4e2a359483c7902a21f7cc",
+        "acquired_at": "2026-11-12T00:00:00Z",
+        "title": "RustBelt: securing the foundations of the Rust programming language | Proceedings of the ACM on Programming Languages",
+        "publish_date": "2017-12-27",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "ACM landing page and live Crossref record agree on title, four authors and online publication date. PACMPL volume 2, POPL, article 66, pages 1–34; 2018 issue year is distinct.",
+      "registry_verification": {
+        "url": "https://api.crossref.org/works/10.1145%2F3158154",
+        "retrieved_on_utc": "2026-11-13",
+        "response_sha256": "ff8b1b3b56c42ebfd8b3f2ea4d56b8680c749a2dcaf537622774a5f8b3fd5ce4",
+        "result": "Title, authors and publication date agree with the publisher."
+      }
+    },
+    {
+      "slot": 30,
+      "id": "f080_ref_030",
+      "published_title": "Revamping Verilog Semantics for Foundational Verification",
+      "published_url": "https://dl.acm.org/doi/10.1145/3763084",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Revamping Verilog Semantics for Foundational Verification",
+      "verified_authors": [
+        {
+          "given": "Joonwon",
+          "family": "Choi"
+        },
+        {
+          "given": "Jaewoo",
+          "family": "Kim"
+        },
+        {
+          "given": "Jeehoon",
+          "family": "Kang"
+        }
+      ],
+      "normalized_date": [
+        2025,
+        10,
+        9
+      ],
+      "date_role": "publication",
+      "other_dates": {},
+      "verified_doi": "10.1145/3763084",
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://dl.acm.org/doi/10.1145/3763084",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 30,
+        "original_url": "https://dl.acm.org/doi/10.1145/3763084",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.314105+00:00",
+        "returncode": 0,
+        "result": "403 https://dl.acm.org/doi/10.1145/3763084 text/html; charset=UTF-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_0d08a0f20b4e2a359483c7902a21f7cc",
+        "acquired_at": "2026-08-21T00:00:00Z",
+        "title": "Revamping Verilog Semantics for Foundational Verification | Proceedings of the ACM on Programming Languages",
+        "publish_date": "2025-10-09",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "ACM landing page and live Crossref record agree. PACMPL volume 9, OOPSLA2, article 306, pages 950–977. Related software DOI 10.5281/zenodo.16923443 is not the paper DOI.",
+      "registry_verification": {
+        "url": "https://api.crossref.org/works/10.1145%2F3763084",
+        "retrieved_on_utc": "2026-11-13",
+        "response_sha256": "efc30659b8fd6108e0ca101ad412998b9a3e917642ca4be43d2abb9014d15487",
+        "result": "Title, authors and publication date agree with the publisher."
+      }
+    },
+    {
+      "slot": 47,
+      "id": "f080_ref_047",
+      "published_title": "Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design",
+      "published_url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 401: HTTP Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Cadence rolls out AI agent to speed circuit board, chip packaging design",
+      "verified_authors": [
+        {
+          "given": "Stephen",
+          "family": "Nellis"
+        }
+      ],
+      "normalized_date": [
+        2026,
+        7,
+        15
+      ],
+      "date_role": "publication",
+      "other_dates": {},
+      "verified_doi": null,
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 47,
+        "original_url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.317615+00:00",
+        "returncode": 0,
+        "result": "401 https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/ text/html;charset=utf-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_22c69bfe00e923ef7e441c8e240cc901",
+        "acquired_at": "2026-09-30T00:00:00Z",
+        "title": "Cadence rolls out AI agent to speed circuit board, chip packaging design | Reuters",
+        "publish_date": "2026-07-15",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Reuters page rendered after loading; heading uses a comma where the published reference says “and”. The byline and July 15, 2026 date match the intended Reuters report. No published wording corrected."
+    },
+    {
+      "slot": 50,
+      "id": "f080_ref_050",
+      "published_title": "Rethinking B2B Software Pricing in the Agentic AI Era",
+      "published_url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Rethinking B2B Software Pricing in the Agentic AI Era",
+      "verified_authors": [
+        {
+          "given": "Naila",
+          "family": "Dharani"
+        },
+        {
+          "given": "John",
+          "family": "Pineda"
+        },
+        {
+          "given": "Angel",
+          "family": "Andeyro"
+        },
+        {
+          "given": "Nate",
+          "family": "Hamming"
+        },
+        {
+          "given": "Yerim",
+          "family": "Kim"
+        },
+        {
+          "given": "Nipun",
+          "family": "Misra"
+        },
+        {
+          "given": "Akash",
+          "family": "Bhatia"
+        }
+      ],
+      "normalized_date": [
+        2025,
+        8,
+        13
+      ],
+      "date_role": "visible article publication date",
+      "other_dates": {
+        "embedded_article_published_time": "2025-08-11T21:17:11.559"
+      },
+      "verified_doi": null,
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 50,
+        "original_url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.428718+00:00",
+        "returncode": 0,
+        "result": "403 https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai text/html",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_22c69bfe00e923ef7e441c8e240cc901",
+        "acquired_at": "2026-11-04T00:00:00Z",
+        "title": "Rethinking B2B Software Pricing in the Era of AI | BCG",
+        "publish_date": "2025-08-11",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Visible article heading includes Agentic AI and identifies seven authors. Visible ARTICLE AUGUST 13, 2025 governs the normalized date; embedded article:published_time and extraction publish_date instead say August 11. The conflict is preserved, not silently reconciled."
+    },
+    {
+      "slot": 52,
+      "id": "f080_ref_052",
+      "published_title": "Industry Platforms and Ecosystem Innovation",
+      "published_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Industry Platforms and Ecosystem Innovation",
+      "verified_authors": [
+        {
+          "given": "Annabelle",
+          "family": "Gawer"
+        },
+        {
+          "given": "Michael A.",
+          "family": "Cusumano"
+        }
+      ],
+      "normalized_date": [
+        2013,
+        9,
+        4
+      ],
+      "date_role": "first published online",
+      "other_dates": {
+        "journal_issue": "2014-05",
+        "citation_publication_date": "2014-05-01"
+      },
+      "verified_doi": "10.1111/jpim.12105",
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 52,
+        "original_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.565240+00:00",
+        "returncode": 0,
+        "result": "403 https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105 text/html; charset=UTF-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_0d08a0f20b4e2a359483c7902a21f7cc",
+        "acquired_at": "2026-11-03T00:00:00Z",
+        "title": "Industry Platforms and Ecosystem Innovation - Gawer - 2014 - Journal of Product Innovation Management - Wiley Online Library",
+        "publish_date": "2014-05-01",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Wiley title, two authors and DOI verified. First published 2013-09-04; volume 31, issue 3, May 2014, pages 417–433. The issue date is distinct. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed."
+    },
+    {
+      "slot": 53,
+      "id": "f080_ref_053",
+      "published_title": "Platform Envelopment",
+      "published_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Platform envelopment",
+      "verified_authors": [
+        {
+          "given": "Thomas",
+          "family": "Eisenmann"
+        },
+        {
+          "given": "Geoffrey",
+          "family": "Parker"
+        },
+        {
+          "given": "Marshall",
+          "family": "Van Alstyne"
+        }
+      ],
+      "normalized_date": [
+        2011,
+        5,
+        11
+      ],
+      "date_role": "version of record online",
+      "other_dates": {
+        "first_published_accepted_manuscript": "2011-04-25",
+        "issue_online": "2011-10-03",
+        "journal_issue": "2011-12",
+        "citation_publication_date": "2011-12-01"
+      },
+      "verified_doi": "10.1002/smj.935",
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 53,
+        "original_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.565406+00:00",
+        "returncode": 0,
+        "result": "403 https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935 text/html; charset=UTF-8",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_0d08a0f20b4e2a359483c7902a21f7cc",
+        "acquired_at": "2026-08-27T00:00:00Z",
+        "title": "Platform envelopment - Eisenmann - 2011 - Strategic Management Journal - Wiley Online Library",
+        "publish_date": "2011-12-01",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Wiley title, three authors and DOI verified. Live citation_online_date is 2011/05/11; publication-history extraction labels that date Version of Record online and 2011-04-25 accepted manuscript online. Volume 32, issue 12, December 2011, pages 1270–1285. Reading scope: article identity, bibliographic metadata and abstract; full article body not reviewed."
+    },
+    {
+      "slot": 74,
+      "id": "f080_ref_074",
+      "published_title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
+      "published_url": "https://www.preprints.org/manuscript/202603.1756",
+      "initial_attempt": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      },
+      "disposition": "SOURCE_IDENTITY_AND_METADATA_VERIFIED",
+      "verification_scope": "Original-English title/heading, byline, date/version metadata and opening material inspected; no new substantive claim audit or full scholarly rereading.",
+      "verified_title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
+      "verified_authors": [
+        {
+          "given": "Chaoyue",
+          "family": "He"
+        },
+        {
+          "given": "Xin",
+          "family": "Zhou"
+        },
+        {
+          "given": "Di",
+          "family": "Wang"
+        },
+        {
+          "given": "Hong",
+          "family": "Xu"
+        },
+        {
+          "given": "Wei",
+          "family": "Liu"
+        },
+        {
+          "given": "Chunyan",
+          "family": "Miao"
+        }
+      ],
+      "normalized_date": [
+        2026,
+        4,
+        23
+      ],
+      "date_role": "version 2 posted",
+      "other_dates": {
+        "version_2_submitted": "2026-04-21"
+      },
+      "verified_doi": "10.20944/preprints202603.1756.v2",
+      "live_verification": {
+        "route": "live rendered publisher page in the in-app browser",
+        "verified_url": "https://www.preprints.org/manuscript/202603.1756",
+        "observed_on": "2026-11-12 America/Los_Angeles",
+        "observation_window_utc": "2026-11-13T03:28:00Z/2026-11-13T03:36:08Z",
+        "http_status": null,
+        "http_status_note": "Rendered page observed; no browser HTTP status inferred."
+      },
+      "direct_http_followup": {
+        "reference": 74,
+        "original_url": "https://www.preprints.org/manuscript/202603.1756",
+        "route": "direct live curl; redirects enabled; Cache-Control no-cache",
+        "retrieved_utc": "2026-11-13T03:28:13.637874+00:00",
+        "returncode": 0,
+        "result": "403 https://www.preprints.org/manuscript/202603.1756 text/html",
+        "error": ""
+      },
+      "parallel_extraction": {
+        "extract_id": "extract_0d08a0f20b4e2a359483c7902a21f7cc",
+        "acquired_at": "2026-11-09T00:00:00Z",
+        "title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime[v2] | Preprints.org",
+        "publish_date": "2026-04-23",
+        "freshness_limit": "Requested live fetch; returned acquisition date is retained. This extraction alone is not evidence of current page state."
+      },
+      "notes": "Unversioned published URL currently displays version 2, posted April 23, 2026, with six authors and a version-specific DOI. Page labels it a preprint, not peer-reviewed. No claim about the date or identity of an earlier version, or which version a historical reader saw."
+    }
+  ]
+}
