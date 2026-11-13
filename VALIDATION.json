@@ -1,0 +1,61 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Exact disclosure-only delta; every other source block preserved in order",
+    "All 241 source text blocks sequentially match original PDF through two extraction engines",
+    "Eight original image-byte matches and unchanged original PDF",
+    "Every HTML block and complete parsed Markdown/README body matches frozen derivative",
+    "Unique section anchors; every internal citation and asset link resolves; disclosure placement",
+    "Typed CFF/BibTeX/JSON-LD/Highwire identity and synchronized declarative relevance wording",
+    "87 published slots, 87 frozen works and all bibliography exports; identifiers and date precision round-trip",
+    "Repository-added discovery/relevance wording is declarative; original instruction-like paper prose remains source content",
+    "Offline deterministic rebuild preserves every staged file byte"
+  ],
+  "limits": [
+    "Public transfer/Pages/rendered/live-link results are recorded separately after publication.",
+    "Original source reference retrieval: 76 of 87 succeeded; 11 attempts failed and are retained as explicit limitations.",
+    "Complete author lists and dates remain unresolved where responsible-source metadata did not establish them.",
+    "No empirical scientific claims or search-engine inclusion are certified."
+  ],
+  "negative_cases": [
+    {
+      "case": "disclosure removed",
+      "rejected": true,
+      "reason": "AssertionError: HTML block changed paragraph-155"
+    },
+    {
+      "case": "substantive prose changed",
+      "rejected": true,
+      "reason": "AssertionError: Complete Markdown/README text conservation paper.md"
+    },
+    {
+      "case": "duplicate DOI metadata",
+      "rejected": true,
+      "reason": "AssertionError: Highwire cardinality/value citation_doi"
+    },
+    {
+      "case": "broken internal reference",
+      "rejected": true,
+      "reason": "AssertionError: unresolved internal link #ref-999"
+    },
+    {
+      "case": "PDF bytes changed",
+      "rejected": true,
+      "reason": "AssertionError: original PDF hash"
+    },
+    {
+      "case": "bibliography URL corrupted",
+      "rejected": true,
+      "reason": "AssertionError: opaque source URLs"
+    },
+    {
+      "case": "missing final reference",
+      "rejected": true,
+      "reason": "AssertionError: Exact disclosure-only declared text transformation"
+    }
+  ],
+  "rendering": {
+    "desktop": "Observed title/byline/complete abstract, disclosure before Selected sources, full page text and eight original image assets.",
+    "mobile": "390px viewport observed; no horizontal overflow, all eight images loaded; viewport reset."
+  }
+}

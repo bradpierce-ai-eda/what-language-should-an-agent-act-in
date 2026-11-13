@@ -1,0 +1,28 @@
+{
+  "authorized_change": "AI disclosure only",
+  "removed_front_matter": [
+    "Author and collaboration",
+    "Brad Pierce in collaboration with an AI language model",
+    "Contribution statement",
+    "Brad supplied the originating questions, professional context, intended audience, substantive judgments about attribution and scope, and final editorial authority. An AI language model materially assisted with research, synthesis, argument development, drafting, source checking, diagrams, adversarial and target-reader review, and document design. Brad is responsible for approving the final content. This collaboration does not imply endorsement by any organization."
+  ],
+  "replacement_byline": "Brad Pierce",
+  "added_disclosure_heading": "AI Assistance and Editorial Responsibility",
+  "added_disclosure_paragraph": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.",
+  "placement": "Immediately before the original Selected sources bibliography; original Acknowledgment and scope remains after the bibliography.",
+  "basis": {
+    "url": "https://bradpierce.ai/when-design-exploration-gets-cheap/",
+    "github_source": "https://github.com/bradpierce-ai-eda/when-design-exploration-gets-cheap/blob/main/index.html",
+    "location": "Contribution statement",
+    "source_sha256": "97023f456cb286ff10578ef478621dcb403509a48daa07e5fd21494c23fba105"
+  },
+  "representation_changes": [
+    "Heading levels mapped to HTML/Markdown semantics; stable section, figure, paragraph and reference anchors added.",
+    "The two original collaboration panels are replaced by a human author byline and the modernized disclosure.",
+    "Automatic reference labels 1–47 are made explicit, retaining published numbering through 87.",
+    "Public bibliographic front matter, citation scope, links and provenance are outside the paper body.",
+    "PDF-extracted original figure images retained without redrawing."
+  ],
+  "substantive_changes": [],
+  "pdf_changed": false
+}

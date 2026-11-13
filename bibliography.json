@@ -1,0 +1,4972 @@
+{
+  "schema_version": 1,
+  "source_doi": "10.5281/zenodo.22837693",
+  "policy": "Exact published slots preserved; conservative normalized work fields installed only from matched responsible-source metadata or explicit published identifiers. Missing fields remain unresolved. No network access during rebuild.",
+  "slots": [
+    {
+      "number": 1,
+      "published_reference": "The Architecture Is Old. The Computational Actor Is New — Brad Pierce with OpenAI.",
+      "work_ids": [
+        "f080_ref_001"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 2,
+      "published_reference": "Designing RTL with C++HDL — Mike Reznikov.",
+      "work_ids": [
+        "f080_ref_002"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 3,
+      "published_reference": "Building Effective Agents — Anthropic.",
+      "work_ids": [
+        "f080_ref_003"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 4,
+      "published_reference": "Writing Effective Tools for Agents — Anthropic.",
+      "work_ids": [
+        "f080_ref_004"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 5,
+      "published_reference": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models — Scholak, Schucher, and Bahdanau.",
+      "work_ids": [
+        "f080_ref_005"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 6,
+      "published_reference": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models — Dong and colleagues.",
+      "work_ids": [
+        "f080_ref_006"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 7,
+      "published_reference": "Introducing Structured Outputs in the API — OpenAI.",
+      "work_ids": [
+        "f080_ref_007"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 8,
+      "published_reference": "Type-Constrained Code Generation with Language Models — Mündler and colleagues.",
+      "work_ids": [
+        "f080_ref_008"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 9,
+      "published_reference": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues? — Jimenez and colleagues.",
+      "work_ids": [
+        "f080_ref_009"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 10,
+      "published_reference": "Introducing SWE-bench Verified — OpenAI.",
+      "work_ids": [
+        "f080_ref_010"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 11,
+      "published_reference": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains — Yao and colleagues.",
+      "work_ids": [
+        "f080_ref_011"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 12,
+      "published_reference": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot — Peng and colleagues.",
+      "work_ids": [
+        "f080_ref_012"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 13,
+      "published_reference": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity — METR.",
+      "work_ids": [
+        "f080_ref_013"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 14,
+      "published_reference": "Accelerate State of DevOps Report 2024 — DORA/Google Cloud.",
+      "work_ids": [
+        "f080_ref_014"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 15,
+      "published_reference": "Proof-Carrying Code — George C. Necula.",
+      "work_ids": [
+        "f080_ref_015"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 16,
+      "published_reference": "RustBelt: Securing the Foundations of the Rust Programming Language — Jung and colleagues.",
+      "work_ids": [
+        "f080_ref_016"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 17,
+      "published_reference": "The CompCert C Verified Compiler — Xavier Leroy and the CompCert project.",
+      "work_ids": [
+        "f080_ref_017"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 18,
+      "published_reference": "Usability Analysis of Visual Programming Environments: A Cognitive Dimensions Framework — Green and Petre.",
+      "work_ids": [
+        "f080_ref_018"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 19,
+      "published_reference": "A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar) — Mell and colleagues.",
+      "work_ids": [
+        "f080_ref_019"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 20,
+      "published_reference": "Pel, A Programming Language for Orchestrating AI Agents — Behnam Mohammadi.",
+      "work_ids": [
+        "f080_ref_020"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 21,
+      "published_reference": "Security Best Practices — Model Context Protocol.",
+      "work_ids": [
+        "f080_ref_021"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 22,
+      "published_reference": "Revisable by Design: A Theory of Streaming LLM Agent Execution — Zhiyuan Zhai, Ming Li, and Xin Wang.",
+      "work_ids": [
+        "f080_ref_022"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 23,
+      "published_reference": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds — Chen and colleagues.",
+      "work_ids": [
+        "f080_ref_023"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 24,
+      "published_reference": "terraform plan command reference — HashiCorp.",
+      "work_ids": [
+        "f080_ref_024"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 25,
+      "published_reference": "SLSA Build Provenance — OpenSSF.",
+      "work_ids": [
+        "f080_ref_025"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 26,
+      "published_reference": "in-toto — project specification and documentation.",
+      "work_ids": [
+        "f080_ref_026"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 27,
+      "published_reference": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era — Dmytro Ustynov.",
+      "work_ids": [
+        "f080_ref_027"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 28,
+      "published_reference": "A Language for Agents — Armin Ronacher.",
+      "work_ids": [
+        "f080_ref_028"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 29,
+      "published_reference": "IEEE 1800-2023 SystemVerilog Standard — IEEE.",
+      "work_ids": [
+        "f080_ref_029"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 30,
+      "published_reference": "Revamping Verilog Semantics for Foundational Verification — Joonwon Choi, Jaewoo Kim, and Jeehoon Kang.",
+      "work_ids": [
+        "f080_ref_030"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 31,
+      "published_reference": "A Mechanised, Bidirectional Type System for Bit-Width Inference in SystemVerilog — Desfrene and colleagues.",
+      "work_ids": [
+        "f080_ref_031"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 32,
+      "published_reference": "Time for Another Revision of the SystemVerilog IEEE 1800 Standard — Dave Rich.",
+      "work_ids": [
+        "f080_ref_032"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 33,
+      "published_reference": "Verilator project overview — CHIPS Alliance/Veripool.",
+      "work_ids": [
+        "f080_ref_033"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 34,
+      "published_reference": "Verilator hierarchical and tracing documentation — Verilator project.",
+      "work_ids": [
+        "f080_ref_034"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 35,
+      "published_reference": "VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation — Yan and colleagues.",
+      "work_ids": [
+        "f080_ref_035"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 36,
+      "published_reference": "FIRRTL: A Compiler Intermediate Representation for Custom Digital Circuits — Izraelevitz and colleagues.",
+      "work_ids": [
+        "f080_ref_036"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 37,
+      "published_reference": "CIRCT project documentation — LLVM/CIRCT community.",
+      "work_ids": [
+        "f080_ref_037"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 38,
+      "published_reference": "Calyx: A Compiler Infrastructure for Accelerator Generators — Nigam and colleagues.",
+      "work_ids": [
+        "f080_ref_038"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 39,
+      "published_reference": "Bluespec Compiler and language documentation — B-Lang community.",
+      "work_ids": [
+        "f080_ref_039"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 40,
+      "published_reference": "XLS/DSLX language and tooling documentation — Google.",
+      "work_ids": [
+        "f080_ref_040"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 41,
+      "published_reference": "Amaranth language and toolchain introduction — Amaranth project.",
+      "work_ids": [
+        "f080_ref_041"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 42,
+      "published_reference": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design — Shuqing Zhao.",
+      "work_ids": [
+        "f080_ref_042"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 43,
+      "published_reference": "Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems — NVIDIA and Cadence researchers.",
+      "work_ids": [
+        "f080_ref_043"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 44,
+      "published_reference": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs — Xiangfei Kong, Tasnim Tabassum, Marwan Abdelwahab, and Hao Zheng.",
+      "work_ids": [
+        "f080_ref_044"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 45,
+      "published_reference": "Silicon Volley: Designers Tap Generative AI for a Chip Assist — NVIDIA.",
+      "work_ids": [
+        "f080_ref_045"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 46,
+      "published_reference": "What Is EDA Agentic AI? — Synopsys.",
+      "work_ids": [
+        "f080_ref_046"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 47,
+      "published_reference": "Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design — Reuters.",
+      "work_ids": [
+        "f080_ref_047"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 48,
+      "published_reference": "State of AI-Assisted Software Development — DORA/Google Cloud.",
+      "work_ids": [
+        "f080_ref_048"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 49,
+      "published_reference": "A Balanced Approach to Verification — Semiconductor Engineering.",
+      "work_ids": [
+        "f080_ref_049"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 50,
+      "published_reference": "Rethinking B2B Software Pricing in the Agentic AI Era — BCG.",
+      "work_ids": [
+        "f080_ref_050"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 51,
+      "published_reference": "The AI Pricing and Monetization Playbook — Bessemer Venture Partners.",
+      "work_ids": [
+        "f080_ref_051"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 52,
+      "published_reference": "Industry Platforms and Ecosystem Innovation — Annabelle Gawer and Michael A. Cusumano.",
+      "work_ids": [
+        "f080_ref_052"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 53,
+      "published_reference": "Platform Envelopment — Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne.",
+      "work_ids": [
+        "f080_ref_053"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 54,
+      "published_reference": "Open Standards, Closed Standards or Vertical Integration? Interoperability Pathways in Markets with Network Effects — Sofia Rosero Abad, Rudi Bekkers, and Emilio Raiteri.",
+      "work_ids": [
+        "f080_ref_054"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 55,
+      "published_reference": "Linux Foundation Announces the Formation of the Agentic AI Foundation — Linux Foundation.",
+      "work_ids": [
+        "f080_ref_055"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 56,
+      "published_reference": "Agent2Agent Protocol Specification — A2A Project.",
+      "work_ids": [
+        "f080_ref_056"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 57,
+      "published_reference": "S*: Test Time Scaling for Code Generation — Dacheng Li and colleagues.",
+      "work_ids": [
+        "f080_ref_057"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 58,
+      "published_reference": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling — Haoran Wang and colleagues.",
+      "work_ids": [
+        "f080_ref_058"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 59,
+      "published_reference": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure — International Labour Organization.",
+      "work_ids": [
+        "f080_ref_059"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 60,
+      "published_reference": "How AI Will Impact Chip Design and Designers — Semiconductor Engineering.",
+      "work_ids": [
+        "f080_ref_060"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 61,
+      "published_reference": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile — NIST.",
+      "work_ids": [
+        "f080_ref_061"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 62,
+      "published_reference": "AI Act — European Commission.",
+      "work_ids": [
+        "f080_ref_062"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 63,
+      "published_reference": "aiSure: AI Performance Warranties and Risk Transfer — Munich Re.",
+      "work_ids": [
+        "f080_ref_063"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 64,
+      "published_reference": "Software Engineering in the Agent Era: From Trustworthy Change to Human-Agent Software Organizations — Zhongjie Wang and Mingyi Liu.",
+      "work_ids": [
+        "f080_ref_064"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 65,
+      "published_reference": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle — Happy Bhati.",
+      "work_ids": [
+        "f080_ref_065"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 66,
+      "published_reference": "READY or Not: Reliable Enterprise Agent Deployment — Scale AI researchers.",
+      "work_ids": [
+        "f080_ref_066"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 67,
+      "published_reference": "AI Agents That Matter — Sayash Kapoor and colleagues.",
+      "work_ids": [
+        "f080_ref_067"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 68,
+      "published_reference": "Tracking Capabilities for Safer Agents — Martin Odersky and colleagues.",
+      "work_ids": [
+        "f080_ref_068"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 69,
+      "published_reference": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents — Bouras and colleagues.",
+      "work_ids": [
+        "f080_ref_069"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 70,
+      "published_reference": "Code as Agent Harness — Xuying Ning and colleagues.",
+      "work_ids": [
+        "f080_ref_070"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 71,
+      "published_reference": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses — Lin and colleagues.",
+      "work_ids": [
+        "f080_ref_071"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 72,
+      "published_reference": "ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents — Jiawei He and colleagues.",
+      "work_ids": [
+        "f080_ref_072"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 73,
+      "published_reference": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks — Gabriel Orlanski and colleagues.",
+      "work_ids": [
+        "f080_ref_073"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 74,
+      "published_reference": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime — Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao.",
+      "work_ids": [
+        "f080_ref_074"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 75,
+      "published_reference": "Gluon — The Action Substrate for AI Agents — Gluon.",
+      "work_ids": [
+        "f080_ref_075"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 76,
+      "published_reference": "AI Agent Safety: The Substrate Pattern in Practice — Dipankar Sarkar.",
+      "work_ids": [
+        "f080_ref_076"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 77,
+      "published_reference": "ComposeBench — MindLab Research.",
+      "work_ids": [
+        "f080_ref_077"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 78,
+      "published_reference": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI — Qianggang Ding and colleagues.",
+      "work_ids": [
+        "f080_ref_078"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 79,
+      "published_reference": "Interactive Drama, Art and Artificial Intelligence — Michael Mateas.",
+      "work_ids": [
+        "f080_ref_079"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 80,
+      "published_reference": "The Best Language for AI Agents — What the Benchmarks Actually Say About Language Choice — Kiberon Labs.",
+      "work_ids": [
+        "f080_ref_080"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 81,
+      "published_reference": "What Is Agentic Engineering? — Priyanka Pandey; reviewed by Sanjeev Purohit.",
+      "work_ids": [
+        "f080_ref_081"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 82,
+      "published_reference": "What Would a Fair Benchmark for Agent Architecture Look Like? — jonah_omninode. Public discussion.",
+      "work_ids": [
+        "f080_ref_082"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 83,
+      "published_reference": "Loop Budgeting: Allocating Iteration and Token Budget Across Turns — AgentPatterns.ai.",
+      "work_ids": [
+        "f080_ref_083"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 84,
+      "published_reference": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation — Yijun Shen and colleagues.",
+      "work_ids": [
+        "f080_ref_084"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 85,
+      "published_reference": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols — Arnav Sheth, Ivaxi Sheth, and Mario Fritz.",
+      "work_ids": [
+        "f080_ref_085"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 86,
+      "published_reference": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification — Yujie Zhao and colleagues.",
+      "work_ids": [
+        "f080_ref_086"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    },
+    {
+      "number": 87,
+      "published_reference": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering — Yang and colleagues.",
+      "work_ids": [
+        "f080_ref_087"
+      ],
+      "classification": "single-work; additional published URLs, when present, are alternative locators"
+    }
+  ],
+  "works": [
+    {
+      "id": "f080_ref_001",
+      "slot": 1,
+      "title": "The Architecture Is Old. The Computational Actor Is New",
+      "published_reference": "The Architecture Is Old. The Computational Actor Is New — Brad Pierce with OpenAI.",
+      "published_attribution": "Brad Pierce with OpenAI.",
+      "url": "https://bradpierce.wordpress.com/2026/09/13/the-architecture-is-old-the-computational-actor-is-new/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "603d05f50dd39a955a025aa841f26e432119c8fbcd23514318a5d5521f2c72a7"
+      }
+    },
+    {
+      "id": "f080_ref_002",
+      "slot": 2,
+      "title": "Designing RTL with C++HDL",
+      "published_reference": "Designing RTL with C++HDL — Mike Reznikov.",
+      "published_attribution": "Mike Reznikov.",
+      "url": "https://lnkd.in/p/gM6bBGXw",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "6ff82c489b9fcf6f864aeb0a10115de1706bf61567670e8045f39e81d3907f11"
+      }
+    },
+    {
+      "id": "f080_ref_003",
+      "slot": 3,
+      "title": "Building Effective Agents",
+      "published_reference": "Building Effective Agents — Anthropic.",
+      "published_attribution": "Anthropic.",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 308: Permanent Redirect",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_004",
+      "slot": 4,
+      "title": "Writing Effective Tools for Agents",
+      "published_reference": "Writing Effective Tools for Agents — Anthropic.",
+      "published_attribution": "Anthropic.",
+      "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 308: Permanent Redirect",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_005",
+      "slot": 5,
+      "title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models",
+      "published_reference": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models — Scholak, Schucher, and Bahdanau.",
+      "published_attribution": "Scholak, Schucher, and Bahdanau.",
+      "url": "https://aclanthology.org/2021.emnlp-main.779/",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "given": "Torsten",
+          "family": "Scholak"
+        },
+        {
+          "given": "Nathan",
+          "family": "Schucher"
+        },
+        {
+          "given": "Dzmitry",
+          "family": "Bahdanau"
+        }
+      ],
+      "date": [
+        2021,
+        11
+      ],
+      "doi": "10.18653/v1/2021.emnlp-main.779",
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://aclanthology.org/2021.emnlp-main.779/",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models"
+        },
+        "date": {
+          "authority_url": "https://aclanthology.org/2021.emnlp-main.779/",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models"
+        },
+        "doi": {
+          "authority_url": "https://aclanthology.org/2021.emnlp-main.779/",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models",
+        "title_match": true,
+        "response_sha256": "e9cb565bd0d5ed2ddd13ce2f511ba3a105016ddfea52cc89dddf842b318555e1"
+      }
+    },
+    {
+      "id": "f080_ref_006",
+      "slot": 6,
+      "title": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models",
+      "published_reference": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models — Dong and colleagues.",
+      "published_attribution": "Dong and colleagues.",
+      "url": "https://arxiv.org/abs/2411.15100",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Dong",
+          "given": "Yixin"
+        },
+        {
+          "family": "Ruan",
+          "given": "Charlie F."
+        },
+        {
+          "family": "Cai",
+          "given": "Yaxing"
+        },
+        {
+          "family": "Lai",
+          "given": "Ruihang"
+        },
+        {
+          "family": "Xu",
+          "given": "Ziyi"
+        },
+        {
+          "family": "Zhao",
+          "given": "Yilong"
+        },
+        {
+          "family": "Chen",
+          "given": "Tianqi"
+        }
+      ],
+      "date": [
+        2024,
+        11,
+        22
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2411.15100",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2411.15100",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models",
+        "title_match": true,
+        "response_sha256": "78af98df7777901ea18078d70eeeba8a659467b2cc0c5c001ba1cd5e16b80b55"
+      }
+    },
+    {
+      "id": "f080_ref_007",
+      "slot": 7,
+      "title": "Introducing Structured Outputs in the API",
+      "published_reference": "Introducing Structured Outputs in the API — OpenAI.",
+      "published_attribution": "OpenAI.",
+      "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_008",
+      "slot": 8,
+      "title": "Type-Constrained Code Generation with Language Models",
+      "published_reference": "Type-Constrained Code Generation with Language Models — Mündler and colleagues.",
+      "published_attribution": "Mündler and colleagues.",
+      "url": "https://arxiv.org/abs/2504.09246",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Mündler",
+          "given": "Niels"
+        },
+        {
+          "family": "He",
+          "given": "Jingxuan"
+        },
+        {
+          "family": "Wang",
+          "given": "Hao"
+        },
+        {
+          "family": "Sen",
+          "given": "Koushik"
+        },
+        {
+          "family": "Song",
+          "given": "Dawn"
+        },
+        {
+          "family": "Vechev",
+          "given": "Martin"
+        }
+      ],
+      "date": [
+        2025,
+        4,
+        12
+      ],
+      "doi": "10.1145/3729274",
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2504.09246",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Type-Constrained Code Generation with Language Models"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2504.09246",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Type-Constrained Code Generation with Language Models"
+        },
+        "doi": {
+          "authority_url": "https://arxiv.org/abs/2504.09246",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Type-Constrained Code Generation with Language Models"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Type-Constrained Code Generation with Language Models",
+        "title_match": true,
+        "response_sha256": "fbb49690cb504fb20a1b1f069c7f1d48294ed712aacbf6be6e1517bf38819096"
+      }
+    },
+    {
+      "id": "f080_ref_009",
+      "slot": 9,
+      "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "published_reference": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues? — Jimenez and colleagues.",
+      "published_attribution": "Jimenez and colleagues.",
+      "url": "https://arxiv.org/abs/2310.06770",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Jimenez",
+          "given": "Carlos E."
+        },
+        {
+          "family": "Yang",
+          "given": "John"
+        },
+        {
+          "family": "Wettig",
+          "given": "Alexander"
+        },
+        {
+          "family": "Yao",
+          "given": "Shunyu"
+        },
+        {
+          "family": "Pei",
+          "given": "Kexin"
+        },
+        {
+          "family": "Press",
+          "given": "Ofir"
+        },
+        {
+          "family": "Narasimhan",
+          "given": "Karthik"
+        }
+      ],
+      "date": [
+        2023,
+        10,
+        10
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2310.06770",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2310.06770",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+        "title_match": true,
+        "response_sha256": "b73e4ef010c660ce011f6eaad07d0c94c97e3b6a38a5c21df2ac15ac7f13a86a"
+      }
+    },
+    {
+      "id": "f080_ref_010",
+      "slot": 10,
+      "title": "Introducing SWE-bench Verified",
+      "published_reference": "Introducing SWE-bench Verified — OpenAI.",
+      "published_attribution": "OpenAI.",
+      "url": "https://openai.com/index/introducing-swe-bench-verified/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_011",
+      "slot": 11,
+      "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+      "published_reference": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains — Yao and colleagues.",
+      "published_attribution": "Yao and colleagues.",
+      "url": "https://arxiv.org/abs/2406.12045",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Yao",
+          "given": "Shunyu"
+        },
+        {
+          "family": "Shinn",
+          "given": "Noah"
+        },
+        {
+          "family": "Razavi",
+          "given": "Pedram"
+        },
+        {
+          "family": "Narasimhan",
+          "given": "Karthik"
+        }
+      ],
+      "date": [
+        2024,
+        6,
+        17
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2406.12045",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2406.12045",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "title_match": true,
+        "response_sha256": "59d742b0a2cf9a5f3aa5b4b55b06cb46e49c036cf814c9ae34f54e12d549f64e"
+      }
+    },
+    {
+      "id": "f080_ref_012",
+      "slot": 12,
+      "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+      "published_reference": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot — Peng and colleagues.",
+      "published_attribution": "Peng and colleagues.",
+      "url": "https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "given": "Sida",
+          "family": "Peng"
+        },
+        {
+          "given": "Eirini",
+          "family": "Kalliamvakou"
+        },
+        {
+          "given": "Peter",
+          "family": "Cihon"
+        },
+        {
+          "given": "Mert",
+          "family": "Demirer"
+        }
+      ],
+      "date": [
+        2023,
+        2,
+        13
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot"
+        },
+        "date": {
+          "authority_url": "https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+        "title_match": true,
+        "response_sha256": "65cbf3bf8436f1c982aea23229b4c11bac045172aa14dbb7cd93aadcd37e3514"
+      }
+    },
+    {
+      "id": "f080_ref_013",
+      "slot": 13,
+      "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+      "published_reference": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity — METR.",
+      "published_attribution": "METR.",
+      "url": "https://arxiv.org/abs/2507.09089",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Becker",
+          "given": "Joel"
+        },
+        {
+          "family": "Rush",
+          "given": "Nate"
+        },
+        {
+          "family": "Barnes",
+          "given": "Elizabeth"
+        },
+        {
+          "family": "Rein",
+          "given": "David"
+        }
+      ],
+      "date": [
+        2025,
+        7,
+        12
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2507.09089",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2507.09089",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+        "title_match": true,
+        "response_sha256": "8533e8c82f952dce2060659749224686ca02a31f4733d7f4b0279869f923d70f"
+      }
+    },
+    {
+      "id": "f080_ref_014",
+      "slot": 14,
+      "title": "Accelerate State of DevOps Report 2024",
+      "published_reference": "Accelerate State of DevOps Report 2024 — DORA/Google Cloud.",
+      "published_attribution": "DORA/Google Cloud.",
+      "url": "https://dora.dev/research/2024/dora-report/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "c6fb59d69e45bce4cf1ad93fb7e638ed6d1514aaf1f79604831a93e24c05bf36"
+      }
+    },
+    {
+      "id": "f080_ref_015",
+      "slot": 15,
+      "title": "Proof-Carrying Code",
+      "published_reference": "Proof-Carrying Code — George C. Necula.",
+      "published_attribution": "George C. Necula.",
+      "url": "https://people.eecs.berkeley.edu/~necula/Papers/pcc_popl97.ps",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "1b89c08b88b442839e51cfe590019d2ffdcd351ecd9ee5d1002ec710a8223e46"
+      }
+    },
+    {
+      "id": "f080_ref_016",
+      "slot": 16,
+      "title": "RustBelt: Securing the Foundations of the Rust Programming Language",
+      "published_reference": "RustBelt: Securing the Foundations of the Rust Programming Language — Jung and colleagues.",
+      "published_attribution": "Jung and colleagues.",
+      "url": "https://dl.acm.org/doi/10.1145/3158154",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": "10.1145/3158154",
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "doi": {
+          "authority_url": "https://dl.acm.org/doi/10.1145/3158154",
+          "channel": "exact published DOI locator"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_017",
+      "slot": 17,
+      "title": "The CompCert C Verified Compiler",
+      "published_reference": "The CompCert C Verified Compiler — Xavier Leroy and the CompCert project.",
+      "published_attribution": "Xavier Leroy and the CompCert project.",
+      "url": "https://compcert.org/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "8cc0b1af91c35304ff3a1d1f17b4bd80f1cc08dff45c8f1d853ee9932423067e"
+      }
+    },
+    {
+      "id": "f080_ref_018",
+      "slot": 18,
+      "title": "Usability Analysis of Visual Programming Environments: A Cognitive Dimensions Framework",
+      "published_reference": "Usability Analysis of Visual Programming Environments: A Cognitive Dimensions Framework — Green and Petre.",
+      "published_attribution": "Green and Petre.",
+      "url": "https://doi.org/10.1006/jvlc.1996.0009",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": "10.1006/jvlc.1996.0009",
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "doi": {
+          "authority_url": "https://doi.org/10.1006/jvlc.1996.0009",
+          "channel": "exact published DOI locator"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "498474f134e5227c2fe0d1b2f3f0f8c6514bc91992d1650d82f983647687d602"
+      }
+    },
+    {
+      "id": "f080_ref_019",
+      "slot": 19,
+      "title": "A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar)",
+      "published_reference": "A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar) — Mell and colleagues.",
+      "published_attribution": "Mell and colleagues.",
+      "url": "https://arxiv.org/abs/2506.12202",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Quasar: A Programming Language Specialized for LLM Code Actions",
+        "title_match": false,
+        "response_sha256": "32277f3a74ed5ddd14573297d9a3af90b87d5f513ddc1253607d3703cbdb5efb"
+      }
+    },
+    {
+      "id": "f080_ref_020",
+      "slot": 20,
+      "title": "Pel, A Programming Language for Orchestrating AI Agents",
+      "published_reference": "Pel, A Programming Language for Orchestrating AI Agents — Behnam Mohammadi.",
+      "published_attribution": "Behnam Mohammadi.",
+      "url": "https://arxiv.org/abs/2505.13453",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Mohammadi",
+          "given": "Behnam"
+        }
+      ],
+      "date": [
+        2025,
+        4,
+        3
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2505.13453",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Pel, A Programming Language for Orchestrating AI Agents"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2505.13453",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Pel, A Programming Language for Orchestrating AI Agents"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Pel, A Programming Language for Orchestrating AI Agents",
+        "title_match": true,
+        "response_sha256": "864542d89b6f3708518c08d2e1cdc913ea01bf7b3bb1cd7dca5ed3e7c1a9d1c9"
+      }
+    },
+    {
+      "id": "f080_ref_021",
+      "slot": 21,
+      "title": "Security Best Practices",
+      "published_reference": "Security Best Practices — Model Context Protocol.",
+      "published_attribution": "Model Context Protocol.",
+      "url": "https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "8f95552f5f58cfd4a11094bc843e8849a072b0faa2141088122a52fcffbf676c"
+      }
+    },
+    {
+      "id": "f080_ref_022",
+      "slot": 22,
+      "title": "Revisable by Design: A Theory of Streaming LLM Agent Execution",
+      "published_reference": "Revisable by Design: A Theory of Streaming LLM Agent Execution — Zhiyuan Zhai, Ming Li, and Xin Wang.",
+      "published_attribution": "Zhiyuan Zhai, Ming Li, and Xin Wang.",
+      "url": "https://arxiv.org/abs/2604.23283",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Zhai",
+          "given": "Zhiyuan"
+        },
+        {
+          "family": "Li",
+          "given": "Ming"
+        },
+        {
+          "family": "Wang",
+          "given": "Xin"
+        }
+      ],
+      "date": [
+        2026,
+        4,
+        25
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2604.23283",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Revisable by Design: A Theory of Streaming LLM Agent Execution"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2604.23283",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Revisable by Design: A Theory of Streaming LLM Agent Execution"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Revisable by Design: A Theory of Streaming LLM Agent Execution",
+        "title_match": true,
+        "response_sha256": "8c5cbf8edce5d7fb3993d1f29cffb4fbccf4fd61de3dc38ce014310cc16b1656"
+      }
+    },
+    {
+      "id": "f080_ref_023",
+      "slot": 23,
+      "title": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds",
+      "published_reference": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds — Chen and colleagues.",
+      "published_attribution": "Chen and colleagues.",
+      "url": "https://research.ibm.com/publications/stratus-a-multi-agent-system-for-autonomous-reliability-engineering-of-modern-clouds",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "given": "Yinfang",
+          "family": "Chen"
+        },
+        {
+          "given": "Jiaqi",
+          "family": "Pan"
+        },
+        {
+          "given": "Jackson",
+          "family": "Clark"
+        },
+        {
+          "given": "Yiming",
+          "family": "Su"
+        },
+        {
+          "given": "Noah",
+          "family": "Zheutlin"
+        },
+        {
+          "given": "Bhavya",
+          "family": "Bhavya"
+        },
+        {
+          "given": "Rohan",
+          "family": "Arora"
+        },
+        {
+          "given": "Yu",
+          "family": "Deng"
+        },
+        {
+          "given": "Saurabh",
+          "family": "Jha"
+        },
+        {
+          "given": "Tianyin",
+          "family": "Xu"
+        }
+      ],
+      "date": [
+        2025,
+        12,
+        2
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://research.ibm.com/publications/stratus-a-multi-agent-system-for-autonomous-reliability-engineering-of-modern-clouds",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds"
+        },
+        "date": {
+          "authority_url": "https://research.ibm.com/publications/stratus-a-multi-agent-system-for-autonomous-reliability-engineering-of-modern-clouds",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds",
+        "title_match": true,
+        "response_sha256": "fb9bb705d2c79dd493aff1f9d56983dfaa358c65352d7acf2aa6367de7c1dd36"
+      }
+    },
+    {
+      "id": "f080_ref_024",
+      "slot": 24,
+      "title": "terraform plan command reference",
+      "published_reference": "terraform plan command reference — HashiCorp.",
+      "published_attribution": "HashiCorp.",
+      "url": "https://developer.hashicorp.com/terraform/cli/commands/plan",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "3d33c8ca205f6f475d6608b43a2907463eaaab0fd918e85b93682cbbf66aee6f"
+      }
+    },
+    {
+      "id": "f080_ref_025",
+      "slot": 25,
+      "title": "SLSA Build Provenance",
+      "published_reference": "SLSA Build Provenance — OpenSSF.",
+      "published_attribution": "OpenSSF.",
+      "url": "https://slsa.dev/spec/draft/build-provenance",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "43b43571c6a711ed47e8d4d4e410fead33ffe5911230596b2f05661e92502748"
+      }
+    },
+    {
+      "id": "f080_ref_026",
+      "slot": 26,
+      "title": "in-toto",
+      "published_reference": "in-toto — project specification and documentation.",
+      "published_attribution": "project specification and documentation.",
+      "url": "https://in-toto.io/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "fe3ea3905923930ec71dc87a807d5e3cb4d7b4db8f9833bd617e10a77f98546c"
+      }
+    },
+    {
+      "id": "f080_ref_027",
+      "slot": 27,
+      "title": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era",
+      "published_reference": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era — Dmytro Ustynov.",
+      "published_attribution": "Dmytro Ustynov.",
+      "url": "https://arxiv.org/abs/2604.07502",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Ustynov",
+          "given": "Dmytro"
+        }
+      ],
+      "date": [
+        2026,
+        4,
+        8
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2604.07502",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2604.07502",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era",
+        "title_match": true,
+        "response_sha256": "f90f5886c757c1f5cf52b7b5449f78a8961c4f5e03e5a7d29a4537002e82927b"
+      }
+    },
+    {
+      "id": "f080_ref_028",
+      "slot": 28,
+      "title": "A Language for Agents",
+      "published_reference": "A Language for Agents — Armin Ronacher.",
+      "published_attribution": "Armin Ronacher.",
+      "url": "https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "39f192f60788c7820af0fa0cbf724b4eb886904f2e5dc0b29d70696e55d0a3ed"
+      }
+    },
+    {
+      "id": "f080_ref_029",
+      "slot": 29,
+      "title": "IEEE 1800-2023 SystemVerilog Standard",
+      "published_reference": "IEEE 1800-2023 SystemVerilog Standard — IEEE.",
+      "published_attribution": "IEEE.",
+      "url": "https://standards.ieee.org/ieee/1800/7743/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "a7b45adc28c1b54f51160d010b47c3aeccfe254030409d519fc41bdfb30d4ac3"
+      }
+    },
+    {
+      "id": "f080_ref_030",
+      "slot": 30,
+      "title": "Revamping Verilog Semantics for Foundational Verification",
+      "published_reference": "Revamping Verilog Semantics for Foundational Verification — Joonwon Choi, Jaewoo Kim, and Jeehoon Kang.",
+      "published_attribution": "Joonwon Choi, Jaewoo Kim, and Jeehoon Kang.",
+      "url": "https://dl.acm.org/doi/10.1145/3763084",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": "10.1145/3763084",
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "doi": {
+          "authority_url": "https://dl.acm.org/doi/10.1145/3763084",
+          "channel": "exact published DOI locator"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_031",
+      "slot": 31,
+      "title": "A Mechanised, Bidirectional Type System for Bit-Width Inference in SystemVerilog",
+      "published_reference": "A Mechanised, Bidirectional Type System for Bit-Width Inference in SystemVerilog — Desfrene and colleagues.",
+      "published_attribution": "Desfrene and colleagues.",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-032-32519-8_22",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": "10.1007/978-3-032-32519-8_22",
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "doi": {
+          "authority_url": "https://link.springer.com/chapter/10.1007/978-3-032-32519-8_22",
+          "channel": "exact published DOI locator"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "A Mechanised, Bidirectional Type System for Bit-Width Determination in SystemVerilog",
+        "title_match": false,
+        "response_sha256": "62a7b20e28199bcc62ce1a524fdb390f92a4d1f809fdf15551507a4684ffb3c9"
+      }
+    },
+    {
+      "id": "f080_ref_032",
+      "slot": 32,
+      "title": "Time for Another Revision of the SystemVerilog IEEE 1800 Standard",
+      "published_reference": "Time for Another Revision of the SystemVerilog IEEE 1800 Standard — Dave Rich.",
+      "published_attribution": "Dave Rich.",
+      "url": "https://blogs.sw.siemens.com/verificationhorizons/2020/07/30/another-revision-systemverilog/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "28aa5f9512159f9dda38679314a52b08d676b2842eeb9cd4034b5bbc8cbb57c3"
+      }
+    },
+    {
+      "id": "f080_ref_033",
+      "slot": 33,
+      "title": "Verilator project overview",
+      "published_reference": "Verilator project overview — CHIPS Alliance/Veripool.",
+      "published_attribution": "CHIPS Alliance/Veripool.",
+      "url": "https://www.veripool.org/verilator/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "41ed4b4d151770723cd6fc678b9b44dfa6310b2cd02112077569921973bfdd64"
+      }
+    },
+    {
+      "id": "f080_ref_034",
+      "slot": 34,
+      "title": "Verilator hierarchical and tracing documentation",
+      "published_reference": "Verilator hierarchical and tracing documentation — Verilator project.",
+      "published_attribution": "Verilator project.",
+      "url": "https://verilator.org/guide/latest/verilating.html",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "9540dcfa83e5da4e8efc048b6892461b9bc6664718734ca582a299f7f3256b4d"
+      }
+    },
+    {
+      "id": "f080_ref_035",
+      "slot": 35,
+      "title": "VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation",
+      "published_reference": "VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation — Yan and colleagues.",
+      "published_attribution": "Yan and colleagues.",
+      "url": "https://2026.splashcon.org/details/oopsla-2026/37/VeriEQ-Finding-Verilog-Simulators-and-Synthesizers-Bugs-with-Equivalence-Circuit-Tra",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "0e5021572276da8ac6c448e1e7160c67ca94548dff629f9648907215c01065fb"
+      }
+    },
+    {
+      "id": "f080_ref_036",
+      "slot": 36,
+      "title": "FIRRTL: A Compiler Intermediate Representation for Custom Digital Circuits",
+      "published_reference": "FIRRTL: A Compiler Intermediate Representation for Custom Digital Circuits — Izraelevitz and colleagues.",
+      "published_attribution": "Izraelevitz and colleagues.",
+      "url": "https://albert-magyar.github.io/documents/firrtl-iccad17.pdf",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "d00dc6f0c0dd4ee742bce1db9f62657800d76144e614831aa6ed3e6c8697d887"
+      }
+    },
+    {
+      "id": "f080_ref_037",
+      "slot": 37,
+      "title": "CIRCT project documentation",
+      "published_reference": "CIRCT project documentation — LLVM/CIRCT community.",
+      "published_attribution": "LLVM/CIRCT community.",
+      "url": "https://circt.llvm.org/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "7a0783df39180311e66e29839dcd4854465d65c2bf31441f10494fdb816e465b"
+      }
+    },
+    {
+      "id": "f080_ref_038",
+      "slot": 38,
+      "title": "Calyx: A Compiler Infrastructure for Accelerator Generators",
+      "published_reference": "Calyx: A Compiler Infrastructure for Accelerator Generators — Nigam and colleagues.",
+      "published_attribution": "Nigam and colleagues.",
+      "url": "https://arxiv.org/abs/2102.09713",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "A Compiler Infrastructure for Accelerator Generators",
+        "title_match": false,
+        "response_sha256": "66137a48ec0c3770c5ed16b7edfc178e16bb9fc20e5702afc11a58e856e20cf8"
+      }
+    },
+    {
+      "id": "f080_ref_039",
+      "slot": 39,
+      "title": "Bluespec Compiler and language documentation",
+      "published_reference": "Bluespec Compiler and language documentation — B-Lang community.",
+      "published_attribution": "B-Lang community.",
+      "url": "https://github.com/B-Lang-org/bsc",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "d47b2b4cc05b64b68d42d2d052bd54a09048d5be8814c5a5cf28a3dc1646ab70"
+      }
+    },
+    {
+      "id": "f080_ref_040",
+      "slot": 40,
+      "title": "XLS/DSLX language and tooling documentation",
+      "published_reference": "XLS/DSLX language and tooling documentation — Google.",
+      "published_attribution": "Google.",
+      "url": "https://google.github.io/xls/dslx_reference/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "cdc686b79ba8c14f11738a618bf20914643e65864a2be1a8ab40cd51c63e0576"
+      }
+    },
+    {
+      "id": "f080_ref_041",
+      "slot": 41,
+      "title": "Amaranth language and toolchain introduction",
+      "published_reference": "Amaranth language and toolchain introduction — Amaranth project.",
+      "published_attribution": "Amaranth project.",
+      "url": "https://amaranth-lang.org/docs/amaranth/latest/intro.html",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "dbd9ba5a02f896f518f29b1e47f404430b6f309db20dc6d5b0d06a92178748e3"
+      }
+    },
+    {
+      "id": "f080_ref_042",
+      "slot": 42,
+      "title": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design",
+      "published_reference": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design — Shuqing Zhao.",
+      "published_attribution": "Shuqing Zhao.",
+      "url": "https://arxiv.org/abs/2604.05983",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Zhao",
+          "given": "Shuqing"
+        }
+      ],
+      "date": [
+        2026,
+        4,
+        7
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2604.05983",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2604.05983",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design",
+        "title_match": true,
+        "response_sha256": "4515a504ef0e3480975fcbf27609261c2ad5d9d7c4bf06f6752cd09121e17b76"
+      }
+    },
+    {
+      "id": "f080_ref_043",
+      "slot": 43,
+      "title": "Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems",
+      "published_reference": "Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems — NVIDIA and Cadence researchers.",
+      "published_attribution": "NVIDIA and Cadence researchers.",
+      "url": "https://research.nvidia.com/publication/2025-06_spec2rtl-agent-automated-hardware-code-generation-complex-specifications-using",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "73d0e50b83e6c6b20c2b1ef2bbfa718ef2a8669e9a697ac7984ae646719a30ae"
+      }
+    },
+    {
+      "id": "f080_ref_044",
+      "slot": 44,
+      "title": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs",
+      "published_reference": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs — Xiangfei Kong, Tasnim Tabassum, Marwan Abdelwahab, and Hao Zheng.",
+      "published_attribution": "Xiangfei Kong, Tasnim Tabassum, Marwan Abdelwahab, and Hao Zheng.",
+      "url": "https://arxiv.org/abs/2607.18519",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Kong",
+          "given": "Xiangfei"
+        },
+        {
+          "family": "Tabassum",
+          "given": "Tasnim"
+        },
+        {
+          "family": "Abdelwahab",
+          "given": "Marwan"
+        },
+        {
+          "family": "Zheng",
+          "given": "Hao"
+        }
+      ],
+      "date": [
+        2026,
+        7,
+        20
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2607.18519",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2607.18519",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs",
+        "title_match": true,
+        "response_sha256": "d352705f57a991839f901379c1ddf1bfc2f69b48d43138043ea9342cd7054560"
+      }
+    },
+    {
+      "id": "f080_ref_045",
+      "slot": 45,
+      "title": "Silicon Volley: Designers Tap Generative AI for a Chip Assist",
+      "published_reference": "Silicon Volley: Designers Tap Generative AI for a Chip Assist — NVIDIA.",
+      "published_attribution": "NVIDIA.",
+      "url": "https://blogs.nvidia.com/blog/llm-semiconductors-chip-nemo/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "a6561ce1b77cb800671ca852c8928f12bc5ff3476ca1ca65f783d82aac45dfcc"
+      }
+    },
+    {
+      "id": "f080_ref_046",
+      "slot": 46,
+      "title": "What Is EDA Agentic AI?",
+      "published_reference": "What Is EDA Agentic AI? — Synopsys.",
+      "published_attribution": "Synopsys.",
+      "url": "https://www.synopsys.com/glossary/what-is-eda-agentic-ai.html",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "e12e247cd28b69c3a75460e4c70fc97b3861db033e3d921d31ba913cb59cdf34"
+      }
+    },
+    {
+      "id": "f080_ref_047",
+      "slot": 47,
+      "title": "Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design",
+      "published_reference": "Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design — Reuters.",
+      "published_attribution": "Reuters.",
+      "url": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 401: HTTP Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_048",
+      "slot": 48,
+      "title": "State of AI-Assisted Software Development",
+      "published_reference": "State of AI-Assisted Software Development — DORA/Google Cloud.",
+      "published_attribution": "DORA/Google Cloud.",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "0283c009b8e9188d2605a745ea024760697b6ce47449da305e05bfa498b6a114"
+      }
+    },
+    {
+      "id": "f080_ref_049",
+      "slot": 49,
+      "title": "A Balanced Approach to Verification",
+      "published_reference": "A Balanced Approach to Verification — Semiconductor Engineering.",
+      "published_attribution": "Semiconductor Engineering.",
+      "url": "https://semiengineering.com/a-balanced-approach-to-verification/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "11092ecb65a5f86806f70bd3c3269c27df51d85de9a06a36dfc42f6b3b2f241c"
+      }
+    },
+    {
+      "id": "f080_ref_050",
+      "slot": 50,
+      "title": "Rethinking B2B Software Pricing in the Agentic AI Era",
+      "published_reference": "Rethinking B2B Software Pricing in the Agentic AI Era — BCG.",
+      "published_attribution": "BCG.",
+      "url": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_051",
+      "slot": 51,
+      "title": "The AI Pricing and Monetization Playbook",
+      "published_reference": "The AI Pricing and Monetization Playbook — Bessemer Venture Partners.",
+      "published_attribution": "Bessemer Venture Partners.",
+      "url": "https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "6ae870e09934e5f4bbdbc432ba8c57a39771a93286475d8e921e9c6062a93e6f"
+      }
+    },
+    {
+      "id": "f080_ref_052",
+      "slot": 52,
+      "title": "Industry Platforms and Ecosystem Innovation",
+      "published_reference": "Industry Platforms and Ecosystem Innovation — Annabelle Gawer and Michael A. Cusumano.",
+      "published_attribution": "Annabelle Gawer and Michael A. Cusumano.",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": "10.1111/jpim.12105",
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "doi": {
+          "authority_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+          "channel": "exact published DOI locator"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_053",
+      "slot": 53,
+      "title": "Platform Envelopment",
+      "published_reference": "Platform Envelopment — Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne.",
+      "published_attribution": "Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne.",
+      "url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": "10.1002/smj.935",
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "doi": {
+          "authority_url": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+          "channel": "exact published DOI locator"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_054",
+      "slot": 54,
+      "title": "Open Standards, Closed Standards or Vertical Integration? Interoperability Pathways in Markets with Network Effects",
+      "published_reference": "Open Standards, Closed Standards or Vertical Integration? Interoperability Pathways in Markets with Network Effects — Sofia Rosero Abad, Rudi Bekkers, and Emilio Raiteri.",
+      "published_attribution": "Sofia Rosero Abad, Rudi Bekkers, and Emilio Raiteri.",
+      "url": "https://journals.open.tudelft.nl/jos/article/view/8038",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "given": "Sofia Rosero",
+          "family": "Abad"
+        },
+        {
+          "given": "Rudi",
+          "family": "Bekkers"
+        },
+        {
+          "given": "Emilio",
+          "family": "Raiteri"
+        }
+      ],
+      "date": [
+        2026,
+        7,
+        1
+      ],
+      "doi": "10.59490/jos.2026.8038",
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://journals.open.tudelft.nl/jos/article/view/8038",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Open standards, closed standards or vertical integration? Interoperability pathways in markets with network effects"
+        },
+        "date": {
+          "authority_url": "https://journals.open.tudelft.nl/jos/article/view/8038",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Open standards, closed standards or vertical integration? Interoperability pathways in markets with network effects"
+        },
+        "doi": {
+          "authority_url": "https://journals.open.tudelft.nl/jos/article/view/8038",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Open standards, closed standards or vertical integration? Interoperability pathways in markets with network effects"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Open standards, closed standards or vertical integration? Interoperability pathways in markets with network effects",
+        "title_match": true,
+        "response_sha256": "3f228a8864defb5483a57742cc0b51b311dfe6ebd4b64cae902f7afb2c516845"
+      }
+    },
+    {
+      "id": "f080_ref_055",
+      "slot": 55,
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation",
+      "published_reference": "Linux Foundation Announces the Formation of the Agentic AI Foundation — Linux Foundation.",
+      "published_attribution": "Linux Foundation.",
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation?hs_amp=true",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "2b383670c37a04a83ff8f306d0a5e56ec63a770048feb3ad646d33dc73896b8a"
+      }
+    },
+    {
+      "id": "f080_ref_056",
+      "slot": 56,
+      "title": "Agent2Agent Protocol Specification",
+      "published_reference": "Agent2Agent Protocol Specification — A2A Project.",
+      "published_attribution": "A2A Project.",
+      "url": "https://a2a-protocol.org/v0.3.0/specification/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "373f505777cba49d5ad977abf4b4c05a9c1cd3bfcf97a90ca10c44e336706338"
+      }
+    },
+    {
+      "id": "f080_ref_057",
+      "slot": 57,
+      "title": "S*: Test Time Scaling for Code Generation",
+      "published_reference": "S*: Test Time Scaling for Code Generation — Dacheng Li and colleagues.",
+      "published_attribution": "Dacheng Li and colleagues.",
+      "url": "https://arxiv.org/abs/2502.14382",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Li",
+          "given": "Dacheng"
+        },
+        {
+          "family": "Cao",
+          "given": "Shiyi"
+        },
+        {
+          "family": "Cao",
+          "given": "Chengkun"
+        },
+        {
+          "family": "Li",
+          "given": "Xiuyu"
+        },
+        {
+          "family": "Tan",
+          "given": "Shangyin"
+        },
+        {
+          "family": "Keutzer",
+          "given": "Kurt"
+        },
+        {
+          "family": "Xing",
+          "given": "Jiarong"
+        },
+        {
+          "family": "Gonzalez",
+          "given": "Joseph E."
+        },
+        {
+          "family": "Stoica",
+          "given": "Ion"
+        }
+      ],
+      "date": [
+        2025,
+        2,
+        20
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2502.14382",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "S*: Test Time Scaling for Code Generation"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2502.14382",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "S*: Test Time Scaling for Code Generation"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "S*: Test Time Scaling for Code Generation",
+        "title_match": true,
+        "response_sha256": "7910eca7c2ab11780cb58a161e1827ef1dfa24d51a90abe2a3ef06e2207ff171"
+      }
+    },
+    {
+      "id": "f080_ref_058",
+      "slot": 58,
+      "title": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling",
+      "published_reference": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling — Haoran Wang and colleagues.",
+      "published_attribution": "Haoran Wang and colleagues.",
+      "url": "https://arxiv.org/abs/2506.07636",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Wang",
+          "given": "Haoran"
+        },
+        {
+          "family": "Hou",
+          "given": "Zhenyu"
+        },
+        {
+          "family": "Wei",
+          "given": "Yao"
+        },
+        {
+          "family": "Tang",
+          "given": "Jie"
+        },
+        {
+          "family": "Dong",
+          "given": "Yuxiao"
+        }
+      ],
+      "date": [
+        2025,
+        6,
+        9
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2506.07636",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2506.07636",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling",
+        "title_match": true,
+        "response_sha256": "db8f0135c101e8de5c2044ab23ed7c2472404ac11d03154b193540a1b832dad3"
+      }
+    },
+    {
+      "id": "f080_ref_059",
+      "slot": 59,
+      "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+      "published_reference": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure — International Labour Organization.",
+      "published_attribution": "International Labour Organization.",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "4a44d6512411d466f2c7f394597013577c68d1cda2939a0519d445d8d5d8f5a5"
+      }
+    },
+    {
+      "id": "f080_ref_060",
+      "slot": 60,
+      "title": "How AI Will Impact Chip Design and Designers",
+      "published_reference": "How AI Will Impact Chip Design and Designers — Semiconductor Engineering.",
+      "published_attribution": "Semiconductor Engineering.",
+      "url": "https://semiengineering.com/how-ai-will-impact-chip-design-and-designers/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "2ebafd6cee7a30e23ce488fab01de61a0612657d55668dd038c6210a3943fe4f"
+      }
+    },
+    {
+      "id": "f080_ref_061",
+      "slot": 61,
+      "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+      "published_reference": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile — NIST.",
+      "published_attribution": "NIST.",
+      "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "given": "Chloe",
+          "family": "Autio"
+        },
+        {
+          "given": "Reva",
+          "family": "Schwartz"
+        },
+        {
+          "given": "Jesse",
+          "family": "Dunietz"
+        },
+        {
+          "given": "Shomik",
+          "family": "Jain"
+        },
+        {
+          "given": "Martin",
+          "family": "Stanley"
+        },
+        {
+          "given": "Elham",
+          "family": "Tabassi"
+        },
+        {
+          "given": "Patrick",
+          "family": "Hall"
+        },
+        {
+          "given": "Kamie",
+          "family": "Roberts"
+        }
+      ],
+      "date": null,
+      "doi": null,
+      "metadata_note": "Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+        "title_match": true,
+        "response_sha256": "774080b479a4c356abc3acc9b6eceb08d277e316a22a42e23101cbc91f3a63fc"
+      }
+    },
+    {
+      "id": "f080_ref_062",
+      "slot": 62,
+      "title": "AI Act",
+      "published_reference": "AI Act — European Commission.",
+      "published_attribution": "European Commission.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "66c562e270fe08c2f6baf8186313ac247c6b08d30a7a0a3975c5513272c26927"
+      }
+    },
+    {
+      "id": "f080_ref_063",
+      "slot": 63,
+      "title": "aiSure: AI Performance Warranties and Risk Transfer",
+      "published_reference": "aiSure: AI Performance Warranties and Risk Transfer — Munich Re.",
+      "published_attribution": "Munich Re.",
+      "url": "https://www.munichre.com/en/solutions/for-industry-clients/insure-ai.html",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "6af6141e16d279117613824857f6d622fc043a44d9afd4382133fc4ef0541a33"
+      }
+    },
+    {
+      "id": "f080_ref_064",
+      "slot": 64,
+      "title": "Software Engineering in the Agent Era: From Trustworthy Change to Human-Agent Software Organizations",
+      "published_reference": "Software Engineering in the Agent Era: From Trustworthy Change to Human-Agent Software Organizations — Zhongjie Wang and Mingyi Liu.",
+      "published_attribution": "Zhongjie Wang and Mingyi Liu.",
+      "url": "https://arxiv.org/abs/2609.04630",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Wang",
+          "given": "Zhongjie"
+        },
+        {
+          "family": "Liu",
+          "given": "Mingyi"
+        }
+      ],
+      "date": [
+        2026,
+        9,
+        4
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2609.04630",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Software Engineering in the Agent Era From Trustworthy Change to Human Agent Software Organizations"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2609.04630",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Software Engineering in the Agent Era From Trustworthy Change to Human Agent Software Organizations"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Software Engineering in the Agent Era From Trustworthy Change to Human Agent Software Organizations",
+        "title_match": true,
+        "response_sha256": "8632291cc35c7ce46723d5e25727aa9e03b558314e6bdbb2091d1cdd486973a0"
+      }
+    },
+    {
+      "id": "f080_ref_065",
+      "slot": 65,
+      "title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle",
+      "published_reference": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle — Happy Bhati.",
+      "published_attribution": "Happy Bhati.",
+      "url": "https://arxiv.org/abs/2609.04681",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Bhati",
+          "given": "Happy"
+        }
+      ],
+      "date": [
+        2026,
+        9,
+        4
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2609.04681",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2609.04681",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle",
+        "title_match": true,
+        "response_sha256": "c50bd0ae957f3f92055fc98ae243d9e46e455bdb48a26aed3880b3f45e0d6de3"
+      }
+    },
+    {
+      "id": "f080_ref_066",
+      "slot": 66,
+      "title": "READY or Not: Reliable Enterprise Agent Deployment",
+      "published_reference": "READY or Not: Reliable Enterprise Agent Deployment — Scale AI researchers.",
+      "published_attribution": "Scale AI researchers.",
+      "url": "https://arxiv.org/abs/2609.02095",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Chatrath",
+          "given": "Veronica"
+        },
+        {
+          "family": "Zhu",
+          "given": "Bryan"
+        },
+        {
+          "family": "Fan",
+          "given": "Jingxuan"
+        },
+        {
+          "family": "Pu",
+          "given": "George"
+        },
+        {
+          "family": "Tiwari",
+          "given": "Soham Dinesh"
+        },
+        {
+          "family": "Dan",
+          "given": "Soham"
+        },
+        {
+          "family": "Young",
+          "given": "Ryan"
+        },
+        {
+          "literal": "Yuan"
+        },
+        {
+          "literal": "Li"
+        },
+        {
+          "family": "Yao",
+          "given": "Yuang"
+        },
+        {
+          "family": "Shanker",
+          "given": "Apaar"
+        },
+        {
+          "family": "Yang",
+          "given": "Minglai"
+        },
+        {
+          "family": "Zhang",
+          "given": "Daniel Yue"
+        },
+        {
+          "family": "He",
+          "given": "Yunzhong"
+        },
+        {
+          "family": "Liu",
+          "given": "Ying"
+        },
+        {
+          "family": "Wang",
+          "given": "Chenguang"
+        },
+        {
+          "family": "Yin",
+          "given": "Zhijun"
+        },
+        {
+          "family": "Xue",
+          "given": "Yuan"
+        }
+      ],
+      "date": [
+        2026,
+        9,
+        2
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2609.02095",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "READY or Not: Reliable Enterprise Agent Deployment"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2609.02095",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "READY or Not: Reliable Enterprise Agent Deployment"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "READY or Not: Reliable Enterprise Agent Deployment",
+        "title_match": true,
+        "response_sha256": "e58f0908ccd3432bf1e6ef3a581ba778f6747a4556a552c2f0a46d346581b41e"
+      }
+    },
+    {
+      "id": "f080_ref_067",
+      "slot": 67,
+      "title": "AI Agents That Matter",
+      "published_reference": "AI Agents That Matter — Sayash Kapoor and colleagues.",
+      "published_attribution": "Sayash Kapoor and colleagues.",
+      "url": "https://arxiv.org/abs/2407.01502",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Kapoor",
+          "given": "Sayash"
+        },
+        {
+          "family": "Stroebl",
+          "given": "Benedikt"
+        },
+        {
+          "family": "Siegel",
+          "given": "Zachary S."
+        },
+        {
+          "family": "Nadgir",
+          "given": "Nitya"
+        },
+        {
+          "family": "Narayanan",
+          "given": "Arvind"
+        }
+      ],
+      "date": [
+        2024,
+        7,
+        1
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2407.01502",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "AI Agents That Matter"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2407.01502",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "AI Agents That Matter"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "AI Agents That Matter",
+        "title_match": true,
+        "response_sha256": "3d4f56ec51e1c77a17145bd3978614f5d63ed013772b2b8f6087d122aa29a874"
+      }
+    },
+    {
+      "id": "f080_ref_068",
+      "slot": 68,
+      "title": "Tracking Capabilities for Safer Agents",
+      "published_reference": "Tracking Capabilities for Safer Agents — Martin Odersky and colleagues.",
+      "published_attribution": "Martin Odersky and colleagues.",
+      "url": "https://arxiv.org/abs/2603.00991",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Odersky",
+          "given": "Martin"
+        },
+        {
+          "family": "Zhao",
+          "given": "Yaoyu"
+        },
+        {
+          "family": "Xu",
+          "given": "Yichen"
+        },
+        {
+          "family": "Bračevac",
+          "given": "Oliver"
+        },
+        {
+          "family": "Pham",
+          "given": "Cao Nguyen"
+        }
+      ],
+      "date": [
+        2026,
+        3,
+        1
+      ],
+      "doi": "10.1145/3786335.3813127",
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2603.00991",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Tracking Capabilities for Safer Agents"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2603.00991",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Tracking Capabilities for Safer Agents"
+        },
+        "doi": {
+          "authority_url": "https://arxiv.org/abs/2603.00991",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Tracking Capabilities for Safer Agents"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Tracking Capabilities for Safer Agents",
+        "title_match": true,
+        "response_sha256": "1283cdf5fbb696a8f6c3d997bdf2e66d2ad421249936889ed1a35da812fd1369"
+      }
+    },
+    {
+      "id": "f080_ref_069",
+      "slot": 69,
+      "title": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents",
+      "published_reference": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents — Bouras and colleagues.",
+      "published_attribution": "Bouras and colleagues.",
+      "url": "https://arxiv.org/abs/2609.08371",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Bouras",
+          "given": "Dimitrios Stamatios"
+        },
+        {
+          "family": "Dai",
+          "given": "Yihan"
+        },
+        {
+          "family": "Mechtaev",
+          "given": "Sergey"
+        }
+      ],
+      "date": [
+        2026,
+        9,
+        8
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2609.08371",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2609.08371",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents",
+        "title_match": true,
+        "response_sha256": "e593315e6e6d55f03c6a21a532443b91eeb29981bcf1fd8e1209b92f99f54fb8"
+      }
+    },
+    {
+      "id": "f080_ref_070",
+      "slot": 70,
+      "title": "Code as Agent Harness",
+      "published_reference": "Code as Agent Harness — Xuying Ning and colleagues.",
+      "published_attribution": "Xuying Ning and colleagues.",
+      "url": "https://arxiv.org/abs/2605.18747",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Ning",
+          "given": "Xuying"
+        },
+        {
+          "family": "Tieu",
+          "given": "Katherine"
+        },
+        {
+          "family": "Fu",
+          "given": "Dongqi"
+        },
+        {
+          "family": "Wei",
+          "given": "Tianxin"
+        },
+        {
+          "family": "Li",
+          "given": "Zihao"
+        },
+        {
+          "family": "Bei",
+          "given": "Yuanchen"
+        },
+        {
+          "family": "Zou",
+          "given": "Jiaru"
+        },
+        {
+          "family": "Ai",
+          "given": "Mengting"
+        },
+        {
+          "family": "Liu",
+          "given": "Zhining"
+        },
+        {
+          "family": "Li",
+          "given": "Ting-Wei"
+        },
+        {
+          "family": "Chen",
+          "given": "Lingjie"
+        },
+        {
+          "family": "Zhao",
+          "given": "Yanjun"
+        },
+        {
+          "family": "Yang",
+          "given": "Ke"
+        },
+        {
+          "family": "Li",
+          "given": "Bingxuan"
+        },
+        {
+          "family": "Qian",
+          "given": "Cheng"
+        },
+        {
+          "family": "Li",
+          "given": "Gaotang"
+        },
+        {
+          "family": "Lin",
+          "given": "Xiao"
+        },
+        {
+          "family": "Zeng",
+          "given": "Zhichen"
+        },
+        {
+          "family": "Qiu",
+          "given": "Ruizhong"
+        },
+        {
+          "family": "Chen",
+          "given": "Sirui"
+        },
+        {
+          "family": "Sun",
+          "given": "Yifan"
+        },
+        {
+          "family": "Yang",
+          "given": "Xiyuan"
+        },
+        {
+          "family": "Wang",
+          "given": "Ruida"
+        },
+        {
+          "family": "Pan",
+          "given": "Rui"
+        },
+        {
+          "family": "Yang",
+          "given": "Chenyuan"
+        },
+        {
+          "family": "Zhang",
+          "given": "Dylan"
+        },
+        {
+          "family": "Fang",
+          "given": "Liri"
+        },
+        {
+          "family": "Cui",
+          "given": "Zikun"
+        },
+        {
+          "family": "Cao",
+          "given": "Yang"
+        },
+        {
+          "family": "Chen",
+          "given": "Pan"
+        },
+        {
+          "family": "Sun",
+          "given": "Dorothy"
+        },
+        {
+          "family": "Chen",
+          "given": "Ren"
+        },
+        {
+          "family": "Srinivasan",
+          "given": "Mahesh"
+        },
+        {
+          "family": "Mathur",
+          "given": "Nipun"
+        },
+        {
+          "family": "Xia",
+          "given": "Yinglong"
+        },
+        {
+          "family": "Li",
+          "given": "Hong"
+        },
+        {
+          "family": "Yan",
+          "given": "Hong"
+        },
+        {
+          "family": "Lu",
+          "given": "Pan"
+        },
+        {
+          "family": "Zhang",
+          "given": "Lingming"
+        },
+        {
+          "family": "Zhang",
+          "given": "Tong"
+        },
+        {
+          "family": "Tong",
+          "given": "Hanghang"
+        },
+        {
+          "family": "He",
+          "given": "Jingrui"
+        }
+      ],
+      "date": [
+        2026,
+        5,
+        18
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2605.18747",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Code as Agent Harness"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2605.18747",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Code as Agent Harness"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Code as Agent Harness",
+        "title_match": true,
+        "response_sha256": "71122fb6dac6ec49d7ee253850952231a4f1af3b0d501f9eb8e50e853dd113f4"
+      }
+    },
+    {
+      "id": "f080_ref_071",
+      "slot": 71,
+      "title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+      "published_reference": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses — Lin and colleagues.",
+      "published_attribution": "Lin and colleagues.",
+      "url": "https://arxiv.org/abs/2604.25850",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Lin",
+          "given": "Jiahang"
+        },
+        {
+          "family": "Liu",
+          "given": "Shichun"
+        },
+        {
+          "family": "Pan",
+          "given": "Chengjun"
+        },
+        {
+          "family": "Lin",
+          "given": "Lizhi"
+        },
+        {
+          "family": "Dou",
+          "given": "Shihan"
+        },
+        {
+          "family": "Xi",
+          "given": "Zhiheng"
+        },
+        {
+          "family": "Huang",
+          "given": "Xuanjing"
+        },
+        {
+          "family": "Yan",
+          "given": "Hang"
+        },
+        {
+          "family": "Han",
+          "given": "Zhenhua"
+        },
+        {
+          "family": "Gui",
+          "given": "Tao"
+        },
+        {
+          "family": "Jiang",
+          "given": "Yu-Gang"
+        }
+      ],
+      "date": [
+        2026,
+        4,
+        28
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2604.25850",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2604.25850",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+        "title_match": true,
+        "response_sha256": "62fcbc1aebd90defa93c346fa1e0d3b518e569c20845e3116a945cb800c53d3a"
+      }
+    },
+    {
+      "id": "f080_ref_072",
+      "slot": 72,
+      "title": "ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents",
+      "published_reference": "ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents — Jiawei He and colleagues.",
+      "published_attribution": "Jiawei He and colleagues.",
+      "url": "https://arxiv.org/abs/2605.20251",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "ProcCtrlBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents",
+        "title_match": false,
+        "response_sha256": "3868be9b3043b01232951e43c83706259750bfc4c3aee2fcbf0f9469f6e48694"
+      }
+    },
+    {
+      "id": "f080_ref_073",
+      "slot": 73,
+      "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+      "published_reference": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks — Gabriel Orlanski and colleagues.",
+      "published_attribution": "Gabriel Orlanski and colleagues.",
+      "url": "https://arxiv.org/abs/2603.24755",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Orlanski",
+          "given": "Gabriel"
+        },
+        {
+          "family": "Roy",
+          "given": "Devjeet"
+        },
+        {
+          "family": "Yun",
+          "given": "Alexander"
+        },
+        {
+          "family": "Shin",
+          "given": "Changho"
+        },
+        {
+          "family": "Gu",
+          "given": "Alex"
+        },
+        {
+          "family": "Ge",
+          "given": "Albert"
+        },
+        {
+          "family": "Adila",
+          "given": "Dyah"
+        },
+        {
+          "family": "Roberts",
+          "given": "Nicholas"
+        },
+        {
+          "family": "Sala",
+          "given": "Frederic"
+        },
+        {
+          "family": "Albarghouthi",
+          "given": "Aws"
+        }
+      ],
+      "date": [
+        2026,
+        3,
+        25
+      ],
+      "doi": null,
+      "metadata_note": "Multiple DOI values in current arXiv metadata refer to other artifacts; no primary-work DOI inferred.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2603.24755",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2603.24755",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+        "title_match": true,
+        "response_sha256": "837971abc82e3e6bc4b9b3af0aea4e406ac99c1037322a16e26625b9222cf5f7"
+      }
+    },
+    {
+      "id": "f080_ref_074",
+      "slot": 74,
+      "title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
+      "published_reference": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime — Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao.",
+      "published_attribution": "Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao.",
+      "url": "https://www.preprints.org/manuscript/202603.1756",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": null,
+        "error": "HTTP Error 403: Forbidden",
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": null
+      }
+    },
+    {
+      "id": "f080_ref_075",
+      "slot": 75,
+      "title": "Gluon — The Action Substrate for AI Agents",
+      "published_reference": "Gluon — The Action Substrate for AI Agents — Gluon.",
+      "published_attribution": "Gluon.",
+      "url": "https://gluon.sh/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "3e570d1ba52bfb371749ca036336c8b6d4aba5a2d18b5358ba2cb6cfabe4d515"
+      }
+    },
+    {
+      "id": "f080_ref_076",
+      "slot": 76,
+      "title": "AI Agent Safety: The Substrate Pattern in Practice",
+      "published_reference": "AI Agent Safety: The Substrate Pattern in Practice — Dipankar Sarkar.",
+      "published_attribution": "Dipankar Sarkar.",
+      "url": "https://www.dipankar.co/articles/ai-agent-safety-substrate-pattern-practice/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "668e8796f92f9bd0caaa9ae1862cccbea34217ec12eb7aa243979dbee69b507b"
+      }
+    },
+    {
+      "id": "f080_ref_077",
+      "slot": 77,
+      "title": "ComposeBench",
+      "published_reference": "ComposeBench — MindLab Research.",
+      "published_attribution": "MindLab Research.",
+      "url": "https://github.com/MindLab-Research/ComposeBench",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "3bedb85ad9a835fcbe5df244a7cc16d5f4474921a5fd4a13d22b1b550eecd8cc"
+      }
+    },
+    {
+      "id": "f080_ref_078",
+      "slot": 78,
+      "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+      "published_reference": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI — Qianggang Ding and colleagues.",
+      "published_attribution": "Qianggang Ding and colleagues.",
+      "url": "https://arxiv.org/abs/2608.10915",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Ding",
+          "given": "Qianggang"
+        },
+        {
+          "family": "Wang",
+          "given": "Xingyao"
+        },
+        {
+          "family": "Feng",
+          "given": "Rui"
+        },
+        {
+          "family": "Wang",
+          "given": "Zhibin"
+        },
+        {
+          "family": "Yao",
+          "given": "Feixiang"
+        },
+        {
+          "family": "Mao",
+          "given": "Kelong"
+        },
+        {
+          "family": "Sun",
+          "given": "Hao"
+        },
+        {
+          "family": "Luo",
+          "given": "Zhiyao"
+        },
+        {
+          "family": "Tang",
+          "given": "Jiankai"
+        },
+        {
+          "family": "Li",
+          "given": "Lei"
+        },
+        {
+          "family": "Guo",
+          "given": "Jiadong"
+        },
+        {
+          "family": "Ni",
+          "given": "Minheng"
+        },
+        {
+          "family": "Lin",
+          "given": "Weicong"
+        },
+        {
+          "family": "Yang",
+          "given": "Chenxi"
+        },
+        {
+          "family": "Gao",
+          "given": "Hongxiang"
+        },
+        {
+          "family": "Chen",
+          "given": "Zhenghua"
+        },
+        {
+          "family": "Bai",
+          "given": "Yang"
+        },
+        {
+          "family": "Wu",
+          "given": "Min"
+        },
+        {
+          "family": "Cheng",
+          "given": "Jun"
+        },
+        {
+          "family": "Fu",
+          "given": "Huazhu"
+        },
+        {
+          "family": "Tao",
+          "given": "Dacheng"
+        },
+        {
+          "family": "Liu",
+          "given": "Bang"
+        }
+      ],
+      "date": [
+        2026,
+        8,
+        11
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2608.10915",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2608.10915",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+        "title_match": true,
+        "response_sha256": "d509fb9569746d97c78d42059b426450acc08c7644ae41ef754ebc5aa1c5c2ac"
+      }
+    },
+    {
+      "id": "f080_ref_079",
+      "slot": 79,
+      "title": "Interactive Drama, Art and Artificial Intelligence",
+      "published_reference": "Interactive Drama, Art and Artificial Intelligence — Michael Mateas.",
+      "published_attribution": "Michael Mateas.",
+      "url": "https://www.cs.cmu.edu/~dgroup/papers/CMU-CS-02-206.pdf",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "2e245b576c2acf6b19752a026c04ab37c626baa07c4c58524d8c26bdd86d8697"
+      }
+    },
+    {
+      "id": "f080_ref_080",
+      "slot": 80,
+      "title": "The Best Language for AI Agents — What the Benchmarks Actually Say About Language Choice",
+      "published_reference": "The Best Language for AI Agents — What the Benchmarks Actually Say About Language Choice — Kiberon Labs.",
+      "published_attribution": "Kiberon Labs.",
+      "url": "https://kiberonlabs.substack.com/p/the-best-language-for-ai-agents",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "16268986c3f5fb0213ccd7f285d45c6bd1420f108f09dbaf1905151fdca95655"
+      }
+    },
+    {
+      "id": "f080_ref_081",
+      "slot": 81,
+      "title": "What Is Agentic Engineering?",
+      "published_reference": "What Is Agentic Engineering? — Priyanka Pandey; reviewed by Sanjeev Purohit.",
+      "published_attribution": "Priyanka Pandey; reviewed by Sanjeev Purohit.",
+      "url": "https://ivaaya.com/insights/what-is-agentic-engineering",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "1e75efa62ecb1aa558e8045fbc23c79f8ec5d9155da902c72bab1c7ef6f5b033"
+      }
+    },
+    {
+      "id": "f080_ref_082",
+      "slot": 82,
+      "title": "What Would a Fair Benchmark for Agent Architecture Look Like?",
+      "published_reference": "What Would a Fair Benchmark for Agent Architecture Look Like? — jonah_omninode. Public discussion.",
+      "published_attribution": "jonah_omninode. Public discussion.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "ea0e182f659d270efc65f96f47dc0ad6fcaf23d0219be68a3a1a8014a92dc6b7"
+      }
+    },
+    {
+      "id": "f080_ref_083",
+      "slot": 83,
+      "title": "Loop Budgeting: Allocating Iteration and Token Budget Across Turns",
+      "published_reference": "Loop Budgeting: Allocating Iteration and Token Budget Across Turns — AgentPatterns.ai.",
+      "published_attribution": "AgentPatterns.ai.",
+      "url": "https://agentpatterns.ai/loop-engineering/loop-budgeting/",
+      "alternate_urls": [],
+      "authors": null,
+      "date": null,
+      "doi": null,
+      "metadata_note": "Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": null,
+        "title_match": false,
+        "response_sha256": "b496e8424d78999aae28a51fa255bcd4609c1d78d99d255f7b145276e7ac4f70"
+      }
+    },
+    {
+      "id": "f080_ref_084",
+      "slot": 84,
+      "title": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation",
+      "published_reference": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation — Yijun Shen and colleagues.",
+      "published_attribution": "Yijun Shen and colleagues.",
+      "url": "https://arxiv.org/abs/2606.13735",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Shen",
+          "given": "Yijun"
+        },
+        {
+          "family": "Shao",
+          "given": "Minghao"
+        },
+        {
+          "family": "Zhao",
+          "given": "Yichen"
+        },
+        {
+          "family": "Yu",
+          "given": "Zhuoyan"
+        },
+        {
+          "family": "Chen",
+          "given": "Boyuan"
+        },
+        {
+          "family": "Tam",
+          "given": "Yik-Cheung"
+        },
+        {
+          "family": "Shafique",
+          "given": "Muhammad"
+        }
+      ],
+      "date": [
+        2026,
+        6,
+        11
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2606.13735",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2606.13735",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation",
+        "title_match": true,
+        "response_sha256": "a497912d8a57fb424dd577575f3f16296961edcc723a553f24fce5617ecd5f4e"
+      }
+    },
+    {
+      "id": "f080_ref_085",
+      "slot": 85,
+      "title": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols",
+      "published_reference": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols — Arnav Sheth, Ivaxi Sheth, and Mario Fritz.",
+      "published_attribution": "Arnav Sheth, Ivaxi Sheth, and Mario Fritz.",
+      "url": "https://arxiv.org/abs/2506.07945",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Sheth",
+          "given": "Arnav"
+        },
+        {
+          "family": "Sheth",
+          "given": "Ivaxi"
+        },
+        {
+          "family": "Fritz",
+          "given": "Mario"
+        }
+      ],
+      "date": [
+        2025,
+        6,
+        9
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2506.07945",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2506.07945",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols",
+        "title_match": true,
+        "response_sha256": "33c7cfa5eea32bf815f2c831de4efe299bd21eb3c77f889fd1f54691f70e497f"
+      }
+    },
+    {
+      "id": "f080_ref_086",
+      "slot": 86,
+      "title": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification",
+      "published_reference": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification — Yujie Zhao and colleagues.",
+      "published_attribution": "Yujie Zhao and colleagues.",
+      "url": "https://arxiv.org/abs/2506.12200",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Zhao",
+          "given": "Yujie"
+        },
+        {
+          "family": "Wu",
+          "given": "Zhijing"
+        },
+        {
+          "family": "Yuan",
+          "given": "Boqin"
+        },
+        {
+          "family": "Yu",
+          "given": "Zhongming"
+        },
+        {
+          "family": "Zhang",
+          "given": "Hejia"
+        },
+        {
+          "family": "Ni",
+          "given": "Wentao"
+        },
+        {
+          "family": "Ho",
+          "given": "Chia-Tung"
+        },
+        {
+          "family": "Ren",
+          "given": "Haoxing"
+        },
+        {
+          "family": "Zhao",
+          "given": "Jishen"
+        }
+      ],
+      "date": [
+        2025,
+        6,
+        13
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2506.12200",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2506.12200",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification",
+        "title_match": true,
+        "response_sha256": "8bebab7c777e2d59ad03ef7e39327544eebc3e13b685e0d87718462c503343ad"
+      }
+    },
+    {
+      "id": "f080_ref_087",
+      "slot": 87,
+      "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+      "published_reference": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering — Yang and colleagues.",
+      "published_attribution": "Yang and colleagues.",
+      "url": "https://arxiv.org/abs/2405.15793",
+      "alternate_urls": [],
+      "authors": [
+        {
+          "family": "Yang",
+          "given": "John"
+        },
+        {
+          "family": "Jimenez",
+          "given": "Carlos E."
+        },
+        {
+          "family": "Wettig",
+          "given": "Alexander"
+        },
+        {
+          "family": "Lieret",
+          "given": "Kilian"
+        },
+        {
+          "family": "Yao",
+          "given": "Shunyu"
+        },
+        {
+          "family": "Narasimhan",
+          "given": "Karthik"
+        },
+        {
+          "family": "Press",
+          "given": "Ofir"
+        }
+      ],
+      "date": [
+        2024,
+        5,
+        6
+      ],
+      "doi": null,
+      "metadata_note": "",
+      "field_provenance": {
+        "title": {
+          "authority": "exact Zenodo PDF reference string"
+        },
+        "url": {
+          "authority": "published PDF and matched native source hyperlink"
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2405.15793",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+        },
+        "date": {
+          "authority_url": "https://arxiv.org/abs/2405.15793",
+          "channel": "responsible source Highwire metadata",
+          "authority_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+        }
+      },
+      "source_check": {
+        "status": 200,
+        "error": null,
+        "authority_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "title_match": true,
+        "response_sha256": "7c98d2fca05b7a4978df79f781d7c10108a8eaf362fc816790eae3b48154c805"
+      }
+    }
+  ],
+  "exceptions": [
+    {
+      "slot": 1,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 2,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 3,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 4,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 7,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 10,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 14,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 15,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 16,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 17,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 18,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 19,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Current authority title differs from the published title; published wording retained without silent correction."
+      ]
+    },
+    {
+      "slot": 21,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 24,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 25,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 26,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 28,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 29,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 30,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 31,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Current authority title differs from the published title; published wording retained without silent correction."
+      ]
+    },
+    {
+      "slot": 32,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 33,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 34,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 35,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 36,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 37,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 38,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Current authority title differs from the published title; published wording retained without silent correction."
+      ]
+    },
+    {
+      "slot": 39,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 40,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 41,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 43,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 45,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 46,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 47,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 48,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 49,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 50,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 51,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 52,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 53,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 55,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 56,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 59,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 60,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 61,
+      "limitations": [
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 62,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 63,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 72,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Current authority title differs from the published title; published wording retained without silent correction."
+      ]
+    },
+    {
+      "slot": 73,
+      "limitations": [
+        "Multiple DOI values in current arXiv metadata refer to other artifacts; no primary-work DOI inferred."
+      ]
+    },
+    {
+      "slot": 74,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted.",
+        "Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+      ]
+    },
+    {
+      "slot": 75,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 76,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 77,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 79,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 80,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 81,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 82,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    },
+    {
+      "slot": 83,
+      "limitations": [
+        "Complete author list unresolved; exact published attribution retained.",
+        "Publication date unresolved; no access or update date substituted."
+      ]
+    }
+  ],
+  "completeness": {
+    "slots": 87,
+    "works": 87,
+    "links": 87,
+    "composite_slots": 0,
+    "reused_works": 0,
+    "complete_author_lists": 31,
+    "dates_verified": 30,
+    "doi_identifiers": 10,
+    "live_link_attempts": 87,
+    "successful_http_acquisitions": 76,
+    "failed_retrieval_attempts": 11
+  }
+}

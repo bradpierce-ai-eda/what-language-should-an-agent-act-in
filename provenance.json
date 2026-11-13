@@ -1,0 +1,27 @@
+{
+  "source_doi": "10.5281/zenodo.22837693",
+  "source_record": "https://zenodo.org/records/22837693",
+  "source_version": "1.0",
+  "source_publication_date": "2026-09-14",
+  "source_filename": "what-language-should-an-agent-act-in.pdf",
+  "source_bytes": 1579156,
+  "source_md5": "7a8e175dc6b7d75e9a953e598cf9a09a",
+  "source_license": "CC-BY-4.0",
+  "disclosure_reference": "https://github.com/bradpierce-ai-eda/when-design-exploration-gets-cheap/blob/main/index.html",
+  "disclosure_reference_sha256": "97023f456cb286ff10578ef478621dcb403509a48daa07e5fd21494c23fba105",
+  "source_text_validation": "241 text blocks sequentially matched to actual acquired Zenodo PDF; original bibliography automatic labels and PDF line-wrap whitespace handled explicitly.",
+  "ai_assistance": "AI model assisted the derivative extraction, generation and validation; Brad Pierce authorized the disclosure wording and publication.",
+  "paper_sha256": "0d86e4fbac6d52300906400a033d3217c356919b2ba65a9f291515b5eda37957",
+  "source_blocks_sha256": "c4f48661815c504b1adfb3c8bdf4edcd1586b6f54afb67eb6b401a0be1e69930",
+  "derivative_blocks_sha256": "340a44d5798a20f37faf50b5139c42a87df0b3c721e1a61f590e959348a27af8",
+  "date_generated": "2026-11-12",
+  "transformation": "Native release structure matched sequentially against actual Zenodo PDF; original PDF images extracted with PyMuPDF; deterministic Python static HTML/Markdown/bibliography generation.",
+  "manual_corrections": "Only the explicitly authorized AI disclosure change; automatic bibliography labels made explicit; no substantive prose correction.",
+  "counts": {
+    "pdf_pages": 23,
+    "original_text_blocks": 241,
+    "figures": 8,
+    "published_reference_slots": 87
+  },
+  "validation_status": "Local validation evidence in VALIDATION.json; public transfer and live verification recorded separately in the durable Drive execution record."
+}
