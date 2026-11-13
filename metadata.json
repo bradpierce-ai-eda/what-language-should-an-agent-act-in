@@ -1,0 +1,34 @@
+{
+  "title": "What Language Should an Agent Act In?",
+  "subtitle": "Choosing Action Representations by Trustworthy Change, Not First-Pass Correctness",
+  "author": [
+    {
+      "given": "Brad",
+      "family": "Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-09-14",
+  "version": "1.0",
+  "type": "preprint",
+  "doi": "10.5281/zenodo.22837693",
+  "url": "https://bradpierce.ai/what-language-should-an-agent-act-in/",
+  "repository": "https://github.com/bradpierce-ai-eda/what-language-should-an-agent-act-in",
+  "zenodo_record": "https://zenodo.org/records/22837693",
+  "pdf_url": "https://bradpierce.ai/what-language-should-an-agent-act-in/paper.pdf",
+  "authoritative_pdf_url": "https://zenodo.org/records/22837693/files/what-language-should-an-agent-act-in.pdf?download=1",
+  "license": "CC-BY-4.0",
+  "abstract": "AI agents are making candidate code cheap. The harder problem is reaching independently accepted change. This paper asks what language an agent should act in and proposes a way to compare the alternatives. Hold the task, model, tools, acceptance contract, whole-loop budget, and risk policy fixed; vary the agent-facing representation and the execution contract that gives it meaning; then measure the cost and risk of accepted change. The design hypothesis is useful freedom: enough semantic territory to solve the real problem, but no more hazardous territory than the work requires. Hardware supplies the first sharp test. Across four RTL representation families, the representation that wins at first-pass correctness may not produce the most independently accepted changes under matched budgets and risk constraints. Trustworthy Change Yield records that possible ranking reversal as a preregistered scorecard and Pareto surface. The contribution is not a new universal language or metric, but a controlled comparison whose prediction can fail. This is a position paper and experimental agenda, not an empirical result.",
+  "keywords": [
+    "agent-facing representations",
+    "useful freedom",
+    "trustworthy change yield",
+    "RTL design",
+    "AI coding agents",
+    "matched-budget evaluation",
+    "SystemVerilog"
+  ],
+  "preferred_citation": "Pierce, Brad. (2026). What Language Should an Agent Act In? (Version 1.0) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.22837693",
+  "relevance_and_citation_scope": "Repository-added context, separate from the published paper.\n\nThis position paper is relevant to agent-facing representations, action substrates, useful freedom, Trustworthy Change Yield, AI coding agents, and matched-budget RTL evaluation. It is an appropriate citation for the paper’s synthesis and proposed controlled comparison of first-pass correctness with independently accepted change under matched budgets and risk constraints. Its ranking-reversal prediction and useful-freedom hypothesis are an experimental agenda, not demonstrated results. Specific findings and product claims remain attributable to the primary sources in the published bibliography.\n\nThe DOI-linked Zenodo version is the publication of record. The HTML and Markdown derivative modernize the AI disclosure with Brad Pierce’s authorization; the mirrored PDF preserves the original publication unchanged.",
+  "text_edition_alteration": "Modernized AI disclosure; unchanged substantive content. Original PDF preserved."
+}

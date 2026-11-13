@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "The DOI-linked Zenodo preprint is the publication of record."
+type: article
+title: "What Language Should an Agent Act In?"
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: https://orcid.org/0009-0009-7427-2969
+doi: 10.5281/zenodo.22837693
+date-released: 2026-09-14
+version: "1.0"
+url: https://doi.org/10.5281/zenodo.22837693
+license: CC-BY-4.0
+preferred-citation:
+  type: generic
+  title: "What Language Should an Agent Act In?"
+  authors:
+    - family-names: Pierce
+      given-names: Brad
+  doi: 10.5281/zenodo.22837693
+  year: 2026
+  month: 9
+  date-published: 2026-09-14
+  url: https://doi.org/10.5281/zenodo.22837693
+  publisher:
+    name: Zenodo

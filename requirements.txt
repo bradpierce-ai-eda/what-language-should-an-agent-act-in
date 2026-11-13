@@ -1,0 +1,6 @@
+beautifulsoup4
+Markdown
+PyMuPDF
+pypdf
+PyYAML
+bibtexparser<2

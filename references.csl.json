@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "f080_ref_001",
+    "type": "webpage",
+    "title": "The Architecture Is Old. The Computational Actor Is New",
+    "URL": "https://bradpierce.wordpress.com/2026/09/13/the-architecture-is-old-the-computational-actor-is-new/",
+    "note": "Published attribution: Brad Pierce with OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_002",
+    "type": "webpage",
+    "title": "Designing RTL with C++HDL",
+    "URL": "https://lnkd.in/p/gM6bBGXw",
+    "note": "Published attribution: Mike Reznikov. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_003",
+    "type": "webpage",
+    "title": "Building Effective Agents",
+    "URL": "https://www.anthropic.com/engineering/building-effective-agents",
+    "note": "Published attribution: Anthropic. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_004",
+    "type": "webpage",
+    "title": "Writing Effective Tools for Agents",
+    "URL": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+    "note": "Published attribution: Anthropic. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_005",
+    "type": "webpage",
+    "title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models",
+    "URL": "https://aclanthology.org/2021.emnlp-main.779/",
+    "note": "Published attribution: Scholak, Schucher, and Bahdanau. ",
+    "author": [
+      {
+        "given": "Torsten",
+        "family": "Scholak"
+      },
+      {
+        "given": "Nathan",
+        "family": "Schucher"
+      },
+      {
+        "given": "Dzmitry",
+        "family": "Bahdanau"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2021.emnlp-main.779"
+  },
+  {
+    "id": "f080_ref_006",
+    "type": "webpage",
+    "title": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models",
+    "URL": "https://arxiv.org/abs/2411.15100",
+    "note": "Published attribution: Dong and colleagues. ",
+    "author": [
+      {
+        "family": "Dong",
+        "given": "Yixin"
+      },
+      {
+        "family": "Ruan",
+        "given": "Charlie F."
+      },
+      {
+        "family": "Cai",
+        "given": "Yaxing"
+      },
+      {
+        "family": "Lai",
+        "given": "Ruihang"
+      },
+      {
+        "family": "Xu",
+        "given": "Ziyi"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yilong"
+      },
+      {
+        "family": "Chen",
+        "given": "Tianqi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_007",
+    "type": "webpage",
+    "title": "Introducing Structured Outputs in the API",
+    "URL": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+    "note": "Published attribution: OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_008",
+    "type": "webpage",
+    "title": "Type-Constrained Code Generation with Language Models",
+    "URL": "https://arxiv.org/abs/2504.09246",
+    "note": "Published attribution: Mündler and colleagues. ",
+    "author": [
+      {
+        "family": "Mündler",
+        "given": "Niels"
+      },
+      {
+        "family": "He",
+        "given": "Jingxuan"
+      },
+      {
+        "family": "Wang",
+        "given": "Hao"
+      },
+      {
+        "family": "Sen",
+        "given": "Koushik"
+      },
+      {
+        "family": "Song",
+        "given": "Dawn"
+      },
+      {
+        "family": "Vechev",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1145/3729274"
+  },
+  {
+    "id": "f080_ref_009",
+    "type": "webpage",
+    "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+    "URL": "https://arxiv.org/abs/2310.06770",
+    "note": "Published attribution: Jimenez and colleagues. ",
+    "author": [
+      {
+        "family": "Jimenez",
+        "given": "Carlos E."
+      },
+      {
+        "family": "Yang",
+        "given": "John"
+      },
+      {
+        "family": "Wettig",
+        "given": "Alexander"
+      },
+      {
+        "family": "Yao",
+        "given": "Shunyu"
+      },
+      {
+        "family": "Pei",
+        "given": "Kexin"
+      },
+      {
+        "family": "Press",
+        "given": "Ofir"
+      },
+      {
+        "family": "Narasimhan",
+        "given": "Karthik"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_010",
+    "type": "webpage",
+    "title": "Introducing SWE-bench Verified",
+    "URL": "https://openai.com/index/introducing-swe-bench-verified/",
+    "note": "Published attribution: OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_011",
+    "type": "webpage",
+    "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "URL": "https://arxiv.org/abs/2406.12045",
+    "note": "Published attribution: Yao and colleagues. ",
+    "author": [
+      {
+        "family": "Yao",
+        "given": "Shunyu"
+      },
+      {
+        "family": "Shinn",
+        "given": "Noah"
+      },
+      {
+        "family": "Razavi",
+        "given": "Pedram"
+      },
+      {
+        "family": "Narasimhan",
+        "given": "Karthik"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_012",
+    "type": "webpage",
+    "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+    "URL": "https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/",
+    "note": "Published attribution: Peng and colleagues. ",
+    "author": [
+      {
+        "given": "Sida",
+        "family": "Peng"
+      },
+      {
+        "given": "Eirini",
+        "family": "Kalliamvakou"
+      },
+      {
+        "given": "Peter",
+        "family": "Cihon"
+      },
+      {
+        "given": "Mert",
+        "family": "Demirer"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_013",
+    "type": "webpage",
+    "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+    "URL": "https://arxiv.org/abs/2507.09089",
+    "note": "Published attribution: METR. ",
+    "author": [
+      {
+        "family": "Becker",
+        "given": "Joel"
+      },
+      {
+        "family": "Rush",
+        "given": "Nate"
+      },
+      {
+        "family": "Barnes",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Rein",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_014",
+    "type": "webpage",
+    "title": "Accelerate State of DevOps Report 2024",
+    "URL": "https://dora.dev/research/2024/dora-report/",
+    "note": "Published attribution: DORA/Google Cloud. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_015",
+    "type": "webpage",
+    "title": "Proof-Carrying Code",
+    "URL": "https://people.eecs.berkeley.edu/~necula/Papers/pcc_popl97.ps",
+    "note": "Published attribution: George C. Necula. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_016",
+    "type": "webpage",
+    "title": "RustBelt: Securing the Foundations of the Rust Programming Language",
+    "URL": "https://dl.acm.org/doi/10.1145/3158154",
+    "note": "Published attribution: Jung and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "DOI": "10.1145/3158154"
+  },
+  {
+    "id": "f080_ref_017",
+    "type": "webpage",
+    "title": "The CompCert C Verified Compiler",
+    "URL": "https://compcert.org/",
+    "note": "Published attribution: Xavier Leroy and the CompCert project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_018",
+    "type": "webpage",
+    "title": "Usability Analysis of Visual Programming Environments: A Cognitive Dimensions Framework",
+    "URL": "https://doi.org/10.1006/jvlc.1996.0009",
+    "note": "Published attribution: Green and Petre. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.",
+    "DOI": "10.1006/jvlc.1996.0009"
+  },
+  {
+    "id": "f080_ref_019",
+    "type": "webpage",
+    "title": "A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar)",
+    "URL": "https://arxiv.org/abs/2506.12202",
+    "note": "Published attribution: Mell and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction."
+  },
+  {
+    "id": "f080_ref_020",
+    "type": "webpage",
+    "title": "Pel, A Programming Language for Orchestrating AI Agents",
+    "URL": "https://arxiv.org/abs/2505.13453",
+    "note": "Published attribution: Behnam Mohammadi. ",
+    "author": [
+      {
+        "family": "Mohammadi",
+        "given": "Behnam"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_021",
+    "type": "webpage",
+    "title": "Security Best Practices",
+    "URL": "https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices",
+    "note": "Published attribution: Model Context Protocol. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_022",
+    "type": "webpage",
+    "title": "Revisable by Design: A Theory of Streaming LLM Agent Execution",
+    "URL": "https://arxiv.org/abs/2604.23283",
+    "note": "Published attribution: Zhiyuan Zhai, Ming Li, and Xin Wang. ",
+    "author": [
+      {
+        "family": "Zhai",
+        "given": "Zhiyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Ming"
+      },
+      {
+        "family": "Wang",
+        "given": "Xin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_023",
+    "type": "webpage",
+    "title": "STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds",
+    "URL": "https://research.ibm.com/publications/stratus-a-multi-agent-system-for-autonomous-reliability-engineering-of-modern-clouds",
+    "note": "Published attribution: Chen and colleagues. ",
+    "author": [
+      {
+        "given": "Yinfang",
+        "family": "Chen"
+      },
+      {
+        "given": "Jiaqi",
+        "family": "Pan"
+      },
+      {
+        "given": "Jackson",
+        "family": "Clark"
+      },
+      {
+        "given": "Yiming",
+        "family": "Su"
+      },
+      {
+        "given": "Noah",
+        "family": "Zheutlin"
+      },
+      {
+        "given": "Bhavya",
+        "family": "Bhavya"
+      },
+      {
+        "given": "Rohan",
+        "family": "Arora"
+      },
+      {
+        "given": "Yu",
+        "family": "Deng"
+      },
+      {
+        "given": "Saurabh",
+        "family": "Jha"
+      },
+      {
+        "given": "Tianyin",
+        "family": "Xu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_024",
+    "type": "webpage",
+    "title": "terraform plan command reference",
+    "URL": "https://developer.hashicorp.com/terraform/cli/commands/plan",
+    "note": "Published attribution: HashiCorp. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_025",
+    "type": "webpage",
+    "title": "SLSA Build Provenance",
+    "URL": "https://slsa.dev/spec/draft/build-provenance",
+    "note": "Published attribution: OpenSSF. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_026",
+    "type": "webpage",
+    "title": "in-toto",
+    "URL": "https://in-toto.io/",
+    "note": "Published attribution: project specification and documentation. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_027",
+    "type": "webpage",
+    "title": "Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era",
+    "URL": "https://arxiv.org/abs/2604.07502",
+    "note": "Published attribution: Dmytro Ustynov. ",
+    "author": [
+      {
+        "family": "Ustynov",
+        "given": "Dmytro"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_028",
+    "type": "webpage",
+    "title": "A Language for Agents",
+    "URL": "https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/",
+    "note": "Published attribution: Armin Ronacher. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_029",
+    "type": "webpage",
+    "title": "IEEE 1800-2023 SystemVerilog Standard",
+    "URL": "https://standards.ieee.org/ieee/1800/7743/",
+    "note": "Published attribution: IEEE. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_030",
+    "type": "webpage",
+    "title": "Revamping Verilog Semantics for Foundational Verification",
+    "URL": "https://dl.acm.org/doi/10.1145/3763084",
+    "note": "Published attribution: Joonwon Choi, Jaewoo Kim, and Jeehoon Kang. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "DOI": "10.1145/3763084"
+  },
+  {
+    "id": "f080_ref_031",
+    "type": "webpage",
+    "title": "A Mechanised, Bidirectional Type System for Bit-Width Inference in SystemVerilog",
+    "URL": "https://link.springer.com/chapter/10.1007/978-3-032-32519-8_22",
+    "note": "Published attribution: Desfrene and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.",
+    "DOI": "10.1007/978-3-032-32519-8_22"
+  },
+  {
+    "id": "f080_ref_032",
+    "type": "webpage",
+    "title": "Time for Another Revision of the SystemVerilog IEEE 1800 Standard",
+    "URL": "https://blogs.sw.siemens.com/verificationhorizons/2020/07/30/another-revision-systemverilog/",
+    "note": "Published attribution: Dave Rich. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_033",
+    "type": "webpage",
+    "title": "Verilator project overview",
+    "URL": "https://www.veripool.org/verilator/",
+    "note": "Published attribution: CHIPS Alliance/Veripool. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_034",
+    "type": "webpage",
+    "title": "Verilator hierarchical and tracing documentation",
+    "URL": "https://verilator.org/guide/latest/verilating.html",
+    "note": "Published attribution: Verilator project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_035",
+    "type": "webpage",
+    "title": "VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation",
+    "URL": "https://2026.splashcon.org/details/oopsla-2026/37/VeriEQ-Finding-Verilog-Simulators-and-Synthesizers-Bugs-with-Equivalence-Circuit-Tra",
+    "note": "Published attribution: Yan and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_036",
+    "type": "webpage",
+    "title": "FIRRTL: A Compiler Intermediate Representation for Custom Digital Circuits",
+    "URL": "https://albert-magyar.github.io/documents/firrtl-iccad17.pdf",
+    "note": "Published attribution: Izraelevitz and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_037",
+    "type": "webpage",
+    "title": "CIRCT project documentation",
+    "URL": "https://circt.llvm.org/",
+    "note": "Published attribution: LLVM/CIRCT community. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_038",
+    "type": "webpage",
+    "title": "Calyx: A Compiler Infrastructure for Accelerator Generators",
+    "URL": "https://arxiv.org/abs/2102.09713",
+    "note": "Published attribution: Nigam and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction."
+  },
+  {
+    "id": "f080_ref_039",
+    "type": "webpage",
+    "title": "Bluespec Compiler and language documentation",
+    "URL": "https://github.com/B-Lang-org/bsc",
+    "note": "Published attribution: B-Lang community. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_040",
+    "type": "webpage",
+    "title": "XLS/DSLX language and tooling documentation",
+    "URL": "https://google.github.io/xls/dslx_reference/",
+    "note": "Published attribution: Google. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_041",
+    "type": "webpage",
+    "title": "Amaranth language and toolchain introduction",
+    "URL": "https://amaranth-lang.org/docs/amaranth/latest/intro.html",
+    "note": "Published attribution: Amaranth project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_042",
+    "type": "webpage",
+    "title": "Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design",
+    "URL": "https://arxiv.org/abs/2604.05983",
+    "note": "Published attribution: Shuqing Zhao. ",
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Shuqing"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_043",
+    "type": "webpage",
+    "title": "Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems",
+    "URL": "https://research.nvidia.com/publication/2025-06_spec2rtl-agent-automated-hardware-code-generation-complex-specifications-using",
+    "note": "Published attribution: NVIDIA and Cadence researchers. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_044",
+    "type": "webpage",
+    "title": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs",
+    "URL": "https://arxiv.org/abs/2607.18519",
+    "note": "Published attribution: Xiangfei Kong, Tasnim Tabassum, Marwan Abdelwahab, and Hao Zheng. ",
+    "author": [
+      {
+        "family": "Kong",
+        "given": "Xiangfei"
+      },
+      {
+        "family": "Tabassum",
+        "given": "Tasnim"
+      },
+      {
+        "family": "Abdelwahab",
+        "given": "Marwan"
+      },
+      {
+        "family": "Zheng",
+        "given": "Hao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_045",
+    "type": "webpage",
+    "title": "Silicon Volley: Designers Tap Generative AI for a Chip Assist",
+    "URL": "https://blogs.nvidia.com/blog/llm-semiconductors-chip-nemo/",
+    "note": "Published attribution: NVIDIA. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_046",
+    "type": "webpage",
+    "title": "What Is EDA Agentic AI?",
+    "URL": "https://www.synopsys.com/glossary/what-is-eda-agentic-ai.html",
+    "note": "Published attribution: Synopsys. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_047",
+    "type": "webpage",
+    "title": "Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design",
+    "URL": "https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/",
+    "note": "Published attribution: Reuters. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_048",
+    "type": "webpage",
+    "title": "State of AI-Assisted Software Development",
+    "URL": "https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report",
+    "note": "Published attribution: DORA/Google Cloud. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_049",
+    "type": "webpage",
+    "title": "A Balanced Approach to Verification",
+    "URL": "https://semiengineering.com/a-balanced-approach-to-verification/",
+    "note": "Published attribution: Semiconductor Engineering. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_050",
+    "type": "webpage",
+    "title": "Rethinking B2B Software Pricing in the Agentic AI Era",
+    "URL": "https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai",
+    "note": "Published attribution: BCG. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_051",
+    "type": "webpage",
+    "title": "The AI Pricing and Monetization Playbook",
+    "URL": "https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook",
+    "note": "Published attribution: Bessemer Venture Partners. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_052",
+    "type": "webpage",
+    "title": "Industry Platforms and Ecosystem Innovation",
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105",
+    "note": "Published attribution: Annabelle Gawer and Michael A. Cusumano. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "DOI": "10.1111/jpim.12105"
+  },
+  {
+    "id": "f080_ref_053",
+    "type": "webpage",
+    "title": "Platform Envelopment",
+    "URL": "https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935",
+    "note": "Published attribution: Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.",
+    "DOI": "10.1002/smj.935"
+  },
+  {
+    "id": "f080_ref_054",
+    "type": "webpage",
+    "title": "Open Standards, Closed Standards or Vertical Integration? Interoperability Pathways in Markets with Network Effects",
+    "URL": "https://journals.open.tudelft.nl/jos/article/view/8038",
+    "note": "Published attribution: Sofia Rosero Abad, Rudi Bekkers, and Emilio Raiteri. ",
+    "author": [
+      {
+        "given": "Sofia Rosero",
+        "family": "Abad"
+      },
+      {
+        "given": "Rudi",
+        "family": "Bekkers"
+      },
+      {
+        "given": "Emilio",
+        "family": "Raiteri"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.59490/jos.2026.8038"
+  },
+  {
+    "id": "f080_ref_055",
+    "type": "webpage",
+    "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation",
+    "URL": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation?hs_amp=true",
+    "note": "Published attribution: Linux Foundation. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_056",
+    "type": "webpage",
+    "title": "Agent2Agent Protocol Specification",
+    "URL": "https://a2a-protocol.org/v0.3.0/specification/",
+    "note": "Published attribution: A2A Project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_057",
+    "type": "webpage",
+    "title": "S*: Test Time Scaling for Code Generation",
+    "URL": "https://arxiv.org/abs/2502.14382",
+    "note": "Published attribution: Dacheng Li and colleagues. ",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Dacheng"
+      },
+      {
+        "family": "Cao",
+        "given": "Shiyi"
+      },
+      {
+        "family": "Cao",
+        "given": "Chengkun"
+      },
+      {
+        "family": "Li",
+        "given": "Xiuyu"
+      },
+      {
+        "family": "Tan",
+        "given": "Shangyin"
+      },
+      {
+        "family": "Keutzer",
+        "given": "Kurt"
+      },
+      {
+        "family": "Xing",
+        "given": "Jiarong"
+      },
+      {
+        "family": "Gonzalez",
+        "given": "Joseph E."
+      },
+      {
+        "family": "Stoica",
+        "given": "Ion"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_058",
+    "type": "webpage",
+    "title": "SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling",
+    "URL": "https://arxiv.org/abs/2506.07636",
+    "note": "Published attribution: Haoran Wang and colleagues. ",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Haoran"
+      },
+      {
+        "family": "Hou",
+        "given": "Zhenyu"
+      },
+      {
+        "family": "Wei",
+        "given": "Yao"
+      },
+      {
+        "family": "Tang",
+        "given": "Jie"
+      },
+      {
+        "family": "Dong",
+        "given": "Yuxiao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_059",
+    "type": "webpage",
+    "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+    "URL": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "note": "Published attribution: International Labour Organization. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_060",
+    "type": "webpage",
+    "title": "How AI Will Impact Chip Design and Designers",
+    "URL": "https://semiengineering.com/how-ai-will-impact-chip-design-and-designers/",
+    "note": "Published attribution: Semiconductor Engineering. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_061",
+    "type": "webpage",
+    "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "URL": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+    "note": "Published attribution: NIST. Publication date unresolved; no access or update date substituted.",
+    "author": [
+      {
+        "given": "Chloe",
+        "family": "Autio"
+      },
+      {
+        "given": "Reva",
+        "family": "Schwartz"
+      },
+      {
+        "given": "Jesse",
+        "family": "Dunietz"
+      },
+      {
+        "given": "Shomik",
+        "family": "Jain"
+      },
+      {
+        "given": "Martin",
+        "family": "Stanley"
+      },
+      {
+        "given": "Elham",
+        "family": "Tabassi"
+      },
+      {
+        "given": "Patrick",
+        "family": "Hall"
+      },
+      {
+        "given": "Kamie",
+        "family": "Roberts"
+      }
+    ]
+  },
+  {
+    "id": "f080_ref_062",
+    "type": "webpage",
+    "title": "AI Act",
+    "URL": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "note": "Published attribution: European Commission. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_063",
+    "type": "webpage",
+    "title": "aiSure: AI Performance Warranties and Risk Transfer",
+    "URL": "https://www.munichre.com/en/solutions/for-industry-clients/insure-ai.html",
+    "note": "Published attribution: Munich Re. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_064",
+    "type": "webpage",
+    "title": "Software Engineering in the Agent Era: From Trustworthy Change to Human-Agent Software Organizations",
+    "URL": "https://arxiv.org/abs/2609.04630",
+    "note": "Published attribution: Zhongjie Wang and Mingyi Liu. ",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Zhongjie"
+      },
+      {
+        "family": "Liu",
+        "given": "Mingyi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_065",
+    "type": "webpage",
+    "title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle",
+    "URL": "https://arxiv.org/abs/2609.04681",
+    "note": "Published attribution: Happy Bhati. ",
+    "author": [
+      {
+        "family": "Bhati",
+        "given": "Happy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_066",
+    "type": "webpage",
+    "title": "READY or Not: Reliable Enterprise Agent Deployment",
+    "URL": "https://arxiv.org/abs/2609.02095",
+    "note": "Published attribution: Scale AI researchers. ",
+    "author": [
+      {
+        "family": "Chatrath",
+        "given": "Veronica"
+      },
+      {
+        "family": "Zhu",
+        "given": "Bryan"
+      },
+      {
+        "family": "Fan",
+        "given": "Jingxuan"
+      },
+      {
+        "family": "Pu",
+        "given": "George"
+      },
+      {
+        "family": "Tiwari",
+        "given": "Soham Dinesh"
+      },
+      {
+        "family": "Dan",
+        "given": "Soham"
+      },
+      {
+        "family": "Young",
+        "given": "Ryan"
+      },
+      {
+        "literal": "Yuan"
+      },
+      {
+        "literal": "Li"
+      },
+      {
+        "family": "Yao",
+        "given": "Yuang"
+      },
+      {
+        "family": "Shanker",
+        "given": "Apaar"
+      },
+      {
+        "family": "Yang",
+        "given": "Minglai"
+      },
+      {
+        "family": "Zhang",
+        "given": "Daniel Yue"
+      },
+      {
+        "family": "He",
+        "given": "Yunzhong"
+      },
+      {
+        "family": "Liu",
+        "given": "Ying"
+      },
+      {
+        "family": "Wang",
+        "given": "Chenguang"
+      },
+      {
+        "family": "Yin",
+        "given": "Zhijun"
+      },
+      {
+        "family": "Xue",
+        "given": "Yuan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_067",
+    "type": "webpage",
+    "title": "AI Agents That Matter",
+    "URL": "https://arxiv.org/abs/2407.01502",
+    "note": "Published attribution: Sayash Kapoor and colleagues. ",
+    "author": [
+      {
+        "family": "Kapoor",
+        "given": "Sayash"
+      },
+      {
+        "family": "Stroebl",
+        "given": "Benedikt"
+      },
+      {
+        "family": "Siegel",
+        "given": "Zachary S."
+      },
+      {
+        "family": "Nadgir",
+        "given": "Nitya"
+      },
+      {
+        "family": "Narayanan",
+        "given": "Arvind"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_068",
+    "type": "webpage",
+    "title": "Tracking Capabilities for Safer Agents",
+    "URL": "https://arxiv.org/abs/2603.00991",
+    "note": "Published attribution: Martin Odersky and colleagues. ",
+    "author": [
+      {
+        "family": "Odersky",
+        "given": "Martin"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yaoyu"
+      },
+      {
+        "family": "Xu",
+        "given": "Yichen"
+      },
+      {
+        "family": "Bračevac",
+        "given": "Oliver"
+      },
+      {
+        "family": "Pham",
+        "given": "Cao Nguyen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/3786335.3813127"
+  },
+  {
+    "id": "f080_ref_069",
+    "type": "webpage",
+    "title": "Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents",
+    "URL": "https://arxiv.org/abs/2609.08371",
+    "note": "Published attribution: Bouras and colleagues. ",
+    "author": [
+      {
+        "family": "Bouras",
+        "given": "Dimitrios Stamatios"
+      },
+      {
+        "family": "Dai",
+        "given": "Yihan"
+      },
+      {
+        "family": "Mechtaev",
+        "given": "Sergey"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_070",
+    "type": "webpage",
+    "title": "Code as Agent Harness",
+    "URL": "https://arxiv.org/abs/2605.18747",
+    "note": "Published attribution: Xuying Ning and colleagues. ",
+    "author": [
+      {
+        "family": "Ning",
+        "given": "Xuying"
+      },
+      {
+        "family": "Tieu",
+        "given": "Katherine"
+      },
+      {
+        "family": "Fu",
+        "given": "Dongqi"
+      },
+      {
+        "family": "Wei",
+        "given": "Tianxin"
+      },
+      {
+        "family": "Li",
+        "given": "Zihao"
+      },
+      {
+        "family": "Bei",
+        "given": "Yuanchen"
+      },
+      {
+        "family": "Zou",
+        "given": "Jiaru"
+      },
+      {
+        "family": "Ai",
+        "given": "Mengting"
+      },
+      {
+        "family": "Liu",
+        "given": "Zhining"
+      },
+      {
+        "family": "Li",
+        "given": "Ting-Wei"
+      },
+      {
+        "family": "Chen",
+        "given": "Lingjie"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yanjun"
+      },
+      {
+        "family": "Yang",
+        "given": "Ke"
+      },
+      {
+        "family": "Li",
+        "given": "Bingxuan"
+      },
+      {
+        "family": "Qian",
+        "given": "Cheng"
+      },
+      {
+        "family": "Li",
+        "given": "Gaotang"
+      },
+      {
+        "family": "Lin",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zeng",
+        "given": "Zhichen"
+      },
+      {
+        "family": "Qiu",
+        "given": "Ruizhong"
+      },
+      {
+        "family": "Chen",
+        "given": "Sirui"
+      },
+      {
+        "family": "Sun",
+        "given": "Yifan"
+      },
+      {
+        "family": "Yang",
+        "given": "Xiyuan"
+      },
+      {
+        "family": "Wang",
+        "given": "Ruida"
+      },
+      {
+        "family": "Pan",
+        "given": "Rui"
+      },
+      {
+        "family": "Yang",
+        "given": "Chenyuan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Dylan"
+      },
+      {
+        "family": "Fang",
+        "given": "Liri"
+      },
+      {
+        "family": "Cui",
+        "given": "Zikun"
+      },
+      {
+        "family": "Cao",
+        "given": "Yang"
+      },
+      {
+        "family": "Chen",
+        "given": "Pan"
+      },
+      {
+        "family": "Sun",
+        "given": "Dorothy"
+      },
+      {
+        "family": "Chen",
+        "given": "Ren"
+      },
+      {
+        "family": "Srinivasan",
+        "given": "Mahesh"
+      },
+      {
+        "family": "Mathur",
+        "given": "Nipun"
+      },
+      {
+        "family": "Xia",
+        "given": "Yinglong"
+      },
+      {
+        "family": "Li",
+        "given": "Hong"
+      },
+      {
+        "family": "Yan",
+        "given": "Hong"
+      },
+      {
+        "family": "Lu",
+        "given": "Pan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Lingming"
+      },
+      {
+        "family": "Zhang",
+        "given": "Tong"
+      },
+      {
+        "family": "Tong",
+        "given": "Hanghang"
+      },
+      {
+        "family": "He",
+        "given": "Jingrui"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_071",
+    "type": "webpage",
+    "title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+    "URL": "https://arxiv.org/abs/2604.25850",
+    "note": "Published attribution: Lin and colleagues. ",
+    "author": [
+      {
+        "family": "Lin",
+        "given": "Jiahang"
+      },
+      {
+        "family": "Liu",
+        "given": "Shichun"
+      },
+      {
+        "family": "Pan",
+        "given": "Chengjun"
+      },
+      {
+        "family": "Lin",
+        "given": "Lizhi"
+      },
+      {
+        "family": "Dou",
+        "given": "Shihan"
+      },
+      {
+        "family": "Xi",
+        "given": "Zhiheng"
+      },
+      {
+        "family": "Huang",
+        "given": "Xuanjing"
+      },
+      {
+        "family": "Yan",
+        "given": "Hang"
+      },
+      {
+        "family": "Han",
+        "given": "Zhenhua"
+      },
+      {
+        "family": "Gui",
+        "given": "Tao"
+      },
+      {
+        "family": "Jiang",
+        "given": "Yu-Gang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_072",
+    "type": "webpage",
+    "title": "ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents",
+    "URL": "https://arxiv.org/abs/2605.20251",
+    "note": "Published attribution: Jiawei He and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction."
+  },
+  {
+    "id": "f080_ref_073",
+    "type": "webpage",
+    "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+    "URL": "https://arxiv.org/abs/2603.24755",
+    "note": "Published attribution: Gabriel Orlanski and colleagues. Multiple DOI values in current arXiv metadata refer to other artifacts; no primary-work DOI inferred.",
+    "author": [
+      {
+        "family": "Orlanski",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Roy",
+        "given": "Devjeet"
+      },
+      {
+        "family": "Yun",
+        "given": "Alexander"
+      },
+      {
+        "family": "Shin",
+        "given": "Changho"
+      },
+      {
+        "family": "Gu",
+        "given": "Alex"
+      },
+      {
+        "family": "Ge",
+        "given": "Albert"
+      },
+      {
+        "family": "Adila",
+        "given": "Dyah"
+      },
+      {
+        "family": "Roberts",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Sala",
+        "given": "Frederic"
+      },
+      {
+        "family": "Albarghouthi",
+        "given": "Aws"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_074",
+    "type": "webpage",
+    "title": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
+    "URL": "https://www.preprints.org/manuscript/202603.1756",
+    "note": "Published attribution: Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable."
+  },
+  {
+    "id": "f080_ref_075",
+    "type": "webpage",
+    "title": "Gluon — The Action Substrate for AI Agents",
+    "URL": "https://gluon.sh/",
+    "note": "Published attribution: Gluon. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_076",
+    "type": "webpage",
+    "title": "AI Agent Safety: The Substrate Pattern in Practice",
+    "URL": "https://www.dipankar.co/articles/ai-agent-safety-substrate-pattern-practice/",
+    "note": "Published attribution: Dipankar Sarkar. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_077",
+    "type": "webpage",
+    "title": "ComposeBench",
+    "URL": "https://github.com/MindLab-Research/ComposeBench",
+    "note": "Published attribution: MindLab Research. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_078",
+    "type": "webpage",
+    "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+    "URL": "https://arxiv.org/abs/2608.10915",
+    "note": "Published attribution: Qianggang Ding and colleagues. ",
+    "author": [
+      {
+        "family": "Ding",
+        "given": "Qianggang"
+      },
+      {
+        "family": "Wang",
+        "given": "Xingyao"
+      },
+      {
+        "family": "Feng",
+        "given": "Rui"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhibin"
+      },
+      {
+        "family": "Yao",
+        "given": "Feixiang"
+      },
+      {
+        "family": "Mao",
+        "given": "Kelong"
+      },
+      {
+        "family": "Sun",
+        "given": "Hao"
+      },
+      {
+        "family": "Luo",
+        "given": "Zhiyao"
+      },
+      {
+        "family": "Tang",
+        "given": "Jiankai"
+      },
+      {
+        "family": "Li",
+        "given": "Lei"
+      },
+      {
+        "family": "Guo",
+        "given": "Jiadong"
+      },
+      {
+        "family": "Ni",
+        "given": "Minheng"
+      },
+      {
+        "family": "Lin",
+        "given": "Weicong"
+      },
+      {
+        "family": "Yang",
+        "given": "Chenxi"
+      },
+      {
+        "family": "Gao",
+        "given": "Hongxiang"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhenghua"
+      },
+      {
+        "family": "Bai",
+        "given": "Yang"
+      },
+      {
+        "family": "Wu",
+        "given": "Min"
+      },
+      {
+        "family": "Cheng",
+        "given": "Jun"
+      },
+      {
+        "family": "Fu",
+        "given": "Huazhu"
+      },
+      {
+        "family": "Tao",
+        "given": "Dacheng"
+      },
+      {
+        "family": "Liu",
+        "given": "Bang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_079",
+    "type": "webpage",
+    "title": "Interactive Drama, Art and Artificial Intelligence",
+    "URL": "https://www.cs.cmu.edu/~dgroup/papers/CMU-CS-02-206.pdf",
+    "note": "Published attribution: Michael Mateas. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_080",
+    "type": "webpage",
+    "title": "The Best Language for AI Agents — What the Benchmarks Actually Say About Language Choice",
+    "URL": "https://kiberonlabs.substack.com/p/the-best-language-for-ai-agents",
+    "note": "Published attribution: Kiberon Labs. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_081",
+    "type": "webpage",
+    "title": "What Is Agentic Engineering?",
+    "URL": "https://ivaaya.com/insights/what-is-agentic-engineering",
+    "note": "Published attribution: Priyanka Pandey; reviewed by Sanjeev Purohit. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_082",
+    "type": "webpage",
+    "title": "What Would a Fair Benchmark for Agent Architecture Look Like?",
+    "URL": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
+    "note": "Published attribution: jonah_omninode. Public discussion. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_083",
+    "type": "webpage",
+    "title": "Loop Budgeting: Allocating Iteration and Token Budget Across Turns",
+    "URL": "https://agentpatterns.ai/loop-engineering/loop-budgeting/",
+    "note": "Published attribution: AgentPatterns.ai. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted."
+  },
+  {
+    "id": "f080_ref_084",
+    "type": "webpage",
+    "title": "VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation",
+    "URL": "https://arxiv.org/abs/2606.13735",
+    "note": "Published attribution: Yijun Shen and colleagues. ",
+    "author": [
+      {
+        "family": "Shen",
+        "given": "Yijun"
+      },
+      {
+        "family": "Shao",
+        "given": "Minghao"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yichen"
+      },
+      {
+        "family": "Yu",
+        "given": "Zhuoyan"
+      },
+      {
+        "family": "Chen",
+        "given": "Boyuan"
+      },
+      {
+        "family": "Tam",
+        "given": "Yik-Cheung"
+      },
+      {
+        "family": "Shafique",
+        "given": "Muhammad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_085",
+    "type": "webpage",
+    "title": "ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols",
+    "URL": "https://arxiv.org/abs/2506.07945",
+    "note": "Published attribution: Arnav Sheth, Ivaxi Sheth, and Mario Fritz. ",
+    "author": [
+      {
+        "family": "Sheth",
+        "given": "Arnav"
+      },
+      {
+        "family": "Sheth",
+        "given": "Ivaxi"
+      },
+      {
+        "family": "Fritz",
+        "given": "Mario"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_086",
+    "type": "webpage",
+    "title": "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification",
+    "URL": "https://arxiv.org/abs/2506.12200",
+    "note": "Published attribution: Yujie Zhao and colleagues. ",
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Yujie"
+      },
+      {
+        "family": "Wu",
+        "given": "Zhijing"
+      },
+      {
+        "family": "Yuan",
+        "given": "Boqin"
+      },
+      {
+        "family": "Yu",
+        "given": "Zhongming"
+      },
+      {
+        "family": "Zhang",
+        "given": "Hejia"
+      },
+      {
+        "family": "Ni",
+        "given": "Wentao"
+      },
+      {
+        "family": "Ho",
+        "given": "Chia-Tung"
+      },
+      {
+        "family": "Ren",
+        "given": "Haoxing"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jishen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f080_ref_087",
+    "type": "webpage",
+    "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+    "URL": "https://arxiv.org/abs/2405.15793",
+    "note": "Published attribution: Yang and colleagues. ",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "John"
+      },
+      {
+        "family": "Jimenez",
+        "given": "Carlos E."
+      },
+      {
+        "family": "Wettig",
+        "given": "Alexander"
+      },
+      {
+        "family": "Lieret",
+        "given": "Kilian"
+      },
+      {
+        "family": "Yao",
+        "given": "Shunyu"
+      },
+      {
+        "family": "Narasimhan",
+        "given": "Karthik"
+      },
+      {
+        "family": "Press",
+        "given": "Ofir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          6
+        ]
+      ]
+    }
+  }
+]

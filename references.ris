@@ -1,0 +1,873 @@
+TY  - GEN
+ID  - f080_ref_001
+TI  - The Architecture Is Old. The Computational Actor Is New
+UR  - https://bradpierce.wordpress.com/2026/09/13/the-architecture-is-old-the-computational-actor-is-new/
+N1  - Published attribution: Brad Pierce with OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_002
+TI  - Designing RTL with C++HDL
+UR  - https://lnkd.in/p/gM6bBGXw
+N1  - Published attribution: Mike Reznikov. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_003
+TI  - Building Effective Agents
+UR  - https://www.anthropic.com/engineering/building-effective-agents
+N1  - Published attribution: Anthropic. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_004
+TI  - Writing Effective Tools for Agents
+UR  - https://www.anthropic.com/engineering/writing-tools-for-agents
+N1  - Published attribution: Anthropic. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_005
+TI  - PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models
+UR  - https://aclanthology.org/2021.emnlp-main.779/
+N1  - Published attribution: Scholak, Schucher, and Bahdanau. 
+AU  - Scholak, Torsten
+AU  - Schucher, Nathan
+AU  - Bahdanau, Dzmitry
+PY  - 2021/11
+DO  - 10.18653/v1/2021.emnlp-main.779
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_006
+TI  - XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models
+UR  - https://arxiv.org/abs/2411.15100
+N1  - Published attribution: Dong and colleagues. 
+AU  - Dong, Yixin
+AU  - Ruan, Charlie F.
+AU  - Cai, Yaxing
+AU  - Lai, Ruihang
+AU  - Xu, Ziyi
+AU  - Zhao, Yilong
+AU  - Chen, Tianqi
+PY  - 2024/11/22
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_007
+TI  - Introducing Structured Outputs in the API
+UR  - https://openai.com/index/introducing-structured-outputs-in-the-api/
+N1  - Published attribution: OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_008
+TI  - Type-Constrained Code Generation with Language Models
+UR  - https://arxiv.org/abs/2504.09246
+N1  - Published attribution: Mündler and colleagues. 
+AU  - Mündler, Niels
+AU  - He, Jingxuan
+AU  - Wang, Hao
+AU  - Sen, Koushik
+AU  - Song, Dawn
+AU  - Vechev, Martin
+PY  - 2025/4/12
+DO  - 10.1145/3729274
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_009
+TI  - SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
+UR  - https://arxiv.org/abs/2310.06770
+N1  - Published attribution: Jimenez and colleagues. 
+AU  - Jimenez, Carlos E.
+AU  - Yang, John
+AU  - Wettig, Alexander
+AU  - Yao, Shunyu
+AU  - Pei, Kexin
+AU  - Press, Ofir
+AU  - Narasimhan, Karthik
+PY  - 2023/10/10
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_010
+TI  - Introducing SWE-bench Verified
+UR  - https://openai.com/index/introducing-swe-bench-verified/
+N1  - Published attribution: OpenAI. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_011
+TI  - τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
+UR  - https://arxiv.org/abs/2406.12045
+N1  - Published attribution: Yao and colleagues. 
+AU  - Yao, Shunyu
+AU  - Shinn, Noah
+AU  - Razavi, Pedram
+AU  - Narasimhan, Karthik
+PY  - 2024/6/17
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_012
+TI  - The Impact of AI on Developer Productivity: Evidence from GitHub Copilot
+UR  - https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/
+N1  - Published attribution: Peng and colleagues. 
+AU  - Peng, Sida
+AU  - Kalliamvakou, Eirini
+AU  - Cihon, Peter
+AU  - Demirer, Mert
+PY  - 2023/2/13
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_013
+TI  - Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+UR  - https://arxiv.org/abs/2507.09089
+N1  - Published attribution: METR. 
+AU  - Becker, Joel
+AU  - Rush, Nate
+AU  - Barnes, Elizabeth
+AU  - Rein, David
+PY  - 2025/7/12
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_014
+TI  - Accelerate State of DevOps Report 2024
+UR  - https://dora.dev/research/2024/dora-report/
+N1  - Published attribution: DORA/Google Cloud. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_015
+TI  - Proof-Carrying Code
+UR  - https://people.eecs.berkeley.edu/~necula/Papers/pcc_popl97.ps
+N1  - Published attribution: George C. Necula. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_016
+TI  - RustBelt: Securing the Foundations of the Rust Programming Language
+UR  - https://dl.acm.org/doi/10.1145/3158154
+N1  - Published attribution: Jung and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+DO  - 10.1145/3158154
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_017
+TI  - The CompCert C Verified Compiler
+UR  - https://compcert.org/
+N1  - Published attribution: Xavier Leroy and the CompCert project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_018
+TI  - Usability Analysis of Visual Programming Environments: A Cognitive Dimensions Framework
+UR  - https://doi.org/10.1006/jvlc.1996.0009
+N1  - Published attribution: Green and Petre. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+DO  - 10.1006/jvlc.1996.0009
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_019
+TI  - A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar)
+UR  - https://arxiv.org/abs/2506.12202
+N1  - Published attribution: Mell and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_020
+TI  - Pel, A Programming Language for Orchestrating AI Agents
+UR  - https://arxiv.org/abs/2505.13453
+N1  - Published attribution: Behnam Mohammadi. 
+AU  - Mohammadi, Behnam
+PY  - 2025/4/3
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_021
+TI  - Security Best Practices
+UR  - https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices
+N1  - Published attribution: Model Context Protocol. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_022
+TI  - Revisable by Design: A Theory of Streaming LLM Agent Execution
+UR  - https://arxiv.org/abs/2604.23283
+N1  - Published attribution: Zhiyuan Zhai, Ming Li, and Xin Wang. 
+AU  - Zhai, Zhiyuan
+AU  - Li, Ming
+AU  - Wang, Xin
+PY  - 2026/4/25
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_023
+TI  - STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds
+UR  - https://research.ibm.com/publications/stratus-a-multi-agent-system-for-autonomous-reliability-engineering-of-modern-clouds
+N1  - Published attribution: Chen and colleagues. 
+AU  - Chen, Yinfang
+AU  - Pan, Jiaqi
+AU  - Clark, Jackson
+AU  - Su, Yiming
+AU  - Zheutlin, Noah
+AU  - Bhavya, Bhavya
+AU  - Arora, Rohan
+AU  - Deng, Yu
+AU  - Jha, Saurabh
+AU  - Xu, Tianyin
+PY  - 2025/12/2
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_024
+TI  - terraform plan command reference
+UR  - https://developer.hashicorp.com/terraform/cli/commands/plan
+N1  - Published attribution: HashiCorp. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_025
+TI  - SLSA Build Provenance
+UR  - https://slsa.dev/spec/draft/build-provenance
+N1  - Published attribution: OpenSSF. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_026
+TI  - in-toto
+UR  - https://in-toto.io/
+N1  - Published attribution: project specification and documentation. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_027
+TI  - Beyond Human-Readable: Rethinking Software Engineering Conventions for the Agentic Development Era
+UR  - https://arxiv.org/abs/2604.07502
+N1  - Published attribution: Dmytro Ustynov. 
+AU  - Ustynov, Dmytro
+PY  - 2026/4/8
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_028
+TI  - A Language for Agents
+UR  - https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/
+N1  - Published attribution: Armin Ronacher. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_029
+TI  - IEEE 1800-2023 SystemVerilog Standard
+UR  - https://standards.ieee.org/ieee/1800/7743/
+N1  - Published attribution: IEEE. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_030
+TI  - Revamping Verilog Semantics for Foundational Verification
+UR  - https://dl.acm.org/doi/10.1145/3763084
+N1  - Published attribution: Joonwon Choi, Jaewoo Kim, and Jeehoon Kang. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+DO  - 10.1145/3763084
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_031
+TI  - A Mechanised, Bidirectional Type System for Bit-Width Inference in SystemVerilog
+UR  - https://link.springer.com/chapter/10.1007/978-3-032-32519-8_22
+N1  - Published attribution: Desfrene and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.
+DO  - 10.1007/978-3-032-32519-8_22
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_032
+TI  - Time for Another Revision of the SystemVerilog IEEE 1800 Standard
+UR  - https://blogs.sw.siemens.com/verificationhorizons/2020/07/30/another-revision-systemverilog/
+N1  - Published attribution: Dave Rich. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_033
+TI  - Verilator project overview
+UR  - https://www.veripool.org/verilator/
+N1  - Published attribution: CHIPS Alliance/Veripool. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_034
+TI  - Verilator hierarchical and tracing documentation
+UR  - https://verilator.org/guide/latest/verilating.html
+N1  - Published attribution: Verilator project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_035
+TI  - VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation
+UR  - https://2026.splashcon.org/details/oopsla-2026/37/VeriEQ-Finding-Verilog-Simulators-and-Synthesizers-Bugs-with-Equivalence-Circuit-Tra
+N1  - Published attribution: Yan and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_036
+TI  - FIRRTL: A Compiler Intermediate Representation for Custom Digital Circuits
+UR  - https://albert-magyar.github.io/documents/firrtl-iccad17.pdf
+N1  - Published attribution: Izraelevitz and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_037
+TI  - CIRCT project documentation
+UR  - https://circt.llvm.org/
+N1  - Published attribution: LLVM/CIRCT community. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_038
+TI  - Calyx: A Compiler Infrastructure for Accelerator Generators
+UR  - https://arxiv.org/abs/2102.09713
+N1  - Published attribution: Nigam and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_039
+TI  - Bluespec Compiler and language documentation
+UR  - https://github.com/B-Lang-org/bsc
+N1  - Published attribution: B-Lang community. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_040
+TI  - XLS/DSLX language and tooling documentation
+UR  - https://google.github.io/xls/dslx_reference/
+N1  - Published attribution: Google. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_041
+TI  - Amaranth language and toolchain introduction
+UR  - https://amaranth-lang.org/docs/amaranth/latest/intro.html
+N1  - Published attribution: Amaranth project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_042
+TI  - Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design
+UR  - https://arxiv.org/abs/2604.05983
+N1  - Published attribution: Shuqing Zhao. 
+AU  - Zhao, Shuqing
+PY  - 2026/4/7
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_043
+TI  - Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems
+UR  - https://research.nvidia.com/publication/2025-06_spec2rtl-agent-automated-hardware-code-generation-complex-specifications-using
+N1  - Published attribution: NVIDIA and Cadence researchers. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_044
+TI  - A Progressive Approach to Synthesizable RTL Design Generation Using LLMs
+UR  - https://arxiv.org/abs/2607.18519
+N1  - Published attribution: Xiangfei Kong, Tasnim Tabassum, Marwan Abdelwahab, and Hao Zheng. 
+AU  - Kong, Xiangfei
+AU  - Tabassum, Tasnim
+AU  - Abdelwahab, Marwan
+AU  - Zheng, Hao
+PY  - 2026/7/20
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_045
+TI  - Silicon Volley: Designers Tap Generative AI for a Chip Assist
+UR  - https://blogs.nvidia.com/blog/llm-semiconductors-chip-nemo/
+N1  - Published attribution: NVIDIA. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_046
+TI  - What Is EDA Agentic AI?
+UR  - https://www.synopsys.com/glossary/what-is-eda-agentic-ai.html
+N1  - Published attribution: Synopsys. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_047
+TI  - Cadence Rolls Out AI Agent to Speed Circuit Board and Chip Packaging Design
+UR  - https://www.reuters.com/business/cadence-rolls-out-ai-agent-speed-circuit-board-chip-packaging-design-2026-07-15/
+N1  - Published attribution: Reuters. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_048
+TI  - State of AI-Assisted Software Development
+UR  - https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report
+N1  - Published attribution: DORA/Google Cloud. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_049
+TI  - A Balanced Approach to Verification
+UR  - https://semiengineering.com/a-balanced-approach-to-verification/
+N1  - Published attribution: Semiconductor Engineering. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_050
+TI  - Rethinking B2B Software Pricing in the Agentic AI Era
+UR  - https://www.bcg.com/publications/2025/rethinking-b2b-software-pricing-in-the-era-of-ai
+N1  - Published attribution: BCG. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_051
+TI  - The AI Pricing and Monetization Playbook
+UR  - https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
+N1  - Published attribution: Bessemer Venture Partners. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_052
+TI  - Industry Platforms and Ecosystem Innovation
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12105
+N1  - Published attribution: Annabelle Gawer and Michael A. Cusumano. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+DO  - 10.1111/jpim.12105
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_053
+TI  - Platform Envelopment
+UR  - https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.935
+N1  - Published attribution: Thomas Eisenmann, Geoffrey Parker, and Marshall Van Alstyne. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+DO  - 10.1002/smj.935
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_054
+TI  - Open Standards, Closed Standards or Vertical Integration? Interoperability Pathways in Markets with Network Effects
+UR  - https://journals.open.tudelft.nl/jos/article/view/8038
+N1  - Published attribution: Sofia Rosero Abad, Rudi Bekkers, and Emilio Raiteri. 
+AU  - Abad, Sofia Rosero
+AU  - Bekkers, Rudi
+AU  - Raiteri, Emilio
+PY  - 2026/7/1
+DO  - 10.59490/jos.2026.8038
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_055
+TI  - Linux Foundation Announces the Formation of the Agentic AI Foundation
+UR  - https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation?hs_amp=true
+N1  - Published attribution: Linux Foundation. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_056
+TI  - Agent2Agent Protocol Specification
+UR  - https://a2a-protocol.org/v0.3.0/specification/
+N1  - Published attribution: A2A Project. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_057
+TI  - S*: Test Time Scaling for Code Generation
+UR  - https://arxiv.org/abs/2502.14382
+N1  - Published attribution: Dacheng Li and colleagues. 
+AU  - Li, Dacheng
+AU  - Cao, Shiyi
+AU  - Cao, Chengkun
+AU  - Li, Xiuyu
+AU  - Tan, Shangyin
+AU  - Keutzer, Kurt
+AU  - Xing, Jiarong
+AU  - Gonzalez, Joseph E.
+AU  - Stoica, Ion
+PY  - 2025/2/20
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_058
+TI  - SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling
+UR  - https://arxiv.org/abs/2506.07636
+N1  - Published attribution: Haoran Wang and colleagues. 
+AU  - Wang, Haoran
+AU  - Hou, Zhenyu
+AU  - Wei, Yao
+AU  - Tang, Jie
+AU  - Dong, Yuxiao
+PY  - 2025/6/9
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_059
+TI  - Generative AI and Jobs: A Refined Global Index of Occupational Exposure
+UR  - https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure
+N1  - Published attribution: International Labour Organization. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_060
+TI  - How AI Will Impact Chip Design and Designers
+UR  - https://semiengineering.com/how-ai-will-impact-chip-design-and-designers/
+N1  - Published attribution: Semiconductor Engineering. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_061
+TI  - Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile
+UR  - https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
+N1  - Published attribution: NIST. Publication date unresolved; no access or update date substituted.
+AU  - Autio, Chloe
+AU  - Schwartz, Reva
+AU  - Dunietz, Jesse
+AU  - Jain, Shomik
+AU  - Stanley, Martin
+AU  - Tabassi, Elham
+AU  - Hall, Patrick
+AU  - Roberts, Kamie
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_062
+TI  - AI Act
+UR  - https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+N1  - Published attribution: European Commission. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_063
+TI  - aiSure: AI Performance Warranties and Risk Transfer
+UR  - https://www.munichre.com/en/solutions/for-industry-clients/insure-ai.html
+N1  - Published attribution: Munich Re. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_064
+TI  - Software Engineering in the Agent Era: From Trustworthy Change to Human-Agent Software Organizations
+UR  - https://arxiv.org/abs/2609.04630
+N1  - Published attribution: Zhongjie Wang and Mingyi Liu. 
+AU  - Wang, Zhongjie
+AU  - Liu, Mingyi
+PY  - 2026/9/4
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_065
+TI  - Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle
+UR  - https://arxiv.org/abs/2609.04681
+N1  - Published attribution: Happy Bhati. 
+AU  - Bhati, Happy
+PY  - 2026/9/4
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_066
+TI  - READY or Not: Reliable Enterprise Agent Deployment
+UR  - https://arxiv.org/abs/2609.02095
+N1  - Published attribution: Scale AI researchers. 
+AU  - Chatrath, Veronica
+AU  - Zhu, Bryan
+AU  - Fan, Jingxuan
+AU  - Pu, George
+AU  - Tiwari, Soham Dinesh
+AU  - Dan, Soham
+AU  - Young, Ryan
+AU  - Yuan,
+AU  - Li,
+AU  - Yao, Yuang
+AU  - Shanker, Apaar
+AU  - Yang, Minglai
+AU  - Zhang, Daniel Yue
+AU  - He, Yunzhong
+AU  - Liu, Ying
+AU  - Wang, Chenguang
+AU  - Yin, Zhijun
+AU  - Xue, Yuan
+PY  - 2026/9/2
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_067
+TI  - AI Agents That Matter
+UR  - https://arxiv.org/abs/2407.01502
+N1  - Published attribution: Sayash Kapoor and colleagues. 
+AU  - Kapoor, Sayash
+AU  - Stroebl, Benedikt
+AU  - Siegel, Zachary S.
+AU  - Nadgir, Nitya
+AU  - Narayanan, Arvind
+PY  - 2024/7/1
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_068
+TI  - Tracking Capabilities for Safer Agents
+UR  - https://arxiv.org/abs/2603.00991
+N1  - Published attribution: Martin Odersky and colleagues. 
+AU  - Odersky, Martin
+AU  - Zhao, Yaoyu
+AU  - Xu, Yichen
+AU  - Bračevac, Oliver
+AU  - Pham, Cao Nguyen
+PY  - 2026/3/1
+DO  - 10.1145/3786335.3813127
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_069
+TI  - Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents
+UR  - https://arxiv.org/abs/2609.08371
+N1  - Published attribution: Bouras and colleagues. 
+AU  - Bouras, Dimitrios Stamatios
+AU  - Dai, Yihan
+AU  - Mechtaev, Sergey
+PY  - 2026/9/8
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_070
+TI  - Code as Agent Harness
+UR  - https://arxiv.org/abs/2605.18747
+N1  - Published attribution: Xuying Ning and colleagues. 
+AU  - Ning, Xuying
+AU  - Tieu, Katherine
+AU  - Fu, Dongqi
+AU  - Wei, Tianxin
+AU  - Li, Zihao
+AU  - Bei, Yuanchen
+AU  - Zou, Jiaru
+AU  - Ai, Mengting
+AU  - Liu, Zhining
+AU  - Li, Ting-Wei
+AU  - Chen, Lingjie
+AU  - Zhao, Yanjun
+AU  - Yang, Ke
+AU  - Li, Bingxuan
+AU  - Qian, Cheng
+AU  - Li, Gaotang
+AU  - Lin, Xiao
+AU  - Zeng, Zhichen
+AU  - Qiu, Ruizhong
+AU  - Chen, Sirui
+AU  - Sun, Yifan
+AU  - Yang, Xiyuan
+AU  - Wang, Ruida
+AU  - Pan, Rui
+AU  - Yang, Chenyuan
+AU  - Zhang, Dylan
+AU  - Fang, Liri
+AU  - Cui, Zikun
+AU  - Cao, Yang
+AU  - Chen, Pan
+AU  - Sun, Dorothy
+AU  - Chen, Ren
+AU  - Srinivasan, Mahesh
+AU  - Mathur, Nipun
+AU  - Xia, Yinglong
+AU  - Li, Hong
+AU  - Yan, Hong
+AU  - Lu, Pan
+AU  - Zhang, Lingming
+AU  - Zhang, Tong
+AU  - Tong, Hanghang
+AU  - He, Jingrui
+PY  - 2026/5/18
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_071
+TI  - Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses
+UR  - https://arxiv.org/abs/2604.25850
+N1  - Published attribution: Lin and colleagues. 
+AU  - Lin, Jiahang
+AU  - Liu, Shichun
+AU  - Pan, Chengjun
+AU  - Lin, Lizhi
+AU  - Dou, Shihan
+AU  - Xi, Zhiheng
+AU  - Huang, Xuanjing
+AU  - Yan, Hang
+AU  - Han, Zhenhua
+AU  - Gui, Tao
+AU  - Jiang, Yu-Gang
+PY  - 2026/4/28
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_072
+TI  - ProcBench: Evaluating Process-Level Defects and Control Preservation in LLM Coding Agents
+UR  - https://arxiv.org/abs/2605.20251
+N1  - Published attribution: Jiawei He and colleagues. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Current authority title differs from the published title; published wording retained without silent correction.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_073
+TI  - SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks
+UR  - https://arxiv.org/abs/2603.24755
+N1  - Published attribution: Gabriel Orlanski and colleagues. Multiple DOI values in current arXiv metadata refer to other artifacts; no primary-work DOI inferred.
+AU  - Orlanski, Gabriel
+AU  - Roy, Devjeet
+AU  - Yun, Alexander
+AU  - Shin, Changho
+AU  - Gu, Alex
+AU  - Ge, Albert
+AU  - Adila, Dyah
+AU  - Roberts, Nicholas
+AU  - Sala, Frederic
+AU  - Albarghouthi, Aws
+PY  - 2026/3/25
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_074
+TI  - Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime
+UR  - https://www.preprints.org/manuscript/202603.1756
+N1  - Published attribution: Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, and Chunyan Miao. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted. Live source retrieval attempt did not complete; this is not proof the source is unavailable.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_075
+TI  - Gluon — The Action Substrate for AI Agents
+UR  - https://gluon.sh/
+N1  - Published attribution: Gluon. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_076
+TI  - AI Agent Safety: The Substrate Pattern in Practice
+UR  - https://www.dipankar.co/articles/ai-agent-safety-substrate-pattern-practice/
+N1  - Published attribution: Dipankar Sarkar. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_077
+TI  - ComposeBench
+UR  - https://github.com/MindLab-Research/ComposeBench
+N1  - Published attribution: MindLab Research. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_078
+TI  - ComBodied Agents: a New Paradigm of Human-Centric Agentic AI
+UR  - https://arxiv.org/abs/2608.10915
+N1  - Published attribution: Qianggang Ding and colleagues. 
+AU  - Ding, Qianggang
+AU  - Wang, Xingyao
+AU  - Feng, Rui
+AU  - Wang, Zhibin
+AU  - Yao, Feixiang
+AU  - Mao, Kelong
+AU  - Sun, Hao
+AU  - Luo, Zhiyao
+AU  - Tang, Jiankai
+AU  - Li, Lei
+AU  - Guo, Jiadong
+AU  - Ni, Minheng
+AU  - Lin, Weicong
+AU  - Yang, Chenxi
+AU  - Gao, Hongxiang
+AU  - Chen, Zhenghua
+AU  - Bai, Yang
+AU  - Wu, Min
+AU  - Cheng, Jun
+AU  - Fu, Huazhu
+AU  - Tao, Dacheng
+AU  - Liu, Bang
+PY  - 2026/8/11
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_079
+TI  - Interactive Drama, Art and Artificial Intelligence
+UR  - https://www.cs.cmu.edu/~dgroup/papers/CMU-CS-02-206.pdf
+N1  - Published attribution: Michael Mateas. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_080
+TI  - The Best Language for AI Agents — What the Benchmarks Actually Say About Language Choice
+UR  - https://kiberonlabs.substack.com/p/the-best-language-for-ai-agents
+N1  - Published attribution: Kiberon Labs. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_081
+TI  - What Is Agentic Engineering?
+UR  - https://ivaaya.com/insights/what-is-agentic-engineering
+N1  - Published attribution: Priyanka Pandey; reviewed by Sanjeev Purohit. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_082
+TI  - What Would a Fair Benchmark for Agent Architecture Look Like?
+UR  - https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/
+N1  - Published attribution: jonah_omninode. Public discussion. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_083
+TI  - Loop Budgeting: Allocating Iteration and Token Budget Across Turns
+UR  - https://agentpatterns.ai/loop-engineering/loop-budgeting/
+N1  - Published attribution: AgentPatterns.ai. Complete author list unresolved; exact published attribution retained. Publication date unresolved; no access or update date substituted.
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_084
+TI  - VHDLSuite: Unified Pipeline for LLM VHDL Generation with Data Synthesis and Evaluation
+UR  - https://arxiv.org/abs/2606.13735
+N1  - Published attribution: Yijun Shen and colleagues. 
+AU  - Shen, Yijun
+AU  - Shao, Minghao
+AU  - Zhao, Yichen
+AU  - Yu, Zhuoyan
+AU  - Chen, Boyuan
+AU  - Tam, Yik-Cheung
+AU  - Shafique, Muhammad
+PY  - 2026/6/11
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_085
+TI  - ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols
+UR  - https://arxiv.org/abs/2506.07945
+N1  - Published attribution: Arnav Sheth, Ivaxi Sheth, and Mario Fritz. 
+AU  - Sheth, Arnav
+AU  - Sheth, Ivaxi
+AU  - Fritz, Mario
+PY  - 2025/6/9
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_086
+TI  - PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification
+UR  - https://arxiv.org/abs/2506.12200
+N1  - Published attribution: Yujie Zhao and colleagues. 
+AU  - Zhao, Yujie
+AU  - Wu, Zhijing
+AU  - Yuan, Boqin
+AU  - Yu, Zhongming
+AU  - Zhang, Hejia
+AU  - Ni, Wentao
+AU  - Ho, Chia-Tung
+AU  - Ren, Haoxing
+AU  - Zhao, Jishen
+PY  - 2025/6/13
+ER  - 
+
+TY  - GEN
+ID  - f080_ref_087
+TI  - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+UR  - https://arxiv.org/abs/2405.15793
+N1  - Published attribution: Yang and colleagues. 
+AU  - Yang, John
+AU  - Jimenez, Carlos E.
+AU  - Wettig, Alexander
+AU  - Lieret, Kilian
+AU  - Yao, Shunyu
+AU  - Narasimhan, Karthik
+AU  - Press, Ofir
+PY  - 2024/5/6
+ER  - 
